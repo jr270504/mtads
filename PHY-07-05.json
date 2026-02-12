@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-07-05",
+  "topic_name": "Relation Between Molar Specific Heat",
+  "unit_id": "PHY-07",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-07-05-MCQ-01",
+      "topic_id": "PHY-07-05",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Relation Between Molar Specific Heat",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Apply the first law of thermodynamics to derive the relation Cp - Cv = R for an ideal gas",
+      "difficulty": "moderate",
+      "learning_outcome": "Apply the first law of thermodynamics to derive the relation Cp - Cv = R for an ideal gas"
+    },
+    {
+      "mcq_id": "PHY-07-05-MCQ-02",
+      "topic_id": "PHY-07-05",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Relation Between Molar Specific Heat",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Apply the first law of thermodynamics to derive the relation Cp - Cv = R for an ideal gas",
+      "difficulty": "moderate",
+      "learning_outcome": "Apply the first law of thermodynamics to derive the relation Cp - Cv = R for an ideal gas"
+    }
+  ]
+}

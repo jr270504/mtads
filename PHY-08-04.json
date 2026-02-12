@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-08-04",
+  "topic_name": "Electric Field Intensity Due to an Infinite Sheet of Charges",
+  "unit_id": "PHY-08",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-08-04-MCQ-01",
+      "topic_id": "PHY-08-04",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Electric Field Intensity Due to an Infinite Sheet of Charges",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize and draw the electric field due to an infinite conducting plate of positive or negative charge",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize and draw the electric field due to an infinite conducting plate of positive or negative charge"
+    },
+    {
+      "mcq_id": "PHY-08-04-MCQ-02",
+      "topic_id": "PHY-08-04",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Electric Field Intensity Due to an Infinite Sheet of Charges",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize and draw the electric field due to an infinite conducting plate of positive or negative charge",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize and draw the electric field due to an infinite conducting plate of positive or negative charge"
+    }
+  ]
+}

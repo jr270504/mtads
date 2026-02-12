@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-08-01",
+  "topic_name": "Coulomb's Law",
+  "unit_id": "PHY-08",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-08-01-MCQ-01",
+      "topic_id": "PHY-08-01",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Coulomb's Law",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Express Coulomb's law and describe that force between two point charges is reduced in a medium other than free space",
+      "difficulty": "moderate",
+      "learning_outcome": "Express Coulomb's law and describe that force between two point charges is reduced in a medium other than free space"
+    },
+    {
+      "mcq_id": "PHY-08-01-MCQ-02",
+      "topic_id": "PHY-08-01",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Coulomb's Law",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Express Coulomb's law and describe that force between two point charges is reduced in a medium other than free space",
+      "difficulty": "moderate",
+      "learning_outcome": "Express Coulomb's law and describe that force between two point charges is reduced in a medium other than free space"
+    }
+  ]
+}

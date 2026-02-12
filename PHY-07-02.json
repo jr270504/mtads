@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-07-02",
+  "topic_name": "Molar Specific Heat of Gas",
+  "unit_id": "PHY-07",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-07-02-MCQ-01",
+      "topic_id": "PHY-07-02",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Molar Specific Heat of Gas",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Differentiate between specific heat and molar specific heat",
+      "difficulty": "moderate",
+      "learning_outcome": "Differentiate between specific heat and molar specific heat"
+    },
+    {
+      "mcq_id": "PHY-07-02-MCQ-02",
+      "topic_id": "PHY-07-02",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Molar Specific Heat of Gas",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Differentiate between specific heat and molar specific heat",
+      "difficulty": "moderate",
+      "learning_outcome": "Differentiate between specific heat and molar specific heat"
+    }
+  ]
+}

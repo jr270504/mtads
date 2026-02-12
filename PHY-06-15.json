@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-06-15",
+  "topic_name": "Simple Harmonic Motion",
+  "unit_id": "PHY-06",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-06-15-MCQ-01",
+      "topic_id": "PHY-06-15",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Simple Harmonic Motion",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Describe simple harmonic motion (SHM) and explain its characteristics",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe simple harmonic motion (SHM) and explain its characteristics"
+    },
+    {
+      "mcq_id": "PHY-06-15-MCQ-02",
+      "topic_id": "PHY-06-15",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Simple Harmonic Motion",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Describe simple harmonic motion (SHM) and explain its characteristics",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe simple harmonic motion (SHM) and explain its characteristics"
+    }
+  ]
+}

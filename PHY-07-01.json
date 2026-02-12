@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-07-01",
+  "topic_name": "Thermal Equilibrium, Heat",
+  "unit_id": "PHY-07",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-07-01-MCQ-01",
+      "topic_id": "PHY-07-01",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Thermal Equilibrium, Heat",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize that thermal energy is transferred from regions of higher temperature to regions of lower temperature",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize that thermal energy is transferred from regions of higher temperature to regions of lower temperature"
+    },
+    {
+      "mcq_id": "PHY-07-01-MCQ-02",
+      "topic_id": "PHY-07-01",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Thermal Equilibrium, Heat",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize that thermal energy is transferred from regions of higher temperature to regions of lower temperature",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize that thermal energy is transferred from regions of higher temperature to regions of lower temperature"
+    }
+  ]
+}
