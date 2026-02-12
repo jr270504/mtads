@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-06-03",
+  "topic_name": "Factors that Affect the Rate of Enzyme Reactions",
+  "unit_id": "BIO-06",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-06-03-MCQ-01",
+      "topic_id": "BIO-06-03",
+      "unit_id": "BIO-06",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Factors that Affect the Rate of Enzyme Reactions",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize how temperature, pH, and concentration affect enzyme activity",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize how temperature, pH, and concentration affect enzyme activity"
+    },
+    {
+      "mcq_id": "BIO-06-03-MCQ-02",
+      "topic_id": "BIO-06-03",
+      "unit_id": "BIO-06",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Factors that Affect the Rate of Enzyme Reactions",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize how temperature, pH, and concentration affect enzyme activity",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize how temperature, pH, and concentration affect enzyme activity"
+    }
+  ]
+}

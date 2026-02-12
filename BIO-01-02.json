@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-01-02",
+  "topic_name": "AIDS and HIV Infection",
+  "unit_id": "BIO-01",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-01-02-MCQ-01",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "HIV primarily attacks which type of cells in the human immune system?",
+      "options": [
+        "Red blood cells",
+        "CD4+ T helper cells",
+        "Platelets",
+        "Neutrophils"
+      ],
+      "correct_answer": 1,
+      "explanation": "HIV targets and destroys CD4+ T helper cells, which are crucial for coordinating immune responses.",
+      "difficulty": "moderate",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    },
+    {
+      "mcq_id": "BIO-01-02-MCQ-02",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Which of the following is NOT a common mode of HIV transmission?",
+      "options": [
+        "Unprotected sexual contact",
+        "Sharing contaminated needles",
+        "Mosquito bites",
+        "Mother to child during birth"
+      ],
+      "correct_answer": 2,
+      "explanation": "HIV is not transmitted through mosquito bites. It spreads through direct contact with infected blood, sexual fluids, or from mother to child.",
+      "difficulty": "easy",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    }
+  ]
+}

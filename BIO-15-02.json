@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-15-02",
+  "topic_name": "Thermoregulation",
+  "unit_id": "BIO-15",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-15-02-MCQ-01",
+      "topic_id": "BIO-15-02",
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Thermoregulation",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize thermoregulation and explain its necessity",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize thermoregulation and explain its necessity"
+    },
+    {
+      "mcq_id": "BIO-15-02-MCQ-02",
+      "topic_id": "BIO-15-02",
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Thermoregulation",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize thermoregulation and explain its necessity",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize thermoregulation and explain its necessity"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-03-01",
+  "topic_name": "Biological Molecules",
+  "unit_id": "BIO-03",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-03-01-MCQ-01",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Biological Molecules",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Provide definitions and classification schemes for biological molecules",
+      "difficulty": "moderate",
+      "learning_outcome": "Provide definitions and classification schemes for biological molecules"
+    },
+    {
+      "mcq_id": "BIO-03-01-MCQ-02",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Biological Molecules",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Provide definitions and classification schemes for biological molecules",
+      "difficulty": "moderate",
+      "learning_outcome": "Provide definitions and classification schemes for biological molecules"
+    }
+  ]
+}

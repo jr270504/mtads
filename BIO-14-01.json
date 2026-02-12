@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-14-01",
+  "topic_name": "Human Digestive System",
+  "unit_id": "BIO-14",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-14-01-MCQ-01",
+      "topic_id": "BIO-14-01",
+      "unit_id": "BIO-14",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Human Digestive System",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize the components of the human digestive system",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize the components of the human digestive system"
+    },
+    {
+      "mcq_id": "BIO-14-01-MCQ-02",
+      "topic_id": "BIO-14-01",
+      "unit_id": "BIO-14",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Human Digestive System",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize the components of the human digestive system",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize the components of the human digestive system"
+    }
+  ]
+}

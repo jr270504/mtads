@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-11-02",
+  "topic_name": "Cardiac Cycle and Phases of Heartbeat",
+  "unit_id": "BIO-11",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-11-02-MCQ-01",
+      "topic_id": "BIO-11-02",
+      "unit_id": "BIO-11",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Cardiac Cycle and Phases of Heartbeat",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize the phases of the heartbeat",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize the phases of the heartbeat"
+    },
+    {
+      "mcq_id": "BIO-11-02-MCQ-02",
+      "topic_id": "BIO-11-02",
+      "unit_id": "BIO-11",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Cardiac Cycle and Phases of Heartbeat",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize the phases of the heartbeat",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize the phases of the heartbeat"
+    }
+  ]
+}

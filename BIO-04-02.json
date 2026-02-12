@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-04-02",
+  "topic_name": "Prokaryotic and Eukaryotic Cell",
+  "unit_id": "BIO-04",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-04-02-MCQ-01",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Prokaryotic and Eukaryotic Cell",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Distinguish between the structural characteristics of prokaryotic and eukaryotic cells",
+      "difficulty": "moderate",
+      "learning_outcome": "Distinguish between the structural characteristics of prokaryotic and eukaryotic cells"
+    },
+    {
+      "mcq_id": "BIO-04-02-MCQ-02",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Prokaryotic and Eukaryotic Cell",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Distinguish between the structural characteristics of prokaryotic and eukaryotic cells",
+      "difficulty": "moderate",
+      "learning_outcome": "Distinguish between the structural characteristics of prokaryotic and eukaryotic cells"
+    }
+  ]
+}

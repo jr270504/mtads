@@ -1,0 +1,370 @@
+{
+  "units": [
+    {
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "unit_number": 1,
+      "unit_name": "Acellular Life"
+    },
+    {
+      "unit_id": "BIO-02",
+      "subject_id": "BIO",
+      "unit_number": 2,
+      "unit_name": "Bioenergetics"
+    },
+    {
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "unit_number": 3,
+      "unit_name": "Biological Molecules"
+    },
+    {
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "unit_number": 4,
+      "unit_name": "Cell Structure & Function"
+    },
+    {
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "unit_number": 5,
+      "unit_name": "Coordination & Control / Nervous & Chemical Coordination"
+    },
+    {
+      "unit_id": "BIO-06",
+      "subject_id": "BIO",
+      "unit_number": 6,
+      "unit_name": "Enzymes"
+    },
+    {
+      "unit_id": "BIO-07",
+      "subject_id": "BIO",
+      "unit_number": 7,
+      "unit_name": "Evolution"
+    },
+    {
+      "unit_id": "BIO-08",
+      "subject_id": "BIO",
+      "unit_number": 8,
+      "unit_name": "Reproduction"
+    },
+    {
+      "unit_id": "BIO-09",
+      "subject_id": "BIO",
+      "unit_number": 9,
+      "unit_name": "Support & Movement"
+    },
+    {
+      "unit_id": "BIO-10",
+      "subject_id": "BIO",
+      "unit_number": 10,
+      "unit_name": "Inheritance"
+    },
+    {
+      "unit_id": "BIO-11",
+      "subject_id": "BIO",
+      "unit_number": 11,
+      "unit_name": "Circulation"
+    },
+    {
+      "unit_id": "BIO-12",
+      "subject_id": "BIO",
+      "unit_number": 12,
+      "unit_name": "Immunity"
+    },
+    {
+      "unit_id": "BIO-13",
+      "subject_id": "BIO",
+      "unit_number": 13,
+      "unit_name": "Respiration"
+    },
+    {
+      "unit_id": "BIO-14",
+      "subject_id": "BIO",
+      "unit_number": 14,
+      "unit_name": "Digestion"
+    },
+    {
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "unit_number": 15,
+      "unit_name": "Homeostasis"
+    },
+    {
+      "unit_id": "BIO-16",
+      "subject_id": "BIO",
+      "unit_number": 16,
+      "unit_name": "Biotechnology"
+    },
+    {
+      "unit_id": "CHEM-01",
+      "subject_id": "CHEM",
+      "unit_number": 1,
+      "unit_name": "Introduction of Fundamentals Concept of Chemistry"
+    },
+    {
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "unit_number": 2,
+      "unit_name": "Atomic Structure"
+    },
+    {
+      "unit_id": "CHEM-03",
+      "subject_id": "CHEM",
+      "unit_number": 3,
+      "unit_name": "Gases"
+    },
+    {
+      "unit_id": "CHEM-04",
+      "subject_id": "CHEM",
+      "unit_number": 4,
+      "unit_name": "Liquids"
+    },
+    {
+      "unit_id": "CHEM-05",
+      "subject_id": "CHEM",
+      "unit_number": 5,
+      "unit_name": "Solid"
+    },
+    {
+      "unit_id": "CHEM-06",
+      "subject_id": "CHEM",
+      "unit_number": 6,
+      "unit_name": "Chemical Equilibrium"
+    },
+    {
+      "unit_id": "CHEM-07",
+      "subject_id": "CHEM",
+      "unit_number": 7,
+      "unit_name": "Reaction Kinetics"
+    },
+    {
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "unit_number": 8,
+      "unit_name": "Thermo Chemistry and Energetics of Chemical Reaction"
+    },
+    {
+      "unit_id": "CHEM-09",
+      "subject_id": "CHEM",
+      "unit_number": 9,
+      "unit_name": "Electrochemistry"
+    },
+    {
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "unit_number": 10,
+      "unit_name": "Chemical Bonding"
+    },
+    {
+      "unit_id": "CHEM-11",
+      "subject_id": "CHEM",
+      "unit_number": 11,
+      "unit_name": "S- and P- Block Elements"
+    },
+    {
+      "unit_id": "CHEM-12",
+      "subject_id": "CHEM",
+      "unit_number": 12,
+      "unit_name": "Transition Elements"
+    },
+    {
+      "unit_id": "CHEM-13",
+      "subject_id": "CHEM",
+      "unit_number": 13,
+      "unit_name": "Fundamental Principles of Organic Chemistry"
+    },
+    {
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "unit_number": 14,
+      "unit_name": "Chemistry of Hydrocarbons"
+    },
+    {
+      "unit_id": "CHEM-15",
+      "subject_id": "CHEM",
+      "unit_number": 15,
+      "unit_name": "Alkyl Halides"
+    },
+    {
+      "unit_id": "CHEM-16",
+      "subject_id": "CHEM",
+      "unit_number": 16,
+      "unit_name": "Alcohols and Phenols"
+    },
+    {
+      "unit_id": "CHEM-17",
+      "subject_id": "CHEM",
+      "unit_number": 17,
+      "unit_name": "Aldehydes and Ketones"
+    },
+    {
+      "unit_id": "CHEM-18",
+      "subject_id": "CHEM",
+      "unit_number": 18,
+      "unit_name": "Carboxylic Acids"
+    },
+    {
+      "unit_id": "CHEM-19",
+      "subject_id": "CHEM",
+      "unit_number": 19,
+      "unit_name": "Macro Molecules"
+    },
+    {
+      "unit_id": "CHEM-20",
+      "subject_id": "CHEM",
+      "unit_number": 20,
+      "unit_name": "Industrial Chemistry"
+    },
+    {
+      "unit_id": "PHY-01",
+      "subject_id": "PHY",
+      "unit_number": 1,
+      "unit_name": "Vectors and Equilibrium"
+    },
+    {
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "unit_number": 2,
+      "unit_name": "Force and Motion"
+    },
+    {
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "unit_number": 3,
+      "unit_name": "Work and Energy"
+    },
+    {
+      "unit_id": "PHY-04",
+      "subject_id": "PHY",
+      "unit_number": 4,
+      "unit_name": "Rotational and Circular Motion"
+    },
+    {
+      "unit_id": "PHY-05",
+      "subject_id": "PHY",
+      "unit_number": 5,
+      "unit_name": "Fluid Dynamics"
+    },
+    {
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "unit_number": 6,
+      "unit_name": "Waves"
+    },
+    {
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "unit_number": 7,
+      "unit_name": "Thermodynamics"
+    },
+    {
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "unit_number": 8,
+      "unit_name": "Electrostatics"
+    },
+    {
+      "unit_id": "PHY-09",
+      "subject_id": "PHY",
+      "unit_number": 9,
+      "unit_name": "Current Electricity"
+    },
+    {
+      "unit_id": "PHY-10",
+      "subject_id": "PHY",
+      "unit_number": 10,
+      "unit_name": "Electromagnetism"
+    },
+    {
+      "unit_id": "PHY-11",
+      "subject_id": "PHY",
+      "unit_number": 11,
+      "unit_name": "Electromagnetic Induction"
+    },
+    {
+      "unit_id": "PHY-12",
+      "subject_id": "PHY",
+      "unit_number": 12,
+      "unit_name": "Alternating Current"
+    },
+    {
+      "unit_id": "PHY-13",
+      "subject_id": "PHY",
+      "unit_number": 13,
+      "unit_name": "Electronics"
+    },
+    {
+      "unit_id": "PHY-14",
+      "subject_id": "PHY",
+      "unit_number": 14,
+      "unit_name": "Dawn of Modern Physics"
+    },
+    {
+      "unit_id": "PHY-15",
+      "subject_id": "PHY",
+      "unit_number": 15,
+      "unit_name": "Atomic Spectra"
+    },
+    {
+      "unit_id": "PHY-16",
+      "subject_id": "PHY",
+      "unit_number": 16,
+      "unit_name": "Nuclear Physics"
+    },
+    {
+      "unit_id": "ENG-01",
+      "subject_id": "ENG",
+      "unit_number": 1,
+      "unit_name": "Reading and Thinking Skills"
+    },
+    {
+      "unit_id": "ENG-02",
+      "subject_id": "ENG",
+      "unit_number": 2,
+      "unit_name": "Formal and Lexical Aspect of Language"
+    },
+    {
+      "unit_id": "ENG-03",
+      "subject_id": "ENG",
+      "unit_number": 3,
+      "unit_name": "Writing Skills"
+    },
+    {
+      "unit_id": "LOG-01",
+      "subject_id": "LOG",
+      "unit_number": 1,
+      "unit_name": "Critical Thinking"
+    },
+    {
+      "unit_id": "LOG-02",
+      "subject_id": "LOG",
+      "unit_number": 2,
+      "unit_name": "Letter and Symbols Series"
+    },
+    {
+      "unit_id": "LOG-03",
+      "subject_id": "LOG",
+      "unit_number": 3,
+      "unit_name": "Logical Deductions"
+    },
+    {
+      "unit_id": "LOG-04",
+      "subject_id": "LOG",
+      "unit_number": 4,
+      "unit_name": "Logical Problems"
+    },
+    {
+      "unit_id": "LOG-05",
+      "subject_id": "LOG",
+      "unit_number": 5,
+      "unit_name": "Course of Action"
+    },
+    {
+      "unit_id": "LOG-06",
+      "subject_id": "LOG",
+      "unit_number": 6,
+      "unit_name": "Cause and Effect"
+    }
+  ]
+}

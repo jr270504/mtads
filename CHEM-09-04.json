@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-09-04",
+  "topic_name": "Standard Hydrogen Electrode (SHE)",
+  "unit_id": "CHEM-09",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-09-04-MCQ-01",
+      "topic_id": "CHEM-09-04",
+      "unit_id": "CHEM-09",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Standard Hydrogen Electrode (SHE)",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Define cathode, anode, electrode potential, and standard hydrogen electrode",
+      "difficulty": "moderate",
+      "learning_outcome": "Define cathode, anode, electrode potential, and standard hydrogen electrode"
+    },
+    {
+      "mcq_id": "CHEM-09-04-MCQ-02",
+      "topic_id": "CHEM-09-04",
+      "unit_id": "CHEM-09",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Standard Hydrogen Electrode (SHE)",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Define cathode, anode, electrode potential, and standard hydrogen electrode",
+      "difficulty": "moderate",
+      "learning_outcome": "Define cathode, anode, electrode potential, and standard hydrogen electrode"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-01-01",
+  "topic_name": "Viruses",
+  "unit_id": "BIO-01",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-01-01-MCQ-01",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Which of the following characteristics is used to classify viruses?",
+      "options": [
+        "Cell wall composition",
+        "Type and number of nucleic acid strands",
+        "Presence of mitochondria",
+        "Mode of photosynthesis"
+      ],
+      "correct_answer": 1,
+      "explanation": "Viruses are classified based on their structural characteristics including the type of nucleic acid (DNA or RNA) and whether it is single-stranded or double-stranded. Viruses do not have cell walls, mitochondria, or perform photosynthesis as they are acellular.",
+      "difficulty": "moderate",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    },
+    {
+      "mcq_id": "BIO-01-01-MCQ-02",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Bacteriophages are viruses that specifically infect:",
+      "options": [
+        "Plant cells",
+        "Animal cells",
+        "Bacterial cells",
+        "Fungal cells"
+      ],
+      "correct_answer": 2,
+      "explanation": "Bacteriophages (or phages) are viruses that specifically infect and replicate within bacterial cells. The classification of viruses by host organisms is one method of categorization.",
+      "difficulty": "easy",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    }
+  ]
+}

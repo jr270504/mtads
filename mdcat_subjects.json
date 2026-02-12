@@ -1,0 +1,54 @@
+{
+  "exam_info": {
+    "name": "MDCAT - Medical and Dental Colleges Admission Test",
+    "year": 2025,
+    "total_questions": 180,
+    "duration_hours": 3,
+    "format": "Paper-based MCQs",
+    "min_pass_medical": "55%",
+    "min_pass_dental": "50%",
+    "negative_marking": false,
+    "difficulty_distribution": {
+      "easy": "15%",
+      "moderate": "70%",
+      "difficult": "15%"
+    }
+  },
+  "subjects": [
+    {
+      "subject_id": "BIO",
+      "subject_name": "Biology",
+      "weightage_percentage": 45,
+      "number_of_questions": 81,
+      "total_units": 16
+    },
+    {
+      "subject_id": "CHEM",
+      "subject_name": "Chemistry",
+      "weightage_percentage": 25,
+      "number_of_questions": 45,
+      "total_units": 20
+    },
+    {
+      "subject_id": "PHY",
+      "subject_name": "Physics",
+      "weightage_percentage": 20,
+      "number_of_questions": 36,
+      "total_units": 16
+    },
+    {
+      "subject_id": "ENG",
+      "subject_name": "English",
+      "weightage_percentage": 5,
+      "number_of_questions": 9,
+      "total_units": 3
+    },
+    {
+      "subject_id": "LOG",
+      "subject_name": "Logical Reasoning",
+      "weightage_percentage": 5,
+      "number_of_questions": 9,
+      "total_units": 6
+    }
+  ]
+}

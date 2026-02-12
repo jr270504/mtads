@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-05-01",
+  "topic_name": "Receptors",
+  "unit_id": "BIO-05",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-05-01-MCQ-01",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Receptors",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Identify receptors as transducers that respond to diverse stimuli",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify receptors as transducers that respond to diverse stimuli"
+    },
+    {
+      "mcq_id": "BIO-05-01-MCQ-02",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Receptors",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Identify receptors as transducers that respond to diverse stimuli",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify receptors as transducers that respond to diverse stimuli"
+    }
+  ]
+}

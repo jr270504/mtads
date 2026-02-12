@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-02-05",
+  "topic_name": "Spectrum of Hydrogen",
+  "unit_id": "CHEM-02",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-02-05-MCQ-01",
+      "topic_id": "CHEM-02-05",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Spectrum of Hydrogen",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize the hydrogen atom using quantum theory",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize the hydrogen atom using quantum theory"
+    },
+    {
+      "mcq_id": "CHEM-02-05-MCQ-02",
+      "topic_id": "CHEM-02-05",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Spectrum of Hydrogen",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize the hydrogen atom using quantum theory",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize the hydrogen atom using quantum theory"
+    }
+  ]
+}

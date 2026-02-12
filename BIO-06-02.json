@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-06-02",
+  "topic_name": "Mode of Enzyme Action",
+  "unit_id": "BIO-06",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-06-02-MCQ-01",
+      "topic_id": "BIO-06-02",
+      "unit_id": "BIO-06",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Mode of Enzyme Action",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Describe the mechanism by which enzymes catalyze reactions",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the mechanism by which enzymes catalyze reactions"
+    },
+    {
+      "mcq_id": "BIO-06-02-MCQ-02",
+      "topic_id": "BIO-06-02",
+      "unit_id": "BIO-06",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Mode of Enzyme Action",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Describe the mechanism by which enzymes catalyze reactions",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the mechanism by which enzymes catalyze reactions"
+    }
+  ]
+}

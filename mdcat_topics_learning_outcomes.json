@@ -1,0 +1,2232 @@
+{
+  "topics": [
+    {
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "topic_name": "Viruses",
+      "learning_outcomes": [
+        "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+      ]
+    },
+    {
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "topic_name": "AIDS and HIV Infection",
+      "learning_outcomes": [
+        "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+      ]
+    },
+    {
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-02",
+      "subject_id": "BIO",
+      "topic_name": "Respiration",
+      "learning_outcomes": [
+        "Summarize the cellular respiration pathways for proteins and fats, comparing them to glucose metabolism"
+      ]
+    },
+    {
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "topic_name": "Biological Molecules",
+      "learning_outcomes": [
+        "Provide definitions and classification schemes for biological molecules",
+        "Explain the significance of biological molecules in living systems"
+      ]
+    },
+    {
+      "topic_id": "BIO-03-02",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "topic_name": "Biological Importance of Water",
+      "learning_outcomes": [
+        "Characterize biologically significant properties of water including polarity, hydrolysis, specific heat capacity, solvent capability, reagent function, density, cohesion, and ionization"
+      ]
+    },
+    {
+      "topic_id": "BIO-03-03",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "topic_name": "Carbohydrates",
+      "learning_outcomes": [
+        "Explain carbohydrates including monosaccharides such as glucose, oligosaccharides such as sucrose and lactose, and polysaccharides including starches, cellulose, and glycogen"
+      ]
+    },
+    {
+      "topic_id": "BIO-03-04",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "topic_name": "Proteins",
+      "learning_outcomes": [
+        "Characterize proteins focusing on amino acid composition and structural organization"
+      ]
+    },
+    {
+      "topic_id": "BIO-03-05",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "topic_name": "Lipids",
+      "learning_outcomes": [
+        "Characterize lipids including phospholipids, triglycerides, and esters such as acylglycerol"
+      ]
+    },
+    {
+      "topic_id": "BIO-03-06",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "topic_name": "Ribonucleic Acid (RNA)",
+      "learning_outcomes": [
+        "Provide an overview of RNA structure and function"
+      ]
+    },
+    {
+      "topic_id": "BIO-03-07",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "topic_name": "Conjugated Molecules",
+      "learning_outcomes": [
+        "Explain conjugated molecules including glycolipids and glycoproteins"
+      ]
+    },
+    {
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "topic_name": "Structure of DNA",
+      "learning_outcomes": [
+        "Describe the Watson-Crick double helix model of DNA structure",
+        "Identify a gene as a nucleotide sequence within DNA that encodes for polypeptide formation"
+      ]
+    },
+    {
+      "topic_id": "BIO-04-01",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "topic_name": "Cell Structure",
+      "learning_outcomes": [
+        "Contrast the structural features of typical animal and plant cells"
+      ]
+    },
+    {
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "topic_name": "Prokaryotic and Eukaryotic Cell",
+      "learning_outcomes": [
+        "Distinguish between the structural characteristics of prokaryotic and eukaryotic cells"
+      ]
+    },
+    {
+      "topic_id": "BIO-04-03",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "topic_name": "Cytoplasmic Organelles",
+      "learning_outcomes": [
+        "Detail the structure and function of nucleus, endoplasmic reticulum, Golgi apparatus, and mitochondria"
+      ]
+    },
+    {
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "topic_name": "Chromosomes",
+      "learning_outcomes": [
+        "Characterize chromosome structure, chemical composition, and functional role"
+      ]
+    },
+    {
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "topic_name": "Receptors",
+      "learning_outcomes": [
+        "Identify receptors as transducers that respond to diverse stimuli"
+      ]
+    },
+    {
+      "topic_id": "BIO-05-02",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "topic_name": "Neurons",
+      "learning_outcomes": [
+        "Describe the structural components of a typical neuron including cell body, dendrites, axon, and myelin sheath",
+        "Provide a definition of nerve impulse",
+        "Categorize different types of reflexes",
+        "Explain the functional roles of reflex arc components"
+      ]
+    },
+    {
+      "topic_id": "BIO-05-03",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "topic_name": "Brain",
+      "learning_outcomes": [
+        "Explain the major divisions of the brain including brain stem components, midbrain, cerebellum, and cerebrum",
+        "Characterize the functions of each brain region"
+      ]
+    },
+    {
+      "topic_id": "BIO-06-01",
+      "unit_id": "BIO-06",
+      "subject_id": "BIO",
+      "topic_name": "Enzymes",
+      "learning_outcomes": [
+        "Characterize the distinguishing properties of enzymes"
+      ]
+    },
+    {
+      "topic_id": "BIO-06-02",
+      "unit_id": "BIO-06",
+      "subject_id": "BIO",
+      "topic_name": "Mode of Enzyme Action",
+      "learning_outcomes": [
+        "Describe the mechanism by which enzymes catalyze reactions"
+      ]
+    },
+    {
+      "topic_id": "BIO-06-03",
+      "unit_id": "BIO-06",
+      "subject_id": "BIO",
+      "topic_name": "Factors that Affect the Rate of Enzyme Reactions",
+      "learning_outcomes": [
+        "Characterize how temperature, pH, and concentration affect enzyme activity"
+      ]
+    },
+    {
+      "topic_id": "BIO-06-04",
+      "unit_id": "BIO-06",
+      "subject_id": "BIO",
+      "topic_name": "Inhibitors",
+      "learning_outcomes": [
+        "Characterize enzyme inhibitors and their effects"
+      ]
+    },
+    {
+      "topic_id": "BIO-07-01",
+      "unit_id": "BIO-07",
+      "subject_id": "BIO",
+      "topic_name": "Concept of Evolution",
+      "learning_outcomes": [
+        "Describe the origin of life according to evolutionary concepts"
+      ]
+    },
+    {
+      "topic_id": "BIO-07-02",
+      "unit_id": "BIO-07",
+      "subject_id": "BIO",
+      "topic_name": "Lamarckism",
+      "learning_outcomes": [
+        "Characterize Lamarck's theory of inheritance of acquired characteristics"
+      ]
+    },
+    {
+      "topic_id": "BIO-07-03",
+      "unit_id": "BIO-07",
+      "subject_id": "BIO",
+      "topic_name": "Darwinism",
+      "learning_outcomes": [
+        "Describe Darwin's theory of natural selection"
+      ]
+    },
+    {
+      "topic_id": "BIO-08-01",
+      "unit_id": "BIO-08",
+      "subject_id": "BIO",
+      "topic_name": "Human Reproductive System",
+      "learning_outcomes": [
+        "Characterize the functions of male and female reproductive system components and their regulatory hormones"
+      ]
+    },
+    {
+      "topic_id": "BIO-08-02",
+      "unit_id": "BIO-08",
+      "subject_id": "BIO",
+      "topic_name": "Menstrual Cycle",
+      "learning_outcomes": [
+        "Characterize the menstrual cycle with emphasis on hormonal regulation"
+      ]
+    },
+    {
+      "topic_id": "BIO-08-03",
+      "unit_id": "BIO-08",
+      "subject_id": "BIO",
+      "topic_name": "Sexually Transmitted Diseases",
+      "learning_outcomes": [
+        "Identify common sexually transmitted diseases, their causative agents, and primary symptoms"
+      ]
+    },
+    {
+      "topic_id": "BIO-09-01",
+      "unit_id": "BIO-09",
+      "subject_id": "BIO",
+      "topic_name": "Human Skeleton",
+      "learning_outcomes": [
+        "Characterize cartilage, muscle, and bone",
+        "Describe the primary characteristics and functions of cartilage and bone"
+      ]
+    },
+    {
+      "topic_id": "BIO-09-02",
+      "unit_id": "BIO-09",
+      "subject_id": "BIO",
+      "topic_name": "Muscles",
+      "learning_outcomes": [
+        "Contrast the characteristics of smooth, cardiac, and skeletal muscles"
+      ]
+    },
+    {
+      "topic_id": "BIO-09-03",
+      "unit_id": "BIO-09",
+      "subject_id": "BIO",
+      "topic_name": "Skeletal Muscles",
+      "learning_outcomes": [
+        "Describe the ultrastructure of skeletal muscle tissue"
+      ]
+    },
+    {
+      "topic_id": "BIO-09-04",
+      "unit_id": "BIO-09",
+      "subject_id": "BIO",
+      "topic_name": "Muscle Contraction",
+      "learning_outcomes": [
+        "Provide a concise description of the skeletal muscle contraction mechanism"
+      ]
+    },
+    {
+      "topic_id": "BIO-09-05",
+      "unit_id": "BIO-09",
+      "subject_id": "BIO",
+      "topic_name": "Joints",
+      "learning_outcomes": [
+        "Categorize different types of joints"
+      ]
+    },
+    {
+      "topic_id": "BIO-09-06",
+      "unit_id": "BIO-09",
+      "subject_id": "BIO",
+      "topic_name": "Arthritis",
+      "learning_outcomes": [
+        "Provide a definition of arthritis"
+      ]
+    },
+    {
+      "topic_id": "BIO-10-01",
+      "unit_id": "BIO-10",
+      "subject_id": "BIO",
+      "topic_name": "Mendel's Laws of Inheritance",
+      "learning_outcomes": [
+        "Connect inheritance patterns to Mendel's laws",
+        "Describe the law of independent assortment using appropriate examples"
+      ]
+    },
+    {
+      "topic_id": "BIO-10-02",
+      "unit_id": "BIO-10",
+      "subject_id": "BIO",
+      "topic_name": "Gene Linkage and Crossing Over",
+      "learning_outcomes": [
+        "Characterize gene linkage and crossing over",
+        "Describe how gene linkage opposes independent assortment and how crossing over alters offspring characteristics"
+      ]
+    },
+    {
+      "topic_id": "BIO-10-03",
+      "unit_id": "BIO-10",
+      "subject_id": "BIO",
+      "topic_name": "X-linked Recessive Inheritance",
+      "learning_outcomes": [
+        "Characterize the concept of sex-linkage",
+        "Provide a concise description of sex-linked trait inheritance",
+        "Examine the inheritance pattern of hemophilia"
+      ]
+    },
+    {
+      "topic_id": "BIO-11-01",
+      "unit_id": "BIO-11",
+      "subject_id": "BIO",
+      "topic_name": "Human Heart",
+      "learning_outcomes": [
+        "Explain the general structure of the human heart"
+      ]
+    },
+    {
+      "topic_id": "BIO-11-02",
+      "unit_id": "BIO-11",
+      "subject_id": "BIO",
+      "topic_name": "Cardiac Cycle and Phases of Heartbeat",
+      "learning_outcomes": [
+        "Characterize the phases of the heartbeat"
+      ]
+    },
+    {
+      "topic_id": "BIO-11-03",
+      "unit_id": "BIO-11",
+      "subject_id": "BIO",
+      "topic_name": "Blood Vessels",
+      "learning_outcomes": [
+        "Enumerate the differences and functions of arteries, veins, and capillaries"
+      ]
+    },
+    {
+      "topic_id": "BIO-11-04",
+      "unit_id": "BIO-11",
+      "subject_id": "BIO",
+      "topic_name": "Lymphatic System",
+      "learning_outcomes": [
+        "Characterize the lymphatic system including nodes, vessels, and organs"
+      ]
+    },
+    {
+      "topic_id": "BIO-12-01",
+      "unit_id": "BIO-12",
+      "subject_id": "BIO",
+      "topic_name": "Specific Defense Mechanism",
+      "learning_outcomes": [
+        "Provide definitions and explain the functions and importance of specific defense mechanisms"
+      ]
+    },
+    {
+      "topic_id": "BIO-13-01",
+      "unit_id": "BIO-13",
+      "subject_id": "BIO",
+      "topic_name": "Human Respiratory System",
+      "learning_outcomes": [
+        "Explain the functions of the main components of the respiratory system",
+        "Explain the gas exchange process in human lungs",
+        "Explain the effects of smoking on the respiratory system"
+      ]
+    },
+    {
+      "topic_id": "BIO-14-01",
+      "unit_id": "BIO-14",
+      "subject_id": "BIO",
+      "topic_name": "Human Digestive System",
+      "learning_outcomes": [
+        "Characterize the components of the human digestive system",
+        "Describe the functions of the main digestive organs including associated structures and glands"
+      ]
+    },
+    {
+      "topic_id": "BIO-15-01",
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "topic_name": "Homeostasis (Kidney Specifically)",
+      "learning_outcomes": [
+        "Describe the components of the urinary system and relate kidney structure to its function",
+        "Describe the processes of glomerular filtration, selective reabsorption, and tubular secretion in kidney function",
+        "Explain how kidneys function in both excretion and osmoregulation",
+        "Contrast the function of glomerular capillaries and peritubular capillaries in the kidney",
+        "Describe the causes and treatments of kidney stones",
+        "Identify the causes of kidney failure"
+      ]
+    },
+    {
+      "topic_id": "BIO-15-02",
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "topic_name": "Thermoregulation",
+      "learning_outcomes": [
+        "Characterize thermoregulation and explain its necessity"
+      ]
+    },
+    {
+      "topic_id": "BIO-15-03",
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "topic_name": "Excretion",
+      "learning_outcomes": [
+        "Identify various nitrogenous compounds eliminated during excretion"
+      ]
+    },
+    {
+      "topic_id": "BIO-16-01",
+      "unit_id": "BIO-16",
+      "subject_id": "BIO",
+      "topic_name": "Biotechnology and Health Care",
+      "learning_outcomes": [
+        "Characterize how biotechnologists address health problems through vaccine production",
+        "Explain the role of biotechnology in disease diagnosis using DNA/RNA probes and monoclonal antibodies",
+        "Characterize products obtained by biotechnologists for disease treatment"
+      ]
+    },
+    {
+      "topic_id": "CHEM-01-01",
+      "unit_id": "CHEM-01",
+      "subject_id": "CHEM",
+      "topic_name": "Moles and Avogadro's Numbers",
+      "learning_outcomes": [
+        "Develop mole ratios from balanced equations for use as conversion factors in stoichiometric calculations",
+        "Execute stoichiometric calculations with balanced equations using moles, representative particles, masses, and gas volumes at standard temperature"
+      ]
+    },
+    {
+      "topic_id": "CHEM-01-02",
+      "unit_id": "CHEM-01",
+      "subject_id": "CHEM",
+      "topic_name": "Limiting and Excess Reactants",
+      "learning_outcomes": [
+        "Describe the limiting reagent concept in chemical reactions",
+        "Determine the maximum amount of products formed and the quantity of any unreacted excess reagent"
+      ]
+    },
+    {
+      "topic_id": "CHEM-01-03",
+      "unit_id": "CHEM-01",
+      "subject_id": "CHEM",
+      "topic_name": "Yield",
+      "learning_outcomes": [
+        "When provided with information to determine any two of the following, calculate the third: theoretical yield, actual yield, percentage yield",
+        "Determine the theoretical yield and percent yield given the balanced equation, reactant amounts, and actual yield"
+      ]
+    },
+    {
+      "topic_id": "CHEM-02-01",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "topic_name": "Discovery of Proton",
+      "learning_outcomes": [
+        "Characterize the discovery and properties of protons (positive rays)"
+      ]
+    },
+    {
+      "topic_id": "CHEM-02-02",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "topic_name": "Planck's Quantum Theory",
+      "learning_outcomes": [
+        "Identify a photon as a unit of radiation energy"
+      ]
+    },
+    {
+      "topic_id": "CHEM-02-03",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "topic_name": "Quantum Number",
+      "learning_outcomes": [
+        "Characterize the concept of orbitals",
+        "Differentiate among principal energy level, energy sub-level, and atomic orbitals"
+      ]
+    },
+    {
+      "topic_id": "CHEM-02-04",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "topic_name": "Shapes of Orbitals",
+      "learning_outcomes": [
+        "Characterize the general shapes of s, p, and d orbitals"
+      ]
+    },
+    {
+      "topic_id": "CHEM-02-05",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "topic_name": "Spectrum of Hydrogen",
+      "learning_outcomes": [
+        "Characterize the hydrogen atom using quantum theory"
+      ]
+    },
+    {
+      "topic_id": "CHEM-02-06",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "topic_name": "Electronic Configuration",
+      "learning_outcomes": [
+        "Apply the Aufbau principle, Pauli Exclusion Principle, and Hund's Rule to write electronic configurations of atoms",
+        "Write the electronic configuration of atoms"
+      ]
+    },
+    {
+      "topic_id": "CHEM-03-01",
+      "unit_id": "CHEM-03",
+      "subject_id": "CHEM",
+      "topic_name": "Kinetic Molecular Theory",
+      "learning_outcomes": [
+        "Enumerate the postulates of Kinetic Molecular Theory",
+        "Characterize the motion of gas particles according to kinetic theory"
+      ]
+    },
+    {
+      "topic_id": "CHEM-03-02",
+      "unit_id": "CHEM-03",
+      "subject_id": "CHEM",
+      "topic_name": "Standard Temperature and Pressure (STP)",
+      "learning_outcomes": [
+        "Specify the values of standard temperature and pressure"
+      ]
+    },
+    {
+      "topic_id": "CHEM-03-03",
+      "unit_id": "CHEM-03",
+      "subject_id": "CHEM",
+      "topic_name": "Boyle's Law",
+      "learning_outcomes": [
+        "Characterize the effect of pressure changes on gas volume"
+      ]
+    },
+    {
+      "topic_id": "CHEM-03-04",
+      "unit_id": "CHEM-03",
+      "subject_id": "CHEM",
+      "topic_name": "Charles's Law",
+      "learning_outcomes": [
+        "Characterize the effect of temperature changes on gas volume"
+      ]
+    },
+    {
+      "topic_id": "CHEM-03-05",
+      "unit_id": "CHEM-03",
+      "subject_id": "CHEM",
+      "topic_name": "Absolute Zero",
+      "learning_outcomes": [
+        "Describe the significance of absolute zero and specify its value in degrees"
+      ]
+    },
+    {
+      "topic_id": "CHEM-03-06",
+      "unit_id": "CHEM-03",
+      "subject_id": "CHEM",
+      "topic_name": "Ideal Gas Equation",
+      "learning_outcomes": [
+        "Derive the ideal gas equation using Boyle's Law, Charles's Law, and Avogadro's Law"
+      ]
+    },
+    {
+      "topic_id": "CHEM-03-07",
+      "unit_id": "CHEM-03",
+      "subject_id": "CHEM",
+      "topic_name": "Unit of R",
+      "learning_outcomes": [
+        "Describe the significance and different units of the ideal gas constant"
+      ]
+    },
+    {
+      "topic_id": "CHEM-03-08",
+      "unit_id": "CHEM-03",
+      "subject_id": "CHEM",
+      "topic_name": "Real and Ideal Gas",
+      "learning_outcomes": [
+        "Differentiate between real and ideal gases"
+      ]
+    },
+    {
+      "topic_id": "CHEM-04-01",
+      "unit_id": "CHEM-04",
+      "subject_id": "CHEM",
+      "topic_name": "Properties of Liquids Based on Kinetic Molecular Theory",
+      "learning_outcomes": [
+        "Characterize simple properties of liquids such as diffusion, compression, expansion, molecular motion, intermolecular spaces, intermolecular forces, and kinetic energy based on kinetic molecular theory"
+      ]
+    },
+    {
+      "topic_id": "CHEM-04-02",
+      "unit_id": "CHEM-04",
+      "subject_id": "CHEM",
+      "topic_name": "Evaporation, Boiling Point and Vapor Pressure",
+      "learning_outcomes": [
+        "Describe physical properties of liquids including evaporation, vapor pressure, and boiling point"
+      ]
+    },
+    {
+      "topic_id": "CHEM-04-03",
+      "unit_id": "CHEM-04",
+      "subject_id": "CHEM",
+      "topic_name": "Hydrogen Bonding",
+      "learning_outcomes": [
+        "Characterize hydrogen bonding in H2O, NH3, and HF molecules"
+      ]
+    },
+    {
+      "topic_id": "CHEM-04-04",
+      "unit_id": "CHEM-04",
+      "subject_id": "CHEM",
+      "topic_name": "Anomalous Behavior of Water",
+      "learning_outcomes": [
+        "Describe the anomalous behavior of water where density reaches maximum at 4 degrees centigrade"
+      ]
+    },
+    {
+      "topic_id": "CHEM-05-01",
+      "unit_id": "CHEM-05",
+      "subject_id": "CHEM",
+      "topic_name": "Crystalline Solids",
+      "learning_outcomes": [
+        "Characterize crystalline solids"
+      ]
+    },
+    {
+      "topic_id": "CHEM-05-02",
+      "unit_id": "CHEM-05",
+      "subject_id": "CHEM",
+      "topic_name": "Factors Affecting the Shape of Ionic Crystals",
+      "learning_outcomes": [
+        "Identify three factors that influence the shape of ionic crystals"
+      ]
+    },
+    {
+      "topic_id": "CHEM-05-03",
+      "unit_id": "CHEM-05",
+      "subject_id": "CHEM",
+      "topic_name": "Difference Between Ionic and Molecular Crystals",
+      "learning_outcomes": [
+        "Provide concise descriptions of ionic and molecular crystals"
+      ]
+    },
+    {
+      "topic_id": "CHEM-05-04",
+      "unit_id": "CHEM-05",
+      "subject_id": "CHEM",
+      "topic_name": "Crystal Lattice",
+      "learning_outcomes": [
+        "Describe the structure of a crystal lattice"
+      ]
+    },
+    {
+      "topic_id": "CHEM-05-05",
+      "unit_id": "CHEM-05",
+      "subject_id": "CHEM",
+      "topic_name": "Lattice Energy",
+      "learning_outcomes": [
+        "Provide a definition of lattice energy"
+      ]
+    },
+    {
+      "topic_id": "CHEM-06-01",
+      "unit_id": "CHEM-06",
+      "subject_id": "CHEM",
+      "topic_name": "Chemical Equilibrium",
+      "learning_outcomes": [
+        "Define chemical equilibrium in the context of reversible reactions",
+        "Write both forward and reverse reactions and characterize their macroscopic features"
+      ]
+    },
+    {
+      "topic_id": "CHEM-06-02",
+      "unit_id": "CHEM-06",
+      "subject_id": "CHEM",
+      "topic_name": "Le Chatelier's Principle",
+      "learning_outcomes": [
+        "Express Le Chatelier's principle and demonstrate its application to equilibrium systems with changes in concentration, pressure, temperature, or catalyst addition"
+      ]
+    },
+    {
+      "topic_id": "CHEM-06-03",
+      "unit_id": "CHEM-06",
+      "subject_id": "CHEM",
+      "topic_name": "Solubility Products",
+      "learning_outcomes": [
+        "Define and describe solubility products"
+      ]
+    },
+    {
+      "topic_id": "CHEM-06-04",
+      "unit_id": "CHEM-06",
+      "subject_id": "CHEM",
+      "topic_name": "Common Ion Effect",
+      "learning_outcomes": [
+        "Define and describe the common ion effect using appropriate examples"
+      ]
+    },
+    {
+      "topic_id": "CHEM-06-05",
+      "unit_id": "CHEM-06",
+      "subject_id": "CHEM",
+      "topic_name": "Buffer Solution",
+      "learning_outcomes": [
+        "Define buffer solution and describe different types of buffers"
+      ]
+    },
+    {
+      "topic_id": "CHEM-06-06",
+      "unit_id": "CHEM-06",
+      "subject_id": "CHEM",
+      "topic_name": "Haber's Process",
+      "learning_outcomes": [
+        "Describe ammonia synthesis by the Haber process"
+      ]
+    },
+    {
+      "topic_id": "CHEM-07-01",
+      "unit_id": "CHEM-07",
+      "subject_id": "CHEM",
+      "topic_name": "Chemical Kinetics",
+      "learning_outcomes": [
+        "Provide a definition of chemical kinetics",
+        "Describe the terms rate of reaction and rate equation"
+      ]
+    },
+    {
+      "topic_id": "CHEM-07-02",
+      "unit_id": "CHEM-07",
+      "subject_id": "CHEM",
+      "topic_name": "Factors Affecting Rate of Reaction",
+      "learning_outcomes": [
+        "Describe qualitatively the factors that influence reaction rate"
+      ]
+    },
+    {
+      "topic_id": "CHEM-07-03",
+      "unit_id": "CHEM-07",
+      "subject_id": "CHEM",
+      "topic_name": "Order of Reaction",
+      "learning_outcomes": [
+        "Specify the order with respect to the reactant and write the rate law for the reaction",
+        "Describe the meaning of activation energy and activated complex",
+        "Connect the concepts of activation energy and activated complex to reaction rate"
+      ]
+    },
+    {
+      "topic_id": "CHEM-07-04",
+      "unit_id": "CHEM-07",
+      "subject_id": "CHEM",
+      "topic_name": "Rate Constant",
+      "learning_outcomes": [
+        "Characterize the role of the rate constant in theoretical reaction rate determination"
+      ]
+    },
+    {
+      "topic_id": "CHEM-08-01",
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "topic_name": "Thermodynamics",
+      "learning_outcomes": [
+        "Provide a definition of thermodynamics"
+      ]
+    },
+    {
+      "topic_id": "CHEM-08-02",
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "topic_name": "Exothermic and Endothermic Reaction",
+      "learning_outcomes": [
+        "Categorize reactions as exothermic or endothermic"
+      ]
+    },
+    {
+      "topic_id": "CHEM-08-03",
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "topic_name": "Different Terms Used",
+      "learning_outcomes": [
+        "Define system, surrounding, boundary, state function, heat, heat capacity, internal energy, work done, and enthalpy"
+      ]
+    },
+    {
+      "topic_id": "CHEM-08-04",
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "topic_name": "Internal Energies",
+      "learning_outcomes": [
+        "Identify and define the units of internal energy"
+      ]
+    },
+    {
+      "topic_id": "CHEM-08-05",
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "topic_name": "Law of Thermodynamics",
+      "learning_outcomes": [
+        "Describe the first law of thermodynamics concerning energy conservation"
+      ]
+    },
+    {
+      "topic_id": "CHEM-08-06",
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "topic_name": "Hess's Law",
+      "learning_outcomes": [
+        "Apply Hess's Law to develop simple energy cycles"
+      ]
+    },
+    {
+      "topic_id": "CHEM-08-07",
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "topic_name": "Enthalpy",
+      "learning_outcomes": [
+        "Characterize enthalpy of reaction"
+      ]
+    },
+    {
+      "topic_id": "CHEM-09-01",
+      "unit_id": "CHEM-09",
+      "subject_id": "CHEM",
+      "topic_name": "Redox Reaction",
+      "learning_outcomes": [
+        "Identify the characteristics of a redox reaction"
+      ]
+    },
+    {
+      "topic_id": "CHEM-09-02",
+      "unit_id": "CHEM-09",
+      "subject_id": "CHEM",
+      "topic_name": "Oxidation and Reduction",
+      "learning_outcomes": [
+        "Define oxidation and reduction in terms of oxidation number changes"
+      ]
+    },
+    {
+      "topic_id": "CHEM-09-03",
+      "unit_id": "CHEM-09",
+      "subject_id": "CHEM",
+      "topic_name": "Balancing Chemical Reaction",
+      "learning_outcomes": [
+        "Apply the oxidation number change method to identify atoms being oxidized or reduced in redox reactions"
+      ]
+    },
+    {
+      "topic_id": "CHEM-09-04",
+      "unit_id": "CHEM-09",
+      "subject_id": "CHEM",
+      "topic_name": "Standard Hydrogen Electrode (SHE)",
+      "learning_outcomes": [
+        "Define cathode, anode, electrode potential, and standard hydrogen electrode",
+        "Define the standard electrode potential of an electrode"
+      ]
+    },
+    {
+      "topic_id": "CHEM-10-01",
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "topic_name": "VSEPR Theory",
+      "learning_outcomes": [
+        "Apply VSEPR Theory to characterize molecular shapes"
+      ]
+    },
+    {
+      "topic_id": "CHEM-10-02",
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "topic_name": "Sigma and Pi Bond",
+      "learning_outcomes": [
+        "Characterize the features of sigma and pi bonds"
+      ]
+    },
+    {
+      "topic_id": "CHEM-10-03",
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "topic_name": "Hybridization",
+      "learning_outcomes": [
+        "Characterize the shapes of simple molecules using orbital hybridization"
+      ]
+    },
+    {
+      "topic_id": "CHEM-10-04",
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "topic_name": "Application of VSEPR Theory",
+      "learning_outcomes": [
+        "Determine molecular shapes from the number of bonded pairs"
+      ]
+    },
+    {
+      "topic_id": "CHEM-10-05",
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "topic_name": "Dipole Moment",
+      "learning_outcomes": [
+        "Predict molecular polarity from molecular shapes"
+      ]
+    },
+    {
+      "topic_id": "CHEM-10-06",
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "topic_name": "Application of Dipole Moment",
+      "learning_outcomes": [
+        "Describe the meaning of ionic character in covalent bonds",
+        "Explain how knowledge of molecular polarity elucidates physical and chemical properties of molecules"
+      ]
+    },
+    {
+      "topic_id": "CHEM-10-07",
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "topic_name": "Bond Energy",
+      "learning_outcomes": [
+        "Define bond energies and describe their use in comparing bond strength of different chemical bonds"
+      ]
+    },
+    {
+      "topic_id": "CHEM-11-01",
+      "unit_id": "CHEM-11",
+      "subject_id": "CHEM",
+      "topic_name": "Properties and Their Trends",
+      "learning_outcomes": [
+        "Define and describe atomic radii, ionic radii, covalent radii, ionization energy, electron affinity, electronegativity, bond energy, and bond length"
+      ]
+    },
+    {
+      "topic_id": "CHEM-11-02",
+      "unit_id": "CHEM-11",
+      "subject_id": "CHEM",
+      "topic_name": "S-, P-, D- & F-Block Elements",
+      "learning_outcomes": [
+        "Identify the demarcation of the periodic table into s-block, p-block, d-block, and f-block"
+      ]
+    },
+    {
+      "topic_id": "CHEM-11-03",
+      "unit_id": "CHEM-11",
+      "subject_id": "CHEM",
+      "topic_name": "Reaction of Group I Elements",
+      "learning_outcomes": [
+        "Characterize reactions of Group I elements with water, oxygen, and chlorine"
+      ]
+    },
+    {
+      "topic_id": "CHEM-11-04",
+      "unit_id": "CHEM-11",
+      "subject_id": "CHEM",
+      "topic_name": "Reaction of Group II Elements",
+      "learning_outcomes": [
+        "Characterize reactions of Group II elements with water, oxygen, and chlorine"
+      ]
+    },
+    {
+      "topic_id": "CHEM-11-05",
+      "unit_id": "CHEM-11",
+      "subject_id": "CHEM",
+      "topic_name": "Reaction of Group IV Elements",
+      "learning_outcomes": [
+        "Characterize reactions of Group IV elements"
+      ]
+    },
+    {
+      "topic_id": "CHEM-12-01",
+      "unit_id": "CHEM-12",
+      "subject_id": "CHEM",
+      "topic_name": "Electronic Structure",
+      "learning_outcomes": [
+        "Characterize the electronic structures of elements and ions of d-block elements"
+      ]
+    },
+    {
+      "topic_id": "CHEM-13-01",
+      "unit_id": "CHEM-13",
+      "subject_id": "CHEM",
+      "topic_name": "Definition and Classification of Organic Compound",
+      "learning_outcomes": [
+        "Define organic chemistry and organic compounds",
+        "Categorize organic compounds based on structure"
+      ]
+    },
+    {
+      "topic_id": "CHEM-13-02",
+      "unit_id": "CHEM-13",
+      "subject_id": "CHEM",
+      "topic_name": "Functional Group",
+      "learning_outcomes": [
+        "Define functional group"
+      ]
+    },
+    {
+      "topic_id": "CHEM-13-03",
+      "unit_id": "CHEM-13",
+      "subject_id": "CHEM",
+      "topic_name": "Isomerism",
+      "learning_outcomes": [
+        "Describe stereoisomerism and its types"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-01",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Nomenclature of Alkanes",
+      "learning_outcomes": [
+        "Characterize the nomenclature of alkanes"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-02",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Free Radical Mechanism",
+      "learning_outcomes": [
+        "Define free radical initiation, propagation, and termination",
+        "Characterize the mechanism of free radical substitution in alkanes exemplified by methane and ethane"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-03",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Nomenclature of Alkenes",
+      "learning_outcomes": [
+        "Describe the IUPAC nomenclature of alkenes"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-04",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Shapes of Alkenes",
+      "learning_outcomes": [
+        "Describe the shapes of ethene molecules in terms of sigma and pi C-C bonds"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-05",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Structure and Reactivity of Alkenes",
+      "learning_outcomes": [
+        "Characterize the structure and reactivity of alkenes as exemplified by ethene"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-06",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Preparation of Alkenes",
+      "learning_outcomes": [
+        "Describe dehydration of alcohols and dehydrohalogenation of alkyl halides for ethene preparation"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-07",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "MOT of Benzene Resonance and Resonance Energy",
+      "learning_outcomes": [
+        "Describe the shape of benzene molecules using molecular orbital treatment",
+        "Define resonance, resonance energy, and relative stability"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-08",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Reactivity of Benzene",
+      "learning_outcomes": [
+        "Contrast the reactivity of benzene with alkanes and alkenes"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-09",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Chemical Reactions of Benzenes",
+      "learning_outcomes": [
+        "Define addition reactions of benzene and methylbenzene",
+        "Characterize the mechanism of electrophilic substitution in benzene",
+        "Explain the chemistry of benzene and methylbenzene through nitration, sulphonation, halogenation, Friedel-Crafts alkylation, and acylation"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-10",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Effect of Substituents",
+      "learning_outcomes": [
+        "Apply knowledge of substituent positions in electrophilic substitution of benzene"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-11",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "IUPAC System of Alkynes",
+      "learning_outcomes": [
+        "Apply the IUPAC naming system for alkynes"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-12",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Preparation of Alkynes",
+      "learning_outcomes": [
+        "Characterize the preparation of alkynes using elimination reactions"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-13",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Acidity of Alkynes",
+      "learning_outcomes": [
+        "Characterize the acidity of alkynes"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-14",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Reactions of Alkynes",
+      "learning_outcomes": [
+        "Explain the chemistry of alkynes through hydrogenation, hydrohalogenation, and hydration"
+      ]
+    },
+    {
+      "topic_id": "CHEM-14-15",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "topic_name": "Substitution vs Addition",
+      "learning_outcomes": [
+        "Characterize and differentiate between substitution and addition reactions"
+      ]
+    },
+    {
+      "topic_id": "CHEM-15-01",
+      "unit_id": "CHEM-15",
+      "subject_id": "CHEM",
+      "topic_name": "Nomenclature Structure and Reactivity",
+      "learning_outcomes": [
+        "Name alkyl halides using the IUPAC system",
+        "Explain the structure and reactivity of alkyl halides"
+      ]
+    },
+    {
+      "topic_id": "CHEM-15-02",
+      "unit_id": "CHEM-15",
+      "subject_id": "CHEM",
+      "topic_name": "Substitution vs Elimination",
+      "learning_outcomes": [
+        "Characterize the mechanism and types of nucleophilic substitution reactions",
+        "Characterize the mechanism and types of elimination reactions"
+      ]
+    },
+    {
+      "topic_id": "CHEM-16-01",
+      "unit_id": "CHEM-16",
+      "subject_id": "CHEM",
+      "topic_name": "Nomenclature, Structure and Reactivity of Alcohol",
+      "learning_outcomes": [
+        "Describe nomenclature and structure of alcohols",
+        "Describe the reactivity of alcohols",
+        "Characterize the chemistry of alcohols through preparation of ethers and esters"
+      ]
+    },
+    {
+      "topic_id": "CHEM-16-02",
+      "unit_id": "CHEM-16",
+      "subject_id": "CHEM",
+      "topic_name": "Nomenclature, Structure and Reactivity of Phenols",
+      "learning_outcomes": [
+        "Describe the nomenclature, structure, and reactivity of phenols",
+        "Explain the reactivity of phenols and their chemistry through electrophilic aromatic substitution"
+      ]
+    },
+    {
+      "topic_id": "CHEM-16-03",
+      "unit_id": "CHEM-16",
+      "subject_id": "CHEM",
+      "topic_name": "Alcohols and Phenols",
+      "learning_outcomes": [
+        "Differentiate between alcohols and phenols"
+      ]
+    },
+    {
+      "topic_id": "CHEM-17-01",
+      "unit_id": "CHEM-17",
+      "subject_id": "CHEM",
+      "topic_name": "Nomenclature and Structure of Aldehydes and Ketones",
+      "learning_outcomes": [
+        "Describe nomenclature and structure of aldehydes and ketones"
+      ]
+    },
+    {
+      "topic_id": "CHEM-17-02",
+      "unit_id": "CHEM-17",
+      "subject_id": "CHEM",
+      "topic_name": "Preparation",
+      "learning_outcomes": [
+        "Explain the preparation of aldehydes and ketones"
+      ]
+    },
+    {
+      "topic_id": "CHEM-17-03",
+      "unit_id": "CHEM-17",
+      "subject_id": "CHEM",
+      "topic_name": "Reactivity of Aldehydes and Ketones",
+      "learning_outcomes": [
+        "Characterize the reactivity of aldehydes and ketones and compare them"
+      ]
+    },
+    {
+      "topic_id": "CHEM-17-04",
+      "unit_id": "CHEM-17",
+      "subject_id": "CHEM",
+      "topic_name": "Reaction of Aldehydes and Ketones",
+      "learning_outcomes": [
+        "Characterize acid and base catalyzed nucleophilic addition reactions of aldehydes and ketones",
+        "Explain the chemistry of aldehydes and ketones through reduction to alcohols",
+        "Characterize oxidation reactions of aldehydes and ketones"
+      ]
+    },
+    {
+      "topic_id": "CHEM-18-01",
+      "unit_id": "CHEM-18",
+      "subject_id": "CHEM",
+      "topic_name": "Nomenclature, Structure and Preparation of Carboxylic Acid",
+      "learning_outcomes": [
+        "Characterize nomenclature, structure, and preparation of carboxylic acids"
+      ]
+    },
+    {
+      "topic_id": "CHEM-18-02",
+      "unit_id": "CHEM-18",
+      "subject_id": "CHEM",
+      "topic_name": "Chemical Reactions/Reactivity",
+      "learning_outcomes": [
+        "Explain reactivity of carboxylic acids"
+      ]
+    },
+    {
+      "topic_id": "CHEM-18-03",
+      "unit_id": "CHEM-18",
+      "subject_id": "CHEM",
+      "topic_name": "Conversion of Carboxylic Acid",
+      "learning_outcomes": [
+        "Characterize the chemistry of carboxylic acids through conversion to carboxylic acid derivatives: acyl halides, acid anhydrides, esters, and reactions involving these conversions"
+      ]
+    },
+    {
+      "topic_id": "CHEM-19-01",
+      "unit_id": "CHEM-19",
+      "subject_id": "CHEM",
+      "topic_name": "Classification of Proteins",
+      "learning_outcomes": [
+        "Describe the basis of classification and structure-function relationship of proteins"
+      ]
+    },
+    {
+      "topic_id": "CHEM-19-02",
+      "unit_id": "CHEM-19",
+      "subject_id": "CHEM",
+      "topic_name": "Importance of Proteins",
+      "learning_outcomes": [
+        "Characterize the role of various proteins in maintaining body functions and their nutritional importance"
+      ]
+    },
+    {
+      "topic_id": "CHEM-19-03",
+      "unit_id": "CHEM-19",
+      "subject_id": "CHEM",
+      "topic_name": "Enzymes as Biocatalyst",
+      "learning_outcomes": [
+        "Characterize the role of enzymes as biocatalysts"
+      ]
+    },
+    {
+      "topic_id": "CHEM-20-01",
+      "unit_id": "CHEM-20",
+      "subject_id": "CHEM",
+      "topic_name": "Adhesive",
+      "learning_outcomes": [
+        "Understand types and applications of adhesives"
+      ]
+    },
+    {
+      "topic_id": "CHEM-20-02",
+      "unit_id": "CHEM-20",
+      "subject_id": "CHEM",
+      "topic_name": "Dyes",
+      "learning_outcomes": [
+        "Understand types of dyes and their uses"
+      ]
+    },
+    {
+      "topic_id": "CHEM-20-03",
+      "unit_id": "CHEM-20",
+      "subject_id": "CHEM",
+      "topic_name": "Polymers",
+      "learning_outcomes": [
+        "Understand condensation and addition polymers and their sub-types"
+      ]
+    },
+    {
+      "topic_id": "PHY-01-01",
+      "unit_id": "PHY-01",
+      "subject_id": "PHY",
+      "topic_name": "Addition of Vectors (Rectangular Components)",
+      "learning_outcomes": [
+        "Calculate the sum of vectors using perpendicular components"
+      ]
+    },
+    {
+      "topic_id": "PHY-01-02",
+      "unit_id": "PHY-01",
+      "subject_id": "PHY",
+      "topic_name": "Product of Vectors (Scalar Product)",
+      "learning_outcomes": [
+        "Characterize the scalar product of two vectors in terms of the angle between them"
+      ]
+    },
+    {
+      "topic_id": "PHY-01-03",
+      "unit_id": "PHY-01",
+      "subject_id": "PHY",
+      "topic_name": "Product of Vectors (Vector Product)",
+      "learning_outcomes": [
+        "Characterize the vector product of two vectors in terms of the angle between them"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-01",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Displacement",
+      "learning_outcomes": [
+        "Characterize displacement"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-02",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Velocity",
+      "learning_outcomes": [
+        "Characterize average velocity of objects"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-03",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Displacement-Time Graph",
+      "learning_outcomes": [
+        "Analyze displacement-time graphs of objects moving along the same straight line"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-04",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Acceleration",
+      "learning_outcomes": [
+        "Characterize acceleration"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-05",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Uniform and Variable Acceleration",
+      "learning_outcomes": [
+        "Differentiate between uniform and variable acceleration"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-06",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Projectile Motion",
+      "learning_outcomes": [
+        "Describe projectile motion as two-dimensional motion in a vertical plane"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-07",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Ideal Projectile",
+      "learning_outcomes": [
+        "Explain the concept of an ideal projectile in the absence of air resistance"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-08",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Projectile Motion (Velocity)",
+      "learning_outcomes": [
+        "Describe that the horizontal component of velocity is constant",
+        "Explain that acceleration is in the vertical direction and is the same as that of a vertically free-falling object",
+        "Differentiate between the characteristics of horizontal and vertical motion"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-09",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Projectile Motion: Maximum Height, Range, Time of Flight, Maximum Angle",
+      "learning_outcomes": [
+        "Calculate, using equations of uniformly accelerated motion for a given initial velocity of a frictionless projectile: maximum height, horizontal range, position after a given time, time in air, parameters for a projectile launched from ground height, launch angle for maximum range, and relation between launch angles that result in the same range"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-10",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Newton's Laws of Motion",
+      "learning_outcomes": [
+        "Apply Newton's laws to explain object motion in various contexts"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-11",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Newton's Second Law and Linear Momentum",
+      "learning_outcomes": [
+        "Characterize Newton's second law of motion as the rate of change of momentum"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-12",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Newton's Third Law of Motion",
+      "learning_outcomes": [
+        "Connect Newton's third law of motion to conservation of momentum"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-13",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Collision",
+      "learning_outcomes": [
+        "Solve problems involving elastic and inelastic collisions between two bodies in one dimension using the law of conservation of momentum"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-14",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Momentum and Explosive Forces",
+      "learning_outcomes": [
+        "Characterize that momentum is conserved in various situations"
+      ]
+    },
+    {
+      "topic_id": "PHY-02-15",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "topic_name": "Perfectly Elastic Collision in One Dimension",
+      "learning_outcomes": [
+        "Recognize that for a perfectly elastic collision, the relative speed of approach equals the relative speed of separation"
+      ]
+    },
+    {
+      "topic_id": "PHY-03-01",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "topic_name": "Work",
+      "learning_outcomes": [
+        "Characterize work as the product of force and displacement in the direction of force"
+      ]
+    },
+    {
+      "topic_id": "PHY-03-02",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "topic_name": "Energy",
+      "learning_outcomes": [
+        "Characterize energy"
+      ]
+    },
+    {
+      "topic_id": "PHY-03-03",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "topic_name": "Kinetic Energy",
+      "learning_outcomes": [
+        "Describe kinetic energy"
+      ]
+    },
+    {
+      "topic_id": "PHY-03-04",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "topic_name": "Potential Energy",
+      "learning_outcomes": [
+        "Describe the difference between potential energy and gravitational potential energy"
+      ]
+    },
+    {
+      "topic_id": "PHY-03-05",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "topic_name": "Absolute Potential Energy",
+      "learning_outcomes": [
+        "Characterize that gravitational potential energy is measured from a reference level and can be positive or negative, denoting orientation from the reference level"
+      ]
+    },
+    {
+      "topic_id": "PHY-03-06",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "topic_name": "Power",
+      "learning_outcomes": [
+        "Express power as the scalar product of force and velocity"
+      ]
+    },
+    {
+      "topic_id": "PHY-03-07",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "topic_name": "Work Energy Theorem in Resistive Medium",
+      "learning_outcomes": [
+        "Describe that work done against friction is dissipated as heat in the environment"
+      ]
+    },
+    {
+      "topic_id": "PHY-03-08",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "topic_name": "Implications of Energy Losses in Practical Devices and Efficiency",
+      "learning_outcomes": [
+        "Explain the implications of energy losses in practical devices"
+      ]
+    },
+    {
+      "topic_id": "PHY-04-01",
+      "unit_id": "PHY-04",
+      "subject_id": "PHY",
+      "topic_name": "Angular Displacement",
+      "learning_outcomes": [
+        "Define angular displacement and express it in radians",
+        "Define revolution, degree, and radian"
+      ]
+    },
+    {
+      "topic_id": "PHY-04-02",
+      "unit_id": "PHY-04",
+      "subject_id": "PHY",
+      "topic_name": "Angular Velocity",
+      "learning_outcomes": [
+        "Characterize angular velocity"
+      ]
+    },
+    {
+      "topic_id": "PHY-04-03",
+      "unit_id": "PHY-04",
+      "subject_id": "PHY",
+      "topic_name": "Relation Between Angular and Linear Quantities",
+      "learning_outcomes": [
+        "Identify the relationship between linear and angular variables, displacements, velocities, and accelerations"
+      ]
+    },
+    {
+      "topic_id": "PHY-05-01",
+      "unit_id": "PHY-05",
+      "subject_id": "PHY",
+      "topic_name": "Terminal Velocity",
+      "learning_outcomes": [
+        "Characterize the terminal velocity of an object"
+      ]
+    },
+    {
+      "topic_id": "PHY-05-02",
+      "unit_id": "PHY-05",
+      "subject_id": "PHY",
+      "topic_name": "Fluid Drag",
+      "learning_outcomes": [
+        "Define and describe fluid drag"
+      ]
+    },
+    {
+      "topic_id": "PHY-05-03",
+      "unit_id": "PHY-05",
+      "subject_id": "PHY",
+      "topic_name": "Fluid Flow",
+      "learning_outcomes": [
+        "Define steady (streamline or laminar) flow, incompressible flow, and non-viscous flow as applied to ideal fluid motion",
+        "Describe that at sufficiently high velocity, viscous fluid flow undergoes transition from laminar to turbulent conditions",
+        "Characterize that most practical examples of fluid flow and resistance to motion involve turbulent rather than laminar conditions"
+      ]
+    },
+    {
+      "topic_id": "PHY-05-04",
+      "unit_id": "PHY-05",
+      "subject_id": "PHY",
+      "topic_name": "Equation of Continuity",
+      "learning_outcomes": [
+        "Characterize the equation of continuity Av = constant for ideal and incompressible fluid flow and solve related problems",
+        "Recognize that the equation of continuity is a form of the principle of conservation of mass"
+      ]
+    },
+    {
+      "topic_id": "PHY-05-05",
+      "unit_id": "PHY-05",
+      "subject_id": "PHY",
+      "topic_name": "Bernoulli's Equation",
+      "learning_outcomes": [
+        "Interpret and apply Bernoulli's effect in blood physics",
+        "Derive Bernoulli's equation for the case of horizontal tube flow",
+        "Characterize that pressure differences can arise from different rates of fluid flow (Bernoulli's effect)"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-01",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Motion of Wave",
+      "learning_outcomes": [
+        "Characterize wave motion as illustrated by vibrations in ropes and springs"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-02",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Progressive Waves",
+      "learning_outcomes": [
+        "Demonstrate that mechanical waves require a medium for propagation while electromagnetic waves do not"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-03",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Characteristics of Wave",
+      "learning_outcomes": [
+        "Define and apply the following terms to the wave model: medium, displacement, amplitude, period, compression, rarefaction, crest, trough, wavelength, velocity"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-04",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Wave Speed",
+      "learning_outcomes": [
+        "Solve problems using the equation v = fλ"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-05",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Progressive Waves - Energy Transfer",
+      "learning_outcomes": [
+        "Characterize that energy is transferred by progressive waves"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-06",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Classification of Progressive Waves",
+      "learning_outcomes": [
+        "Contrast transverse and longitudinal waves"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-07",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Speed of Sound - Newton's Formula",
+      "learning_outcomes": [
+        "Describe that sound speed depends on the properties of the medium in which it propagates and characterize Newton's formula for wave speed"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-08",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Laplace's Correction",
+      "learning_outcomes": [
+        "Characterize Laplace's correction in Newton's formula for sound speed in air"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-09",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Effect of Various Factors on Speed of Sound",
+      "learning_outcomes": [
+        "Identify the factors on which sound speed in air depends"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-10",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Superposition of Waves",
+      "learning_outcomes": [
+        "Characterize the principle of superposition of two waves from coherent sources"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-11",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Interference of Sound Waves",
+      "learning_outcomes": [
+        "Characterize the phenomenon of sound wave interference"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-12",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Stationary Waves",
+      "learning_outcomes": [
+        "Describe the formation of stationary waves using graphical methods",
+        "Define nodes and antinodes"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-13",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Stationary Waves in a Stretched String",
+      "learning_outcomes": [
+        "Characterize modes of vibration of strings"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-14",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Organ Pipes",
+      "learning_outcomes": [
+        "Characterize formation of stationary waves in vibrating air columns"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-15",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Simple Harmonic Motion",
+      "learning_outcomes": [
+        "Describe simple harmonic motion (SHM) and explain its characteristics"
+      ]
+    },
+    {
+      "topic_id": "PHY-06-16",
+      "unit_id": "PHY-06",
+      "subject_id": "PHY",
+      "topic_name": "Circular Motion and SHM",
+      "learning_outcomes": [
+        "Characterize that when an object moves in a circle, the motion of its projection on the diameter is SHM"
+      ]
+    },
+    {
+      "topic_id": "PHY-07-01",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "topic_name": "Thermal Equilibrium, Heat",
+      "learning_outcomes": [
+        "Characterize that thermal energy is transferred from regions of higher temperature to regions of lower temperature"
+      ]
+    },
+    {
+      "topic_id": "PHY-07-02",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "topic_name": "Molar Specific Heat of Gas",
+      "learning_outcomes": [
+        "Differentiate between specific heat and molar specific heat"
+      ]
+    },
+    {
+      "topic_id": "PHY-07-03",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "topic_name": "Work",
+      "learning_outcomes": [
+        "Calculate work done by a thermodynamic system during a volume change"
+      ]
+    },
+    {
+      "topic_id": "PHY-07-04",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "topic_name": "First Law of Thermodynamics",
+      "learning_outcomes": [
+        "Characterize the first law of thermodynamics expressed in terms of change in internal energy, heating of the system, and work done on the system",
+        "Describe that the first law of thermodynamics expresses energy conservation"
+      ]
+    },
+    {
+      "topic_id": "PHY-07-05",
+      "unit_id": "PHY-07",
+      "subject_id": "PHY",
+      "topic_name": "Relation Between Molar Specific Heat",
+      "learning_outcomes": [
+        "Apply the first law of thermodynamics to derive the relation Cp - Cv = R for an ideal gas"
+      ]
+    },
+    {
+      "topic_id": "PHY-08-01",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "topic_name": "Coulomb's Law",
+      "learning_outcomes": [
+        "Express Coulomb's law and describe that force between two point charges is reduced in a medium other than free space"
+      ]
+    },
+    {
+      "topic_id": "PHY-08-02",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "topic_name": "Electric Field",
+      "learning_outcomes": [
+        "Characterize the concept of an electric field as an example of a field of force"
+      ]
+    },
+    {
+      "topic_id": "PHY-08-03",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "topic_name": "Electric Field Intensity Due to a Point Charge",
+      "learning_outcomes": [
+        "Calculate the magnitude and direction of the electric field at a point due to two charges with the same or opposite signs",
+        "Sketch the electric field lines for two point charges of equal magnitude with same or opposite signs"
+      ]
+    },
+    {
+      "topic_id": "PHY-08-04",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "topic_name": "Electric Field Intensity Due to an Infinite Sheet of Charges",
+      "learning_outcomes": [
+        "Characterize and draw the electric field due to an infinite conducting plate of positive or negative charge"
+      ]
+    },
+    {
+      "topic_id": "PHY-08-05",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "topic_name": "Electric Potential Energy and Potential Due to a Point Charge",
+      "learning_outcomes": [
+        "Define electric potential at a point in terms of the work done in bringing unit positive charge from infinity to that point"
+      ]
+    },
+    {
+      "topic_id": "PHY-08-06",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "topic_name": "Electric Potential",
+      "learning_outcomes": [
+        "Define the unit of potential"
+      ]
+    },
+    {
+      "topic_id": "PHY-08-07",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "topic_name": "Electric Potential - Derivation",
+      "learning_outcomes": [
+        "Derive an expression for electric potential at a point due to a point charge"
+      ]
+    },
+    {
+      "topic_id": "PHY-08-08",
+      "unit_id": "PHY-08",
+      "subject_id": "PHY",
+      "topic_name": "Charging and Discharging of a Capacitor Through a Resistance",
+      "learning_outcomes": [
+        "Demonstrate charging and discharging of a capacitor through a resistance"
+      ]
+    },
+    {
+      "topic_id": "PHY-09-01",
+      "unit_id": "PHY-09",
+      "subject_id": "PHY",
+      "topic_name": "Steady Current",
+      "learning_outcomes": [
+        "Characterize the concept of steady current"
+      ]
+    },
+    {
+      "topic_id": "PHY-09-02",
+      "unit_id": "PHY-09",
+      "subject_id": "PHY",
+      "topic_name": "Ohm's Law",
+      "learning_outcomes": [
+        "Express Ohm's law"
+      ]
+    },
+    {
+      "topic_id": "PHY-09-03",
+      "unit_id": "PHY-09",
+      "subject_id": "PHY",
+      "topic_name": "Factors on Which Resistance Depends",
+      "learning_outcomes": [
+        "Define resistivity and describe its dependence on temperature"
+      ]
+    },
+    {
+      "topic_id": "PHY-09-04",
+      "unit_id": "PHY-09",
+      "subject_id": "PHY",
+      "topic_name": "Internal Resistance of Sources",
+      "learning_outcomes": [
+        "Describe the internal resistance of sources and its consequences for external circuits"
+      ]
+    },
+    {
+      "topic_id": "PHY-09-05",
+      "unit_id": "PHY-09",
+      "subject_id": "PHY",
+      "topic_name": "Maximum Power Output",
+      "learning_outcomes": [
+        "Characterize the conditions for maximum power transfer"
+      ]
+    },
+    {
+      "topic_id": "PHY-10-01",
+      "unit_id": "PHY-10",
+      "subject_id": "PHY",
+      "topic_name": "Magnetic Flux Density/Magnetic Field",
+      "learning_outcomes": [
+        "Define magnetic flux density and its units"
+      ]
+    },
+    {
+      "topic_id": "PHY-10-02",
+      "unit_id": "PHY-10",
+      "subject_id": "PHY",
+      "topic_name": "Magnetic Flux",
+      "learning_outcomes": [
+        "Characterize the concept of magnetic flux Φ as scalar product of magnetic field B and area A using the relation ΦB = B⊥A = B·A"
+      ]
+    },
+    {
+      "topic_id": "PHY-10-03",
+      "unit_id": "PHY-10",
+      "subject_id": "PHY",
+      "topic_name": "Motion of Charged Particle in Magnetic Field",
+      "learning_outcomes": [
+        "Characterize quantitatively the path followed by a charged particle entering a magnetic field perpendicular to the field",
+        "Describe that a force may act on a charged particle in a uniform magnetic field"
+      ]
+    },
+    {
+      "topic_id": "PHY-11-01",
+      "unit_id": "PHY-11",
+      "subject_id": "PHY",
+      "topic_name": "Faraday's Law of Electromagnetic Induction",
+      "learning_outcomes": [
+        "Express Faraday's law of electromagnetic induction"
+      ]
+    },
+    {
+      "topic_id": "PHY-11-02",
+      "unit_id": "PHY-11",
+      "subject_id": "PHY",
+      "topic_name": "Lenz's Law",
+      "learning_outcomes": [
+        "Apply Lenz's law to predict the direction of an induced current and relate it to the principle of conservation of energy"
+      ]
+    },
+    {
+      "topic_id": "PHY-11-03",
+      "unit_id": "PHY-11",
+      "subject_id": "PHY",
+      "topic_name": "Transformer",
+      "learning_outcomes": [
+        "Characterize the construction of a transformer and explain its operation",
+        "Characterize how step-up and step-down transformers can be used to ensure efficient electricity transfer along cables"
+      ]
+    },
+    {
+      "topic_id": "PHY-12-01",
+      "unit_id": "PHY-12",
+      "subject_id": "PHY",
+      "topic_name": "Phase of Alternating Current",
+      "learning_outcomes": [
+        "Characterize the phase of alternating current and explain how phase lag and phase lead occur in AC circuits"
+      ]
+    },
+    {
+      "topic_id": "PHY-12-02",
+      "unit_id": "PHY-12",
+      "subject_id": "PHY",
+      "topic_name": "AC Through Resistor, Capacitor, Inductor",
+      "learning_outcomes": [
+        "Describe the flow of AC through resistors, capacitors, and inductors"
+      ]
+    },
+    {
+      "topic_id": "PHY-12-03",
+      "unit_id": "PHY-12",
+      "subject_id": "PHY",
+      "topic_name": "Electromagnetic Waves",
+      "learning_outcomes": [
+        "Become familiar with the EM spectrum ranging from radio waves to gamma rays"
+      ]
+    },
+    {
+      "topic_id": "PHY-13-01",
+      "unit_id": "PHY-13",
+      "subject_id": "PHY",
+      "topic_name": "Rectification",
+      "learning_outcomes": [
+        "Define rectification and characterize the use of diodes for half-wave and full-wave rectifications"
+      ]
+    },
+    {
+      "topic_id": "PHY-13-02",
+      "unit_id": "PHY-13",
+      "subject_id": "PHY",
+      "topic_name": "PN Junction",
+      "learning_outcomes": [
+        "Characterize the PN junction and explain its forward and reverse biasing"
+      ]
+    },
+    {
+      "topic_id": "PHY-14-01",
+      "unit_id": "PHY-14",
+      "subject_id": "PHY",
+      "topic_name": "Quantum Theory and Radiation",
+      "learning_outcomes": [
+        "Describe the particle model of light in terms of photons with energy"
+      ]
+    },
+    {
+      "topic_id": "PHY-15-01",
+      "unit_id": "PHY-15",
+      "subject_id": "PHY",
+      "topic_name": "Atomic Spectra",
+      "learning_outcomes": [
+        "Characterize and explain atomic spectra/line spectrum"
+      ]
+    },
+    {
+      "topic_id": "PHY-16-01",
+      "unit_id": "PHY-16",
+      "subject_id": "PHY",
+      "topic_name": "Composition of Atomic Nuclei",
+      "learning_outcomes": [
+        "Characterize a simple model for the atom including protons, neutrons, and electrons"
+      ]
+    },
+    {
+      "topic_id": "PHY-16-02",
+      "unit_id": "PHY-16",
+      "subject_id": "PHY",
+      "topic_name": "Spontaneous and Random Nuclear Decay",
+      "learning_outcomes": [
+        "Recognize the spontaneous and random nature of nuclear decay"
+      ]
+    },
+    {
+      "topic_id": "PHY-16-03",
+      "unit_id": "PHY-16",
+      "subject_id": "PHY",
+      "topic_name": "Half-Life and Rate of Decay",
+      "learning_outcomes": [
+        "Characterize the term half-life and solve problems using the equation λ = 0.693/T½"
+      ]
+    },
+    {
+      "topic_id": "PHY-16-04",
+      "unit_id": "PHY-16",
+      "subject_id": "PHY",
+      "topic_name": "Biological and Medical Uses of Radiation",
+      "learning_outcomes": [
+        "Characterize biological effects of radiation and explain different medical uses of radiation"
+      ]
+    },
+    {
+      "topic_id": "ENG-01-01",
+      "unit_id": "ENG-01",
+      "subject_id": "ENG",
+      "topic_name": "Reading and Thinking Skills",
+      "learning_outcomes": [
+        "Rapidly review text to answer brief questions",
+        "Infer meanings from context",
+        "Examine how a writer or poet uses language to appeal to the senses through figurative language"
+      ]
+    },
+    {
+      "topic_id": "ENG-02-01",
+      "unit_id": "ENG-02",
+      "subject_id": "ENG",
+      "topic_name": "Formal and Lexical Aspect of Language",
+      "learning_outcomes": [
+        "Infer the meaning of difficult words from context using contextual clues",
+        "Investigate the use of synonyms with varying shades of meaning used for irony, parody, and satire",
+        "Demonstrate use of pronoun-antecedent agreement",
+        "Demonstrate use of tenses",
+        "Demonstrate use of infinitives and infinitive phrases",
+        "Demonstrate the use of gerunds and gerund phrases",
+        "Identify varying positions of adverbs in sentences according to their kinds and importance",
+        "Demonstrate use of prepositions of position, time, movement, and direction",
+        "Apply all appropriate transitional devices in speech and writing",
+        "Demonstrate use of all punctuation marks wherever applicable",
+        "Examine sentences for different classes and phrases, evaluating how their position in sentences changes meaning and different communication functions",
+        "Identify and use sentence inversion for various purposes",
+        "Apply active and passive voice appropriately in speech and writing according to the required communicative function",
+        "Apply direct and indirect speech appropriately in speech and writing according to the required communicative function"
+      ]
+    },
+    {
+      "topic_id": "ENG-03-01",
+      "unit_id": "ENG-03",
+      "subject_id": "ENG",
+      "topic_name": "Writing Skills",
+      "learning_outcomes": [
+        "Proofread and edit their own, peers', and given text for errors of usage and style",
+        "Identify faulty sentence structure",
+        "Identify subject-verb agreement errors",
+        "Identify errors of function and spelling"
+      ]
+    },
+    {
+      "topic_id": "LOG-01-01",
+      "unit_id": "LOG-01",
+      "subject_id": "LOG",
+      "topic_name": "Critical Thinking",
+      "learning_outcomes": [
+        "Construct logical arguments for statements to be true or false",
+        "Provide reasons for the right beliefs",
+        "Recognize and critically evaluate false beliefs using logical reasoning"
+      ]
+    },
+    {
+      "topic_id": "LOG-02-01",
+      "unit_id": "LOG-02",
+      "subject_id": "LOG",
+      "topic_name": "Letter and Symbols Series",
+      "learning_outcomes": [
+        "Construct arithmetical operations as per numbers",
+        "Construct geometrical progressions as per numbers",
+        "Construct series/sequential orders as per letters and symbols (according to specific rules)"
+      ]
+    },
+    {
+      "topic_id": "LOG-03-01",
+      "unit_id": "LOG-03",
+      "subject_id": "LOG",
+      "topic_name": "Logical Deductions",
+      "learning_outcomes": [
+        "Infer new relations on the basis of given relations",
+        "Construct new structures on the basis of information in already drawn structures"
+      ]
+    },
+    {
+      "topic_id": "LOG-04-01",
+      "unit_id": "LOG-04",
+      "subject_id": "LOG",
+      "topic_name": "Logical Problems",
+      "learning_outcomes": [
+        "Apply results of one problem to resolve another problem",
+        "Construct skills to solve puzzles"
+      ]
+    },
+    {
+      "topic_id": "LOG-05-01",
+      "unit_id": "LOG-05",
+      "subject_id": "LOG",
+      "topic_name": "Course of Action",
+      "learning_outcomes": [
+        "Construct skills to gather different parts of information",
+        "Apply information for making decisions",
+        "Evaluate different courses using arguments"
+      ]
+    },
+    {
+      "topic_id": "LOG-06-01",
+      "unit_id": "LOG-06",
+      "subject_id": "LOG",
+      "topic_name": "Cause and Effect",
+      "learning_outcomes": [
+        "Provide reasons for incidents, events, and accidents",
+        "Challenge false beliefs through valid arguments",
+        "Construct positive thinking in society through strong arguments"
+      ]
+    }
+  ]
+}

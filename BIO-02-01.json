@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-02-01",
+  "topic_name": "Respiration",
+  "unit_id": "BIO-02",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-02-01-MCQ-01",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-02",
+      "subject_id": "BIO",
+      "question": "During cellular respiration of fats, which molecule is first converted before entering the Krebs cycle?",
+      "options": [
+        "Glucose",
+        "Acetyl-CoA",
+        "Pyruvate",
+        "Lactate"
+      ],
+      "correct_answer": 1,
+      "explanation": "Fats are broken down into fatty acids and glycerol, which are then converted to Acetyl-CoA before entering the Krebs cycle.",
+      "difficulty": "moderate",
+      "learning_outcome": "Summarize the cellular respiration pathways for proteins and fats, comparing them to glucose metabolism"
+    },
+    {
+      "mcq_id": "BIO-02-01-MCQ-02",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-02",
+      "subject_id": "BIO",
+      "question": "Compared to glucose, the complete oxidation of one gram of fat yields:",
+      "options": [
+        "Less energy",
+        "Equal energy",
+        "More energy",
+        "No energy"
+      ],
+      "correct_answer": 2,
+      "explanation": "Fats yield approximately 9 kcal/g compared to 4 kcal/g for carbohydrates, making them a more concentrated energy source.",
+      "difficulty": "moderate",
+      "learning_outcome": "Summarize the cellular respiration pathways for proteins and fats, comparing them to glucose metabolism"
+    }
+  ]
+}

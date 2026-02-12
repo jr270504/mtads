@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-08-04",
+  "topic_name": "Internal Energies",
+  "unit_id": "CHEM-08",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-08-04-MCQ-01",
+      "topic_id": "CHEM-08-04",
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Internal Energies",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Identify and define the units of internal energy",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify and define the units of internal energy"
+    },
+    {
+      "mcq_id": "CHEM-08-04-MCQ-02",
+      "topic_id": "CHEM-08-04",
+      "unit_id": "CHEM-08",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Internal Energies",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Identify and define the units of internal energy",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify and define the units of internal energy"
+    }
+  ]
+}

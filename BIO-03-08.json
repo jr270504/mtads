@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-03-08",
+  "topic_name": "Structure of DNA",
+  "unit_id": "BIO-03",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-03-08-MCQ-01",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Structure of DNA",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Describe the Watson-Crick double helix model of DNA structure",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the Watson-Crick double helix model of DNA structure"
+    },
+    {
+      "mcq_id": "BIO-03-08-MCQ-02",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Structure of DNA",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Describe the Watson-Crick double helix model of DNA structure",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the Watson-Crick double helix model of DNA structure"
+    }
+  ]
+}

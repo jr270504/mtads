@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-02-06",
+  "topic_name": "Electronic Configuration",
+  "unit_id": "CHEM-02",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-02-06-MCQ-01",
+      "topic_id": "CHEM-02-06",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Electronic Configuration",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Apply the Aufbau principle, Pauli Exclusion Principle, and Hund's Rule to write electronic configurations of atoms",
+      "difficulty": "moderate",
+      "learning_outcome": "Apply the Aufbau principle, Pauli Exclusion Principle, and Hund's Rule to write electronic configurations of atoms"
+    },
+    {
+      "mcq_id": "CHEM-02-06-MCQ-02",
+      "topic_id": "CHEM-02-06",
+      "unit_id": "CHEM-02",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Electronic Configuration",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Apply the Aufbau principle, Pauli Exclusion Principle, and Hund's Rule to write electronic configurations of atoms",
+      "difficulty": "moderate",
+      "learning_outcome": "Apply the Aufbau principle, Pauli Exclusion Principle, and Hund's Rule to write electronic configurations of atoms"
+    }
+  ]
+}

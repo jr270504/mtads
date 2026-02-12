@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-04-04",
+  "topic_name": "Chromosomes",
+  "unit_id": "BIO-04",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-04-04-MCQ-01",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Chromosomes",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize chromosome structure, chemical composition, and functional role",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize chromosome structure, chemical composition, and functional role"
+    },
+    {
+      "mcq_id": "BIO-04-04-MCQ-02",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Chromosomes",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize chromosome structure, chemical composition, and functional role",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize chromosome structure, chemical composition, and functional role"
+    }
+  ]
+}

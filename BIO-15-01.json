@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-15-01",
+  "topic_name": "Homeostasis (Kidney Specifically)",
+  "unit_id": "BIO-15",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-15-01-MCQ-01",
+      "topic_id": "BIO-15-01",
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Homeostasis (Kidney Specifically)",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Describe the components of the urinary system and relate kidney structure to its function",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the components of the urinary system and relate kidney structure to its function"
+    },
+    {
+      "mcq_id": "BIO-15-01-MCQ-02",
+      "topic_id": "BIO-15-01",
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Homeostasis (Kidney Specifically)",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Describe the components of the urinary system and relate kidney structure to its function",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the components of the urinary system and relate kidney structure to its function"
+    }
+  ]
+}

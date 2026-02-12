@@ -1,0 +1,43 @@
+{
+  "topic_id": "BIO-15-03",
+  "topic_name": "Excretion",
+  "unit_id": "BIO-15",
+  "subject_id": "BIO",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "BIO-15-03-MCQ-01",
+      "topic_id": "BIO-15-03",
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "question": "Question 1 related to Excretion",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Identify various nitrogenous compounds eliminated during excretion",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify various nitrogenous compounds eliminated during excretion"
+    },
+    {
+      "mcq_id": "BIO-15-03-MCQ-02",
+      "topic_id": "BIO-15-03",
+      "unit_id": "BIO-15",
+      "subject_id": "BIO",
+      "question": "Question 2 related to Excretion",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Identify various nitrogenous compounds eliminated during excretion",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify various nitrogenous compounds eliminated during excretion"
+    }
+  ]
+}
