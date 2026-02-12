@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-03-05",
+  "topic_name": "Absolute Potential Energy",
+  "unit_id": "PHY-03",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-03-05-MCQ-01",
+      "topic_id": "PHY-03-05",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Absolute Potential Energy",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize that gravitational potential energy is measured from a reference level and can be positive or negative, denoting orientation from the reference level",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize that gravitational potential energy is measured from a reference level and can be positive or negative, denoting orientation from the reference level"
+    },
+    {
+      "mcq_id": "PHY-03-05-MCQ-02",
+      "topic_id": "PHY-03-05",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Absolute Potential Energy",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize that gravitational potential energy is measured from a reference level and can be positive or negative, denoting orientation from the reference level",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize that gravitational potential energy is measured from a reference level and can be positive or negative, denoting orientation from the reference level"
+    }
+  ]
+}

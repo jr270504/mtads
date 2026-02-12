@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-13-01",
+  "topic_name": "Definition and Classification of Organic Compound",
+  "unit_id": "CHEM-13",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-13-01-MCQ-01",
+      "topic_id": "CHEM-13-01",
+      "unit_id": "CHEM-13",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Definition and Classification of Organic Compound",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Define organic chemistry and organic compounds",
+      "difficulty": "moderate",
+      "learning_outcome": "Define organic chemistry and organic compounds"
+    },
+    {
+      "mcq_id": "CHEM-13-01-MCQ-02",
+      "topic_id": "CHEM-13-01",
+      "unit_id": "CHEM-13",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Definition and Classification of Organic Compound",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Define organic chemistry and organic compounds",
+      "difficulty": "moderate",
+      "learning_outcome": "Define organic chemistry and organic compounds"
+    }
+  ]
+}

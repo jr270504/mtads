@@ -1,0 +1,43 @@
+{
+  "topic_id": "ENG-01-01",
+  "topic_name": "Reading and Thinking Skills",
+  "unit_id": "ENG-01",
+  "subject_id": "ENG",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "ENG-01-01-MCQ-01",
+      "topic_id": "ENG-01-01",
+      "unit_id": "ENG-01",
+      "subject_id": "ENG",
+      "question": "Question 1 related to Reading and Thinking Skills",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Rapidly review text to answer brief questions",
+      "difficulty": "moderate",
+      "learning_outcome": "Rapidly review text to answer brief questions"
+    },
+    {
+      "mcq_id": "ENG-01-01-MCQ-02",
+      "topic_id": "ENG-01-01",
+      "unit_id": "ENG-01",
+      "subject_id": "ENG",
+      "question": "Question 2 related to Reading and Thinking Skills",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Rapidly review text to answer brief questions",
+      "difficulty": "moderate",
+      "learning_outcome": "Rapidly review text to answer brief questions"
+    }
+  ]
+}

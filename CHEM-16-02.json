@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-16-02",
+  "topic_name": "Nomenclature, Structure and Reactivity of Phenols",
+  "unit_id": "CHEM-16",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-16-02-MCQ-01",
+      "topic_id": "CHEM-16-02",
+      "unit_id": "CHEM-16",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Nomenclature, Structure and Reactivity of Phenols",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Describe the nomenclature, structure, and reactivity of phenols",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the nomenclature, structure, and reactivity of phenols"
+    },
+    {
+      "mcq_id": "CHEM-16-02-MCQ-02",
+      "topic_id": "CHEM-16-02",
+      "unit_id": "CHEM-16",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Nomenclature, Structure and Reactivity of Phenols",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Describe the nomenclature, structure, and reactivity of phenols",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the nomenclature, structure, and reactivity of phenols"
+    }
+  ]
+}

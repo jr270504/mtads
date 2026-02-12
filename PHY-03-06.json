@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-03-06",
+  "topic_name": "Power",
+  "unit_id": "PHY-03",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-03-06-MCQ-01",
+      "topic_id": "PHY-03-06",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Power",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Express power as the scalar product of force and velocity",
+      "difficulty": "moderate",
+      "learning_outcome": "Express power as the scalar product of force and velocity"
+    },
+    {
+      "mcq_id": "PHY-03-06-MCQ-02",
+      "topic_id": "PHY-03-06",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Power",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Express power as the scalar product of force and velocity",
+      "difficulty": "moderate",
+      "learning_outcome": "Express power as the scalar product of force and velocity"
+    }
+  ]
+}

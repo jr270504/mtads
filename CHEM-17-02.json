@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-17-02",
+  "topic_name": "Preparation",
+  "unit_id": "CHEM-17",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-17-02-MCQ-01",
+      "topic_id": "CHEM-17-02",
+      "unit_id": "CHEM-17",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Preparation",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Explain the preparation of aldehydes and ketones",
+      "difficulty": "moderate",
+      "learning_outcome": "Explain the preparation of aldehydes and ketones"
+    },
+    {
+      "mcq_id": "CHEM-17-02-MCQ-02",
+      "topic_id": "CHEM-17-02",
+      "unit_id": "CHEM-17",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Preparation",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Explain the preparation of aldehydes and ketones",
+      "difficulty": "moderate",
+      "learning_outcome": "Explain the preparation of aldehydes and ketones"
+    }
+  ]
+}

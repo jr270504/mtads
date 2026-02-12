@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-02-09",
+  "topic_name": "Projectile Motion: Maximum Height, Range, Time of Flight, Maximum Angle",
+  "unit_id": "PHY-02",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-02-09-MCQ-01",
+      "topic_id": "PHY-02-09",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Projectile Motion: Maximum Height, Range, Time of Flight, Maximum Angle",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Calculate, using equations of uniformly accelerated motion for a given initial velocity of a frictionless projectile: maximum height, horizontal range, position after a given time, time in air, parameters for a projectile launched from ground height, launch angle for maximum range, and relation between launch angles that result in the same range",
+      "difficulty": "moderate",
+      "learning_outcome": "Calculate, using equations of uniformly accelerated motion for a given initial velocity of a frictionless projectile: maximum height, horizontal range, position after a given time, time in air, parameters for a projectile launched from ground height, launch angle for maximum range, and relation between launch angles that result in the same range"
+    },
+    {
+      "mcq_id": "PHY-02-09-MCQ-02",
+      "topic_id": "PHY-02-09",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Projectile Motion: Maximum Height, Range, Time of Flight, Maximum Angle",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Calculate, using equations of uniformly accelerated motion for a given initial velocity of a frictionless projectile: maximum height, horizontal range, position after a given time, time in air, parameters for a projectile launched from ground height, launch angle for maximum range, and relation between launch angles that result in the same range",
+      "difficulty": "moderate",
+      "learning_outcome": "Calculate, using equations of uniformly accelerated motion for a given initial velocity of a frictionless projectile: maximum height, horizontal range, position after a given time, time in air, parameters for a projectile launched from ground height, launch angle for maximum range, and relation between launch angles that result in the same range"
+    }
+  ]
+}

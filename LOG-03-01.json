@@ -1,0 +1,43 @@
+{
+  "topic_id": "LOG-03-01",
+  "topic_name": "Logical Deductions",
+  "unit_id": "LOG-03",
+  "subject_id": "LOG",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "LOG-03-01-MCQ-01",
+      "topic_id": "LOG-03-01",
+      "unit_id": "LOG-03",
+      "subject_id": "LOG",
+      "question": "Question 1 related to Logical Deductions",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Infer new relations on the basis of given relations",
+      "difficulty": "moderate",
+      "learning_outcome": "Infer new relations on the basis of given relations"
+    },
+    {
+      "mcq_id": "LOG-03-01-MCQ-02",
+      "topic_id": "LOG-03-01",
+      "unit_id": "LOG-03",
+      "subject_id": "LOG",
+      "question": "Question 2 related to Logical Deductions",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Infer new relations on the basis of given relations",
+      "difficulty": "moderate",
+      "learning_outcome": "Infer new relations on the basis of given relations"
+    }
+  ]
+}

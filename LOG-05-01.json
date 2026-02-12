@@ -1,0 +1,43 @@
+{
+  "topic_id": "LOG-05-01",
+  "topic_name": "Course of Action",
+  "unit_id": "LOG-05",
+  "subject_id": "LOG",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "LOG-05-01-MCQ-01",
+      "topic_id": "LOG-05-01",
+      "unit_id": "LOG-05",
+      "subject_id": "LOG",
+      "question": "Question 1 related to Course of Action",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Construct skills to gather different parts of information",
+      "difficulty": "moderate",
+      "learning_outcome": "Construct skills to gather different parts of information"
+    },
+    {
+      "mcq_id": "LOG-05-01-MCQ-02",
+      "topic_id": "LOG-05-01",
+      "unit_id": "LOG-05",
+      "subject_id": "LOG",
+      "question": "Question 2 related to Course of Action",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Construct skills to gather different parts of information",
+      "difficulty": "moderate",
+      "learning_outcome": "Construct skills to gather different parts of information"
+    }
+  ]
+}

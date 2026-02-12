@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-03-07",
+  "topic_name": "Work Energy Theorem in Resistive Medium",
+  "unit_id": "PHY-03",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-03-07-MCQ-01",
+      "topic_id": "PHY-03-07",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Work Energy Theorem in Resistive Medium",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Describe that work done against friction is dissipated as heat in the environment",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe that work done against friction is dissipated as heat in the environment"
+    },
+    {
+      "mcq_id": "PHY-03-07-MCQ-02",
+      "topic_id": "PHY-03-07",
+      "unit_id": "PHY-03",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Work Energy Theorem in Resistive Medium",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Describe that work done against friction is dissipated as heat in the environment",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe that work done against friction is dissipated as heat in the environment"
+    }
+  ]
+}

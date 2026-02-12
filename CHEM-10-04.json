@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-10-04",
+  "topic_name": "Application of VSEPR Theory",
+  "unit_id": "CHEM-10",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-10-04-MCQ-01",
+      "topic_id": "CHEM-10-04",
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Application of VSEPR Theory",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Determine molecular shapes from the number of bonded pairs",
+      "difficulty": "moderate",
+      "learning_outcome": "Determine molecular shapes from the number of bonded pairs"
+    },
+    {
+      "mcq_id": "CHEM-10-04-MCQ-02",
+      "topic_id": "CHEM-10-04",
+      "unit_id": "CHEM-10",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Application of VSEPR Theory",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Determine molecular shapes from the number of bonded pairs",
+      "difficulty": "moderate",
+      "learning_outcome": "Determine molecular shapes from the number of bonded pairs"
+    }
+  ]
+}

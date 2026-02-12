@@ -1,0 +1,43 @@
+{
+  "topic_id": "LOG-01-01",
+  "topic_name": "Critical Thinking",
+  "unit_id": "LOG-01",
+  "subject_id": "LOG",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "LOG-01-01-MCQ-01",
+      "topic_id": "LOG-01-01",
+      "unit_id": "LOG-01",
+      "subject_id": "LOG",
+      "question": "Question 1 related to Critical Thinking",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Construct logical arguments for statements to be true or false",
+      "difficulty": "moderate",
+      "learning_outcome": "Construct logical arguments for statements to be true or false"
+    },
+    {
+      "mcq_id": "LOG-01-01-MCQ-02",
+      "topic_id": "LOG-01-01",
+      "unit_id": "LOG-01",
+      "subject_id": "LOG",
+      "question": "Question 2 related to Critical Thinking",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Construct logical arguments for statements to be true or false",
+      "difficulty": "moderate",
+      "learning_outcome": "Construct logical arguments for statements to be true or false"
+    }
+  ]
+}

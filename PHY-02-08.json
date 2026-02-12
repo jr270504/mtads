@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-02-08",
+  "topic_name": "Projectile Motion (Velocity)",
+  "unit_id": "PHY-02",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-02-08-MCQ-01",
+      "topic_id": "PHY-02-08",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Projectile Motion (Velocity)",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Describe that the horizontal component of velocity is constant",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe that the horizontal component of velocity is constant"
+    },
+    {
+      "mcq_id": "PHY-02-08-MCQ-02",
+      "topic_id": "PHY-02-08",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Projectile Motion (Velocity)",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Describe that the horizontal component of velocity is constant",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe that the horizontal component of velocity is constant"
+    }
+  ]
+}

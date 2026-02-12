@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-20-02",
+  "topic_name": "Dyes",
+  "unit_id": "CHEM-20",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-20-02-MCQ-01",
+      "topic_id": "CHEM-20-02",
+      "unit_id": "CHEM-20",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Dyes",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Understand types of dyes and their uses",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand types of dyes and their uses"
+    },
+    {
+      "mcq_id": "CHEM-20-02-MCQ-02",
+      "topic_id": "CHEM-20-02",
+      "unit_id": "CHEM-20",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Dyes",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Understand types of dyes and their uses",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand types of dyes and their uses"
+    }
+  ]
+}

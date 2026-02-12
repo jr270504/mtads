@@ -1,0 +1,43 @@
+{
+  "topic_id": "PHY-02-13",
+  "topic_name": "Collision",
+  "unit_id": "PHY-02",
+  "subject_id": "PHY",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "PHY-02-13-MCQ-01",
+      "topic_id": "PHY-02-13",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "question": "Question 1 related to Collision",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Solve problems involving elastic and inelastic collisions between two bodies in one dimension using the law of conservation of momentum",
+      "difficulty": "moderate",
+      "learning_outcome": "Solve problems involving elastic and inelastic collisions between two bodies in one dimension using the law of conservation of momentum"
+    },
+    {
+      "mcq_id": "PHY-02-13-MCQ-02",
+      "topic_id": "PHY-02-13",
+      "unit_id": "PHY-02",
+      "subject_id": "PHY",
+      "question": "Question 2 related to Collision",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Solve problems involving elastic and inelastic collisions between two bodies in one dimension using the law of conservation of momentum",
+      "difficulty": "moderate",
+      "learning_outcome": "Solve problems involving elastic and inelastic collisions between two bodies in one dimension using the law of conservation of momentum"
+    }
+  ]
+}

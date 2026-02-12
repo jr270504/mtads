@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-14-15",
+  "topic_name": "Substitution vs Addition",
+  "unit_id": "CHEM-14",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-14-15-MCQ-01",
+      "topic_id": "CHEM-14-15",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Substitution vs Addition",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize and differentiate between substitution and addition reactions",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize and differentiate between substitution and addition reactions"
+    },
+    {
+      "mcq_id": "CHEM-14-15-MCQ-02",
+      "topic_id": "CHEM-14-15",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Substitution vs Addition",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize and differentiate between substitution and addition reactions",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize and differentiate between substitution and addition reactions"
+    }
+  ]
+}

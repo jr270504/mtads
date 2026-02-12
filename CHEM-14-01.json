@@ -1,0 +1,43 @@
+{
+  "topic_id": "CHEM-14-01",
+  "topic_name": "Nomenclature of Alkanes",
+  "unit_id": "CHEM-14",
+  "subject_id": "CHEM",
+  "total_mcqs": 2,
+  "mcqs": [
+    {
+      "mcq_id": "CHEM-14-01-MCQ-01",
+      "topic_id": "CHEM-14-01",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "question": "Question 1 related to Nomenclature of Alkanes",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 0,
+      "explanation": "This question tests understanding of Characterize the nomenclature of alkanes",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize the nomenclature of alkanes"
+    },
+    {
+      "mcq_id": "CHEM-14-01-MCQ-02",
+      "topic_id": "CHEM-14-01",
+      "unit_id": "CHEM-14",
+      "subject_id": "CHEM",
+      "question": "Question 2 related to Nomenclature of Alkanes",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_answer": 1,
+      "explanation": "This question tests understanding of Characterize the nomenclature of alkanes",
+      "difficulty": "moderate",
+      "learning_outcome": "Characterize the nomenclature of alkanes"
+    }
+  ]
+}
