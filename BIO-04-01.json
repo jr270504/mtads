@@ -3,41 +3,177 @@
   "topic_name": "Cell Structure",
   "unit_id": "BIO-04",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-04-01-MCQ-01",
       "topic_id": "BIO-04-01",
       "unit_id": "BIO-04",
       "subject_id": "BIO",
-      "question": "Question 1 related to Cell Structure",
+      "question": "Which of the following chemical components is exclusively present in the secondary cell wall of plant cells, making it more rigid than the primary wall?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Pectic acid",
+        "Magnesium",
+        "Lignin",
+        "Chitin"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Contrast the structural features of typical animal and plant cells",
-      "difficulty": "moderate",
-      "learning_outcome": "Contrast the structural features of typical animal and plant cells"
+      "correct_answer": 2,
+      "explanation": "In some plant cells, a secondary wall is made between the protoplast and primary wall. It contains lignin, cellulose, and hemicellulose. Due to the presence of lignin, the secondary wall is more rigid than the primary wall.",
+      "difficulty": "easy",
+      "learning_outcome": "Describe the structure and composition of plant cell walls."
     },
     {
       "mcq_id": "BIO-04-01-MCQ-02",
       "topic_id": "BIO-04-01",
       "unit_id": "BIO-04",
       "subject_id": "BIO",
-      "question": "Question 2 related to Cell Structure",
+      "question": "During the formation of plasmodesmata in plant cells, parts of which specific cellular organelle become trapped in the new cell wall to connect the cytoplasm of neighboring cells?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Golgi apparatus",
+        "Endoplasmic reticulum",
+        "Mitochondria",
+        "Lysosomes"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Contrast the structural features of typical animal and plant cells",
+      "explanation": "Plasmodesmata are formed during cell division when parts of the endoplasmic reticulum of the parent cell get trapped in the newly forming cell wall, allowing direct communication between adjacent cells.",
       "difficulty": "moderate",
-      "learning_outcome": "Contrast the structural features of typical animal and plant cells"
+      "learning_outcome": "Understand the formation and function of plasmodesmata in cellular communication."
+    },
+    {
+      "mcq_id": "BIO-04-01-MCQ-03",
+      "topic_id": "BIO-04-01",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "According to the structural composition of the plasma membrane, what is the approximate percentage of lipids by weight in the plasma membrane of a human red blood cell?",
+      "options": [
+        "24%",
+        "43%",
+        "49%",
+        "52%"
+      ],
+      "correct_answer": 1,
+      "explanation": "The plasma membrane of a human red blood cell is composed of 49% protein, 43% lipid, and 8% carbohydrate by weight.",
+      "difficulty": "hard",
+      "learning_outcome": "Recall the biochemical composition of plasma membranes in different cell types."
+    },
+    {
+      "mcq_id": "BIO-04-01-MCQ-04",
+      "topic_id": "BIO-04-01",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "The nucleolus is a prominent darkly stained structure within the nucleoplasm. Which specific type of nucleic acid is encoded by the DNA found at the Nucleolus Organizer Regions (NORs)?",
+      "options": [
+        "Transfer RNA (tRNA)",
+        "Messenger RNA (mRNA)",
+        "Ribosomal RNA (rRNA)",
+        "Small nuclear RNA (snRNA)"
+      ],
+      "correct_answer": 2,
+      "explanation": "Nucleoli are formed at certain sites on chromosomes called Nucleolus Organizer Regions (NORs). The DNA found at these NORs specifically encodes ribosomal RNA (rRNA).",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify the sub-components of the nucleus and the function of the nucleolus."
+    },
+    {
+      "mcq_id": "BIO-04-01-MCQ-05",
+      "topic_id": "BIO-04-01",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "While the rough endoplasmic reticulum is involved in protein processing, which of the following is a primary physiological function of the smooth endoplasmic reticulum (SER)?",
+      "options": [
+        "Synthesis of ribosomal subunits",
+        "Detoxification of drugs and poisons",
+        "Addition of sugars to secretory proteins",
+        "Formation of the nuclear lamina"
+      ],
+      "correct_answer": 1,
+      "explanation": "The smooth endoplasmic reticulum lacks ribosomes and is chiefly involved in the production of lipids, carbohydrate metabolism, and the detoxification of drugs and poisons (particularly in liver cells).",
+      "difficulty": "moderate",
+      "learning_outcome": "Differentiate between the structural and functional roles of the rough and smooth endoplasmic reticulum."
+    },
+    {
+      "mcq_id": "BIO-04-01-MCQ-06",
+      "topic_id": "BIO-04-01",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "During the process of osmosis across a selectively permeable cell membrane, in which direction does water naturally move?",
+      "options": [
+        "From a hypertonic solution to a hypotonic solution",
+        "From an area of higher solute concentration to an area of lower solute concentration",
+        "From a hypotonic solution to a hypertonic solution",
+        "It moves equally in both directions resulting in zero net flow regardless of concentration"
+      ],
+      "correct_answer": 2,
+      "explanation": "Osmosis is the diffusion of water across a membrane. Because it moves from a higher water concentration to a lower water concentration, water always moves from a hypotonic solution (lower solute concentration) to a hypertonic solution (higher solute concentration).",
+      "difficulty": "moderate",
+      "learning_outcome": "Explain the concept of osmosis and the movement of water relative to solute concentrations."
+    },
+    {
+      "mcq_id": "BIO-04-01-MCQ-07",
+      "topic_id": "BIO-04-01",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "The nuclear pore complex regulates the passage of molecules in and out of the nucleus. Which specific subunit of this complex is responsible for anchoring it into the nuclear envelope?",
+      "options": [
+        "Annular subunit",
+        "Column subunit",
+        "Ring subunit",
+        "Lumenal subunit"
+      ],
+      "correct_answer": 3,
+      "explanation": "The nuclear pore complex is composed of several subunits. The lumenal subunit is specifically responsible for anchoring the pore complex into the nuclear envelope.",
+      "difficulty": "hard",
+      "learning_outcome": "Describe the detailed ultrastructure of the nuclear envelope and pore complex."
+    },
+    {
+      "mcq_id": "BIO-04-01-MCQ-08",
+      "topic_id": "BIO-04-01",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Prokaryotic ribosomes differ in size from eukaryotic ribosomes. What are the specific sedimentation rates (Svedberg values) for the smaller and larger subunits of a prokaryotic ribosome?",
+      "options": [
+        "40S and 60S",
+        "30S and 50S",
+        "40S and 50S",
+        "30S and 60S"
+      ],
+      "correct_answer": 1,
+      "explanation": "The Svedberg values (sedimentation rates) of the smaller and larger subunits of ribosomes in prokaryotic cells are 30S and 50S, respectively, combining to form a complete 70S ribosome.",
+      "difficulty": "easy",
+      "learning_outcome": "Compare the structural components of prokaryotic and eukaryotic cells."
+    },
+    {
+      "mcq_id": "BIO-04-01-MCQ-09",
+      "topic_id": "BIO-04-01",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "The sodium-potassium pump is a crucial active transport mechanism in nerve cells. How does this pump utilize ATP to move ions in a resting nerve cell?",
+      "options": [
+        "It moves Na+ and K+ passively down their concentration gradients without ATP.",
+        "It pumps both Na+ and K+ into the cell simultaneously.",
+        "It actively moves Na+ to the outside of the cell and K+ to the inside of the cell.",
+        "It actively moves Na+ to the inside of the cell and K+ to the outside of the cell."
+      ],
+      "correct_answer": 2,
+      "explanation": "In active transport, the sodium-potassium pump expends energy (ATP) to actively move Na+ to the outside of the cell and K+ to the inside of the cell, maintaining higher concentrations of K+ inside and lower concentrations of Na+ inside.",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand the mechanism of active transport through carrier proteins."
+    },
+    {
+      "mcq_id": "BIO-04-01-MCQ-10",
+      "topic_id": "BIO-04-01",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "The core of eukaryotic cilia and flagella is called the axoneme. What is the specific structural arrangement of microtubules within this axoneme?",
+      "options": [
+        "Nine central microtubules surrounded by two doublet microtubules",
+        "Two central microtubules surrounded by an outer ring of nine doublet microtubules",
+        "Nine triplet microtubules arranged in a ring with no central microtubules",
+        "Two central microtubules surrounded by an outer ring of nine triplet microtubules"
+      ],
+      "correct_answer": 1,
+      "explanation": "The axoneme, which forms the core of eukaryotic cilia and flagella, consists of a '9 + 2' organization: two central microtubules surrounded by an outer ring of nine doublet microtubules.",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify the ultrastructure of locomotor appendages such as cilia and flagella."
     }
   ]
 }
