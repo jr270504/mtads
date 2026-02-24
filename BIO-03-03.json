@@ -3,41 +3,177 @@
   "topic_name": "Carbohydrates",
   "unit_id": "BIO-03",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-03-03-MCQ-01",
       "topic_id": "BIO-03-03",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 1 related to Carbohydrates",
+      "question": "During photosynthesis, carbon dioxide and water react to form a carbohydrate molecule. In this resulting molecule, what is the molar ratio of carbon, hydrogen, and oxygen respectively?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "1:2:1",
+        "2:1:2",
+        "1:1:1",
+        "1:2:2"
       ],
       "correct_answer": 0,
-      "explanation": "This question tests understanding of Explain carbohydrates including monosaccharides such as glucose, oligosaccharides such as sucrose and lactose, and polysaccharides including starches, cellulose, and glycogen",
-      "difficulty": "moderate",
-      "learning_outcome": "Explain carbohydrates including monosaccharides such as glucose, oligosaccharides such as sucrose and lactose, and polysaccharides including starches, cellulose, and glycogen"
+      "explanation": "Carbohydrates are synthesized as primary products of photosynthesis. During this process, when carbon dioxide is reduced, the resulting carbohydrate molecule contains carbon, hydrogen, and oxygen in the exact molar ratio of 1:2:1.",
+      "difficulty": "easy",
+      "learning_outcome": "Recall the basic chemical composition and empirical formula of carbohydrates."
     },
     {
       "mcq_id": "BIO-03-03-MCQ-02",
       "topic_id": "BIO-03-03",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 2 related to Carbohydrates",
+      "question": "Which of the following monosaccharides is classified as a tetrose and occurs as an intermediate during the process of photosynthesis in bacteria?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Glyceraldehyde",
+        "Ribulose",
+        "Erythrose",
+        "Dihydroxyacetone"
+      ],
+      "correct_answer": 2,
+      "explanation": "According to the classification of monosaccharides, tetroses have 4 carbon atoms. Erythrose and erythrulose are examples of tetroses that occur as rare intermediates in photosynthesis within bacteria.",
+      "difficulty": "moderate",
+      "learning_outcome": "Classify monosaccharides based on the number of carbon atoms and identify their biological examples."
+    },
+    {
+      "mcq_id": "BIO-03-03-MCQ-03",
+      "topic_id": "BIO-03-03",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Glucose and fructose have the same molecular formula (C6H12O6) but differ in their structural arrangement. Which specific structural feature distinguishes a fructose molecule from a glucose molecule?",
+      "options": [
+        "Fructose has an aldehyde group at carbon 1.",
+        "Fructose has a double-bonded oxygen attached to internal carbon number 2.",
+        "Fructose has a different orientation of the hydroxyl (-OH) group at carbon 4.",
+        "Fructose forms a six-cornered ring in an aqueous solution."
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Explain carbohydrates including monosaccharides such as glucose, oligosaccharides such as sucrose and lactose, and polysaccharides including starches, cellulose, and glycogen",
+      "explanation": "Glucose and fructose are structural isomers. The major structural difference is that in fructose (a ketose), the double-bonded oxygen is attached to an internal carbon (carbon no. 2), whereas in glucose (an aldose), it is attached to a terminal carbon.",
       "difficulty": "moderate",
-      "learning_outcome": "Explain carbohydrates including monosaccharides such as glucose, oligosaccharides such as sucrose and lactose, and polysaccharides including starches, cellulose, and glycogen"
+      "learning_outcome": "Differentiate between structural isomers of common hexose sugars."
+    },
+    {
+      "mcq_id": "BIO-03-03-MCQ-04",
+      "topic_id": "BIO-03-03",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Glucose and galactose are considered stereoisomers of each other. This is due to the difference in the orientation of a single hydroxyl (-OH) group located specifically at which carbon atom?",
+      "options": [
+        "Carbon 1",
+        "Carbon 2",
+        "Carbon 3",
+        "Carbon 4"
+      ],
+      "correct_answer": 3,
+      "explanation": "Glucose and galactose are stereoisomers because they possess a difference in the spatial orientation of one specific hydroxyl (-OH) group, which is located at carbon number 4.",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify the chemical basis of stereoisomerism in hexose sugars."
+    },
+    {
+      "mcq_id": "BIO-03-03-MCQ-05",
+      "topic_id": "BIO-03-03",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "When dissolved in an aqueous solution, most monosaccharides form ring structures. In the case of fructose, the oxygen-bridge develops between which two carbon atoms to form its characteristic five-cornered ring?",
+      "options": [
+        "Carbon 1 and 4",
+        "Carbon 1 and 5",
+        "Carbon 2 and 5",
+        "Carbon 2 insertions and 6"
+      ],
+      "correct_answer": 2,
+      "explanation": "In fructose, ring formation occurs in solution when an oxygen-bridge develops between carbon number 2 and carbon number 5, thereby forming a characteristic five-cornered ring.",
+      "difficulty": "hard",
+      "learning_outcome": "Determine the exact carbon linkages involved in the ring structures of monosaccharides."
+    },
+    {
+      "mcq_id": "BIO-03-03-MCQ-06",
+      "topic_id": "BIO-03-03",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Ribose is a critical five-carbon pentose sugar found in RNA. When ribose goes into solution, it forms a five-cornered ring. Between which carbon atoms does the oxygen-bridge develop to form this structure?",
+      "options": [
+        "Carbon 1 and 4",
+        "Carbon 1 and 5",
+        "Carbon 2 and 4",
+        "Carbon 2 and 5"
+      ],
+      "correct_answer": 0,
+      "explanation": "When ribose goes into an aqueous solution, an oxygen-bridge develops specifically between carbon number 1 and carbon number 4, which yields a five-cornered ring structure.",
+      "difficulty": "hard",
+      "learning_outcome": "Determine the exact carbon linkages involved in the ring structures of monosaccharides."
+    },
+    {
+      "mcq_id": "BIO-03-03-MCQ-07",
+      "topic_id": "BIO-03-03",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "During the ring formation of a glucose molecule in an aqueous solution, between which two carbon atoms does the oxygen-bridge form to create its typical six-cornered ring?",
+      "options": [
+        "Carbon 1 and 4",
+        "Carbon 1 and 5",
+        "Carbon 2 and 5",
+        "Carbon 1 and 6"
+      ],
+      "correct_answer": 1,
+      "explanation": "In the case of glucose (as well as galactose), an oxygen-bridge develops between carbon number 1 and carbon number 5 when it is in solution. Consequently, a six-cornered ring is formed.",
+      "difficulty": "moderate",
+      "learning_outcome": "Determine the exact carbon linkages involved in the ring structures of monosaccharides."
+    },
+    {
+      "mcq_id": "BIO-03-03-MCQ-08",
+      "topic_id": "BIO-03-03",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Alpha-D-glucose and beta-D-glucose are two structural forms of D-glucose. They differ structurally only in the direction of the hydroxyl (-OH) group attached to which specific carbon atom?",
+      "options": [
+        "Carbon 1",
+        "Carbon 2",
+        "Carbon 4",
+        "Carbon 5"
+      ],
+      "correct_answer": 0,
+      "explanation": "There are two forms of D-glucose (alpha-D-glucose and beta-D-glucose). They differ only in the direction of the -OH group attached specifically to carbon 1. Alpha has it on the lower side, while beta has it on the upper side.",
+      "difficulty": "moderate",
+      "learning_outcome": "Distinguish between alpha and beta configurations of cyclic monosaccharides."
+    },
+    {
+      "mcq_id": "BIO-03-03-MCQ-09",
+      "topic_id": "BIO-03-03",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "When numerous cyclic monosaccharide molecules polymerize, they form complex polysaccharides. Which specific polymers are formed by the joining of many alpha-D-glucose and beta-D-glucose molecules, respectively?",
+      "options": [
+        "Glycogen and Chitin",
+        "Starch and Cellulose",
+        "Cellulose and Starch",
+        "Sucrose and Maltose"
+      ],
+      "correct_answer": 1,
+      "explanation": "When many alpha-D-glucose molecules join together, they form a polymer called starch. In contrast, when many beta-D-glucose molecules polymerize, they form a structural polymer called cellulose.",
+      "difficulty": "moderate",
+      "learning_outcome": "Correlate specific monosaccharide monomers with the complex polysaccharides they form."
+    },
+    {
+      "mcq_id": "BIO-03-03-MCQ-10",
+      "topic_id": "BIO-03-03",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which of the following common five-carbon (pentose) sugars acts specifically as a crucial precursor molecule in the process of photosynthesis?",
+      "options": [
+        "Ribose",
+        "Deoxyribose",
+        "Ribulose",
+        "Erythrulose"
+      ],
+      "correct_answer": 2,
+      "explanation": "Ribulose is a five-carbon (pentose) ketose sugar that specifically occurs as a biological precursor in the process of photosynthesis (it forms Ribulose biphosphate in the carbon fixation stage).",
+      "difficulty": "hard",
+      "learning_outcome": "Recognize the biological roles of specific pentose and hexose sugars."
     }
   ]
 }
