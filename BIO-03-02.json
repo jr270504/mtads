@@ -3,41 +3,177 @@
   "topic_name": "Biological Importance of Water",
   "unit_id": "BIO-03",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-03-02-MCQ-01",
       "topic_id": "BIO-03-02",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 1 related to Biological Importance of Water",
+      "question": "What structural features of the water molecule are primarily responsible for its excellent ability to dissolve a wide variety of charged and polar substances?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Its low molecular weight and small size",
+        "The non-polar covalent bonds between its hydrogen and oxygen atoms",
+        "The polarity of the molecule and its ability to form hydrogen bonds",
+        "Its high specific heat capacity and high heat of vaporization"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Characterize biologically significant properties of water including polarity, hydrolysis, specific heat capacity, solvent capability, reagent function, density, cohesion, and ionization",
-      "difficulty": "moderate",
-      "learning_outcome": "Characterize biologically significant properties of water including polarity, hydrolysis, specific heat capacity, solvent capability, reagent function, density, cohesion, and ionization"
+      "correct_answer": 2,
+      "explanation": "The ability of water to dissolve a wide variety of substances is due to two key properties: the polarity of water molecules (which have partial positive and negative charges) and their ability to form hydrogen bonds with other charged or polar molecules.",
+      "difficulty": "easy",
+      "learning_outcome": "Understand the solvent properties of water and their structural basis."
     },
     {
       "mcq_id": "BIO-03-02-MCQ-02",
       "topic_id": "BIO-03-02",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 2 related to Biological Importance of Water",
+      "question": "Water is the most abundant compound found in all organisms. Approximately what percentage of water is present in human bone cells and brain cells, respectively?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "20% and 85%",
+        "85% and 20%",
+        "65% and 89%",
+        "50% and 90%"
+      ],
+      "correct_answer": 0,
+      "explanation": "The concentration of water varies from tissue to tissue. For example, human bone cells are made up of about 20 percent water, whereas brain cells contain 85 percent water.",
+      "difficulty": "moderate",
+      "learning_outcome": "Recall the percentage composition of water in different biological tissues."
+    },
+    {
+      "mcq_id": "BIO-03-02-MCQ-03",
+      "topic_id": "BIO-03-02",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "The specific heat of vaporization of water plays a crucial role in providing a cooling effect to organisms. What is the specific heat of vaporization of water?",
+      "options": [
+        "4.184 Joules/g",
+        "574 Kcal/kg",
+        "574 Joules/kg",
+        "4.184 Kcal/kg"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Characterize biologically significant properties of water including polarity, hydrolysis, specific heat capacity, solvent capability, reagent function, density, cohesion, and ionization",
+      "explanation": "The heat of vaporization is the amount of heat required to change a liquid to a gas. For water, its heat of vaporization is 574 Kcal/kg, which helps moderate Earth's temperature and provides a cooling effect for plants and animals.",
       "difficulty": "moderate",
-      "learning_outcome": "Characterize biologically significant properties of water including polarity, hydrolysis, specific heat capacity, solvent capability, reagent function, density, cohesion, and ionization"
+      "learning_outcome": "Identify the heat of vaporization of water and its biological significance."
+    },
+    {
+      "mcq_id": "BIO-03-02-MCQ-04",
+      "topic_id": "BIO-03-02",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Evaporation of water provides a significant cooling effect. If 2 ml of water evaporates out of 1 litre of water, what will be the effect on the temperature of the remaining 998 ml of water?",
+      "options": [
+        "It will decrease by 1°C.",
+        "It will decrease by 2°C.",
+        "It will increase by 1°C.",
+        "It will remain unchanged."
+      ],
+      "correct_answer": 0,
+      "explanation": "Due to water's high heat of vaporization, the evaporation of just 2 ml of water out of 1 litre is sufficient to lower the temperature of the remaining 998 ml of water by exactly 1°C.",
+      "difficulty": "hard",
+      "learning_outcome": "Calculate or deduce the cooling effect of water's evaporation."
+    },
+    {
+      "mcq_id": "BIO-03-02-MCQ-05",
+      "topic_id": "BIO-03-02",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which specific phenomenon causes non-polar molecules like lipids to cluster together in water, thereby playing a crucial role in maintaining the integrity of cellular membranes?",
+      "options": [
+        "Cohesion",
+        "High surface tension",
+        "Hydrophilic interactions",
+        "Hydrophobic exclusion"
+      ],
+      "correct_answer": 3,
+      "explanation": "Non-polar molecules are insoluble in water because water molecules do not form hydrogen bonds with them. This forces non-polar molecules to move out and make strong associations among themselves, a process known as hydrophobic exclusion, which helps lipids maintain cell membranes.",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand hydrophobic exclusion and its role in biological membranes."
+    },
+    {
+      "mcq_id": "BIO-03-02-MCQ-06",
+      "topic_id": "BIO-03-02",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "The evaporation of water from a leaf exerts a pulling force on the water column. Which property of water allows this force to be relayed through the xylem vessels all the way down to the roots without breaking?",
+      "options": [
+        "High heat capacity",
+        "Maximum density at 4°C",
+        "Cohesion",
+        "Ionization"
+      ],
+      "correct_answer": 2,
+      "explanation": "Hydrogen bonds among water molecules enable them to 'stick together', a property called cohesion. Because of this high cohesion inside water, the pulling force exerted by evaporation in leaves is relayed through the xylem vessels down to the roots.",
+      "difficulty": "easy",
+      "learning_outcome": "Relate the cohesive properties of water to transport in plants."
+    },
+    {
+      "mcq_id": "BIO-03-02-MCQ-07",
+      "topic_id": "BIO-03-02",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Water works as an excellent temperature stabilizer for organisms. By definition, what is the specific heat capacity of water?",
+      "options": [
+        "The energy required to change 1 kg of liquid water into vapours.",
+        "The amount of heat (4.184 Joules) required to raise the temperature of 1 gram of water from 15°C to 16°C.",
+        "The energy required to break the hydrogen bonds in 1 mole of water.",
+        "The amount of energy released when water cools from 4°C to 0°C."
+      ],
+      "correct_answer": 1,
+      "explanation": "Specific heat capacity is defined as the number of calories (or heat amount) required to raise the temperature of 1 gram of a substance from 15°C to 16°C. For water, it is 4.184 Joules, granting it great ability to absorb and release heat with minimal internal temperature change.",
+      "difficulty": "moderate",
+      "learning_outcome": "Define specific heat capacity and understand its stabilizing role in biology."
+    },
+    {
+      "mcq_id": "BIO-03-02-MCQ-08",
+      "topic_id": "BIO-03-02",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Water undergoes a reversible ionization process into hydrogen (H+) and hydroxyl (OH-) ions. At normal room temperature (25°C), what is the concentration of H+ and OH- ions in pure water?",
+      "options": [
+        "10^-7 moles/litre",
+        "10^-14 moles/litre",
+        "10^-4 moles/litre",
+        "550 million moles/litre"
+      ],
+      "correct_answer": 0,
+      "explanation": "At normal room temperature (25°C), one in every 550 million water molecules is ionized. Thus, the concentration of both H+ and OH- ions in pure water remains at exactly 10^-7 moles/litre.",
+      "difficulty": "hard",
+      "learning_outcome": "Recall the exact concentration of ions in pure water at room temperature."
+    },
+    {
+      "mcq_id": "BIO-03-02-MCQ-09",
+      "topic_id": "BIO-03-02",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Water exhibits its maximum density at 4°C. Why is the resulting ice at 0°C less dense than liquid water, causing it to float?",
+      "options": [
+        "Because the covalent bonds between hydrogen and oxygen expand and lengthen at 0°C.",
+        "Because ice has a lower molecular mass than liquid water.",
+        "Because all hydrogen bonds break completely at 0°C, increasing the volume.",
+        "Because hydrogen bonding keeps water molecules further apart in solid ice than in liquid water."
+      ],
+      "correct_answer": 3,
+      "explanation": "Water's density decreases as temperature lowers below 4°C. When it falls to 0°C, water freezes, but the ice is less dense than liquid water because hydrogen bonding keeps the water molecules further apart in the solid crystal lattice than they are in liquid water.",
+      "difficulty": "moderate",
+      "learning_outcome": "Explain the density anomaly of water and its environmental impact."
+    },
+    {
+      "mcq_id": "BIO-03-02-MCQ-10",
+      "topic_id": "BIO-03-02",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "An insect, such as a water-strider, can walk on the surface of water without breaking it. This biological phenomenon is primarily due to water's high surface tension, which is directly created by:",
+      "options": [
+        "The ionization of water molecules into H+ and OH-",
+        "Hydrogen bonds among the water molecules",
+        "Hydrophobic exclusion pushing the insect up",
+        "The specific heat capacity of the water surface"
+      ],
+      "correct_answer": 1,
+      "explanation": "Hydrogen bonds among water molecules enable them to stick together (cohesion), which also gives water a very high surface tension. This allows water to behave as if coated with an invisible film, supporting insects like the water-strider.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the molecular interaction responsible for surface tension in water."
     }
   ]
 }
