@@ -3,41 +3,177 @@
   "topic_name": "Proteins",
   "unit_id": "BIO-03",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-03-04-MCQ-01",
       "topic_id": "BIO-03-04",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 1 related to Proteins",
+      "question": "According to the classification of proteins based on their structure, which of the following is a characteristic feature of globular proteins?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "They are non-crystalline and highly elastic.",
+        "They are composed only of primary and secondary structures.",
+        "They are soluble in salt, acid, or base solutions.",
+        "They play mainly a structural role in the body and do not disorganize easily."
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Characterize proteins focusing on amino acid composition and structural organization",
+      "correct_answer": 2,
+      "explanation": "Globular proteins are soluble in salt, acid, or base solutions, and in aqueous alcohol. In contrast, fibrous proteins are insoluble, non-crystalline, and elastic. Furthermore, globular proteins are easily disorganized with changes in the environment.",
       "difficulty": "moderate",
-      "learning_outcome": "Characterize proteins focusing on amino acid composition and structural organization"
+      "learning_outcome": "Classify proteins based on their structural characteristics (fibrous vs. globular)."
     },
     {
       "mcq_id": "BIO-03-04-MCQ-02",
       "topic_id": "BIO-03-04",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 2 related to Proteins",
+      "question": "Which of the following proteins is classified as a fibrous protein and functions specifically in the formation of blood clots?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Haemoglobin",
+        "Fibrin",
+        "Albumin",
+        "Insulin"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Characterize proteins focusing on amino acid composition and structural organization",
+      "explanation": "Fibrin is classified as a fibrous protein and is involved in forming blood clots. Haemoglobin is a globular transport protein, albumin maintains osmotic concentration, and insulin is a globular hormone.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify examples of fibrous and globular proteins and their roles."
+    },
+    {
+      "mcq_id": "BIO-03-04-MCQ-03",
+      "topic_id": "BIO-03-04",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which specific blood protein is responsible for maintaining the osmotic concentration of blood and keeping it flowing?",
+      "options": [
+        "Fibrinogen",
+        "Albumin",
+        "Ferritin",
+        "Casein"
+      ],
+      "correct_answer": 1,
+      "explanation": "Albumin is a specific blood protein that maintains the osmotic concentration of blood and keeps it flowing properly.",
       "difficulty": "moderate",
-      "learning_outcome": "Characterize proteins focusing on amino acid composition and structural organization"
+      "learning_outcome": "Describe the diverse functional roles of proteins in biological systems."
+    },
+    {
+      "mcq_id": "BIO-03-04-MCQ-04",
+      "topic_id": "BIO-03-04",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Certain proteins serve as ion-binding molecules to store specific ions in different parts of the body. Which protein specifically stores potassium and calcium ions?",
+      "options": [
+        "Ferritin",
+        "Casein",
+        "Cytochrome",
+        "Myoglobin"
+      ],
+      "correct_answer": 1,
+      "explanation": "Casein is a milk protein that functions to store potassium and calcium ions. In contrast, ferritin is an intracellular iron storage protein.",
+      "difficulty": "hard",
+      "learning_outcome": "Identify ion-binding proteins and the specific ions they store."
+    },
+    {
+      "mcq_id": "BIO-03-04-MCQ-05",
+      "topic_id": "BIO-03-04",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "What is the primary biological function of repressor proteins in living organisms?",
+      "options": [
+        "They catalyse the breakdown of large polypeptide chains.",
+        "They regulate gene action by preventing the synthesis of RNA.",
+        "They convert foreign substances (antigens) into harmless products.",
+        "They control the movement of sodium and potassium ions across the membrane."
+      ],
+      "correct_answer": 1,
+      "explanation": "Repressors are proteins that regulate gene action by preventing the synthesis of RNA. These proteins allow genes to work only where and when they are required.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the diverse functional roles of proteins in biological systems."
+    },
+    {
+      "mcq_id": "BIO-03-04-MCQ-06",
+      "topic_id": "BIO-03-04",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Many important hormones in animals are protein or peptide in nature. Which of the following protein-based hormones is primarily responsible for increasing water retention by the kidneys?",
+      "options": [
+        "Oxytocin",
+        "Insulin",
+        "Antidiuretic hormone",
+        "Glycogen"
+      ],
+      "correct_answer": 2,
+      "explanation": "The antidiuretic hormone is a protein/peptide-based hormone that specifically increases water retention by the kidneys. Insulin controls blood glucose levels, and oxytocin regulates milk production.",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify proteinaceous hormones and their specific physiological functions."
+    },
+    {
+      "mcq_id": "BIO-03-04-MCQ-07",
+      "topic_id": "BIO-03-04",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which of the following statements correctly details the properties of fibrous proteins?",
+      "options": [
+        "They are easily disorganized by slight changes in the external environment.",
+        "They possess tertiary and quaternary structural organization.",
+        "They do not disorganize easily and mostly possess primary or secondary structures.",
+        "They function mainly as biocatalysts, transport proteins, and antibodies."
+      ],
+      "correct_answer": 2,
+      "explanation": "Fibrous proteins consist of primary or secondary structures in the form of fibrils. They play structural roles, are non-crystalline, elastic, insoluble, and importantly, they do not disorganize easily, unlike globular proteins.",
+      "difficulty": "moderate",
+      "learning_outcome": "Classify proteins based on their structural characteristics (fibrous vs. globular)."
+    },
+    {
+      "mcq_id": "BIO-03-04-MCQ-08",
+      "topic_id": "BIO-03-04",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "In the cell membrane of neurons, which specific structural component forms the sodium-potassium pump that controls the movement of Na+ and K+ ions?",
+      "options": [
+        "Channel proteins",
+        "Glycolipids",
+        "Repressor proteins",
+        "Fibrous collagen"
+      ],
+      "correct_answer": 0,
+      "explanation": "Channel proteins located in the membranes of cells control the movement of materials in and out of cells. A classic example is the proteins that make up the sodium-potassium pump in the cell membrane of neurons.",
+      "difficulty": "easy",
+      "learning_outcome": "Recognize the role of membrane proteins in cellular transport."
+    },
+    {
+      "mcq_id": "BIO-03-04-MCQ-09",
+      "topic_id": "BIO-03-04",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "During the process of blood clotting, which protein is activated and converted into fibres to seal an injury and prevent blood loss?",
+      "options": [
+        "Ferritin",
+        "Fibrinogen",
+        "Albumin",
+        "Actin"
+      ],
+      "correct_answer": 1,
+      "explanation": "Fibrinogen is a protein present in the blood. Upon injury, fibrinogen is activated into fibrin, which forms fibres that create a clot to prevent the loss of blood.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the diverse functional roles of proteins in biological systems."
+    },
+    {
+      "mcq_id": "BIO-03-04-MCQ-10",
+      "topic_id": "BIO-03-04",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Haemoglobin, myoglobin, and cytochromes all fall under the category of globular proteins. What is their primary functional role in biological systems?",
+      "options": [
+        "Forming the structural matrix of connective tissues.",
+        "Providing defense against invading foreign substances.",
+        "Transporting different materials such as oxygen and electrons.",
+        "Catalysing the synthesis and breakdown of complex polymers."
+      ],
+      "correct_answer": 2,
+      "explanation": "Haemoglobin and myoglobin are globular proteins that transport oxygen (O2) throughout the body, while cytochromes work as electron carriers in the electron transport chain. All of these are functioning as transport proteins.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify examples of globular proteins and their specific transport functions."
     }
   ]
 }
