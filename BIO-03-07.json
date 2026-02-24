@@ -3,41 +3,177 @@
   "topic_name": "Conjugated Molecules",
   "unit_id": "BIO-03",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-03-07-MCQ-01",
       "topic_id": "BIO-03-07",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 1 related to Conjugated Molecules",
+      "question": "Which cellular organelle is primarily responsible for processing and adding carbohydrates to proteins and lipids to form conjugated molecules such as glycoproteins and glycolipids?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Rough Endoplasmic Reticulum",
+        "Golgi apparatus",
+        "Lysosomes",
+        "Ribosomes"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Explain conjugated molecules including glycolipids and glycoproteins",
+      "correct_answer": 1,
+      "explanation": "Enzymes present in the Golgi lumen process compounds received from the endoplasmic reticulum and convert them into conjugated molecules like glycoproteins and glycolipids.",
       "difficulty": "moderate",
-      "learning_outcome": "Explain conjugated molecules including glycolipids and glycoproteins"
+      "learning_outcome": "Understand the synthesis and cellular location of conjugated molecules."
     },
     {
       "mcq_id": "BIO-03-07-MCQ-02",
       "topic_id": "BIO-03-07",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 2 related to Conjugated Molecules",
+      "question": "In the fluid mosaic model of the plasma membrane, glycoproteins and glycolipids collectively form a layer known as the glycocalyx. What is its primary biological function?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Providing rigid structural support to prevent cell expansion",
+        "Regulating the active transport of essential ions",
+        "Acting as cell identification marks recognized by other cells",
+        "Catalyzing the synthesis of ATP during cellular respiration"
+      ],
+      "correct_answer": 2,
+      "explanation": "The glycolipids and glycoproteins on the outside surface of the plasma membrane are collectively called the glycocalyx. They function as specific cell identification marks that are recognized by other cells.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the functional roles of glycoproteins and glycolipids in the plasma membrane."
+    },
+    {
+      "mcq_id": "BIO-03-07-MCQ-03",
+      "topic_id": "BIO-03-07",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Ribosomes are crucial subcellular structures that can be classified as nucleoproteins (a type of conjugated molecule). What is the exact composition of a ribosome?",
+      "options": [
+        "60% DNA and 40% protein",
+        "40% rRNA and 60% protein",
+        "60% rRNA and 40% protein",
+        "50% mRNA and 50% protein"
+      ],
+      "correct_answer": 2,
+      "explanation": "Ribosomes are tiny granular structures composed of approximately 60 percent ribosomal RNA (rRNA) and 40 percent protein, making them vital nucleoprotein complexes.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the structural composition of nucleoproteins such as ribosomes."
+    },
+    {
+      "mcq_id": "BIO-03-07-MCQ-04",
+      "topic_id": "BIO-03-07",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Inside the nucleus, DNA is complexed with specific basic proteins to form a conjugated structure known as chromatin. Which specific proteins bind with DNA to form bead-like nucleosomes?",
+      "options": [
+        "Actin",
+        "Histones",
+        "Tubulin",
+        "Albumin"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Explain conjugated molecules including glycolipids and glycoproteins",
+      "explanation": "Chromatin is composed of DNA and proteins. The DNA strand wraps around groups of small proteins called histones to form bead-like structures called nucleosomes.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the protein components of the nucleoprotein complex chromatin."
+    },
+    {
+      "mcq_id": "BIO-03-07-MCQ-05",
+      "topic_id": "BIO-03-07",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "The cell wall of most bacteria is made of a unique conjugated molecule called peptidoglycan. What are the two types of monomers that make up this large polymer?",
+      "options": [
+        "Fatty acids and glycerol",
+        "Amino acids and sugars",
+        "Nucleotides and lipids",
+        "Isoprene units and proteins"
+      ],
+      "correct_answer": 1,
+      "explanation": "The cell wall of prokaryotes (bacteria and cyanobacteria) is composed of peptidoglycan, which is a single large polymer composed of conjugated amino acids and sugars.",
       "difficulty": "moderate",
-      "learning_outcome": "Explain conjugated molecules including glycolipids and glycoproteins"
+      "learning_outcome": "Recall the chemical components of peptidoglycan as a conjugated molecule."
+    },
+    {
+      "mcq_id": "BIO-03-07-MCQ-06",
+      "topic_id": "BIO-03-07",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Cholesterol circulates in human blood in the form of a specific conjugated molecule that is taken up by liver cells via receptor-mediated endocytosis. What is this molecule?",
+      "options": [
+        "High-density lipoproteins (HDLs)",
+        "Low-density lipoproteins (LDLs)",
+        "Glycogen",
+        "Phosphatidyl choline"
+      ],
+      "correct_answer": 1,
+      "explanation": "Cholesterol circulates in the blood in the form of low-density-lipoproteins (LDLs), which are conjugated molecules made of lipids and proteins. They are taken up by specific receptor proteins on the plasma membrane of liver cells.",
+      "difficulty": "hard",
+      "learning_outcome": "Recognize the role of lipoproteins in the transport of materials in the blood."
+    },
+    {
+      "mcq_id": "BIO-03-07-MCQ-07",
+      "topic_id": "BIO-03-07",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which of the following is an example of a conjugated molecule where a lipid is covalently bonded to a carbohydrate?",
+      "options": [
+        "Glycoprotein",
+        "Peptidoglycan",
+        "Nucleoprotein",
+        "Glycolipid"
+      ],
+      "correct_answer": 3,
+      "explanation": "A conjugated molecule formed by the attachment of a lipid with a sugar (carbohydrate) is specifically called a glycolipid.",
+      "difficulty": "easy",
+      "learning_outcome": "Differentiate between the various classes of conjugated molecules."
+    },
+    {
+      "mcq_id": "BIO-03-07-MCQ-08",
+      "topic_id": "BIO-03-07",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Viruses consist of a central core and a protein coat that collectively form a conjugated structure. What is the specific term used for the combination of the viral nucleic acid and its capsid?",
+      "options": [
+        "Virion",
+        "Nucleosome",
+        "Nucleocapsid",
+        "Prion"
+      ],
+      "correct_answer": 2,
+      "explanation": "In a virus, the central core made of nucleic acid (DNA or RNA) and the surrounding protein coat (capsid) are collectively referred to as the nucleocapsid, a type of nucleoprotein complex.",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand the structural terminology of viral nucleoprotein complexes."
+    },
+    {
+      "mcq_id": "BIO-03-07-MCQ-09",
+      "topic_id": "BIO-03-07",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "In the structure of the plasma membrane, on which side are the carbohydrate chains of glycoproteins and glycolipids typically found?",
+      "options": [
+        "Buried deep within the hydrophobic lipid core",
+        "Attached to peripheral proteins on the inner cytoplasmic surface",
+        "Extending from the outside surface of the plasma membrane",
+        "Embedded exclusively between the two layers of the phospholipid bilayer"
+      ],
+      "correct_answer": 2,
+      "explanation": "The outside surface of the plasma membrane has chains of sugars bonded to proteins (glycoproteins) and lipids (glycolipids), which serve as cell identification marks facing the extracellular environment.",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify the spatial orientation of conjugated molecules in cellular membranes."
+    },
+    {
+      "mcq_id": "BIO-03-07-MCQ-10",
+      "topic_id": "BIO-03-07",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "While true bacteria possess a cell wall composed of the conjugated molecule peptidoglycan, organisms in the domain Archaea differ in their cell wall composition. Which of the following correctly describes the archaeal cell wall?",
+      "options": [
+        "It is made entirely of cellulose like plant cells.",
+        "It lacks peptidoglycan and instead contains distinct polysaccharides and proteins.",
+        "It is composed solely of a phospholipid bilayer with no cell wall.",
+        "It contains chitin, a conjugated molecule similar to fungal cell walls."
+      ],
+      "correct_answer": 1,
+      "explanation": "The cell walls of archaea lack cellulose and the typical peptidoglycan found in bacteria. Instead, they contain distinct polysaccharides and proteins (or pseudopeptidoglycan).",
+      "difficulty": "hard",
+      "learning_outcome": "Compare the presence of specific conjugated molecules (like peptidoglycan) across different domains of life."
     }
   ]
 }
