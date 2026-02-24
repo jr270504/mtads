@@ -1,43 +1,179 @@
 {
   "topic_id": "BIO-02-01",
   "topic_name": "Respiration",
-  "unit_id": "BIO-02",
+  "unit_id": "BIO-01",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-02-01-MCQ-01",
       "topic_id": "BIO-02-01",
-      "unit_id": "BIO-02",
+      "unit_id": "BIO-01",
       "subject_id": "BIO",
-      "question": "During cellular respiration of fats, which molecule is first converted before entering the Krebs cycle?",
+      "question": "In the complete breakdown of glucose during aerobic respiration, glycolysis is the first stage. Which of the following accurately describes the end products of this stage?",
       "options": [
-        "Glucose",
-        "Acetyl-CoA",
-        "Pyruvate",
-        "Lactate"
+        "Two molecules of lactic acid and 2 ATP",
+        "Two molecules of pyruvic acid, ATP, and NADH",
+        "Acetyl-CoA, carbon dioxide, and NADH",
+        "Citric acid, FADH2, and ATP"
       ],
       "correct_answer": 1,
-      "explanation": "Fats are broken down into fatty acids and glycerol, which are then converted to Acetyl-CoA before entering the Krebs cycle.",
+      "explanation": "Glycolysis is the breakdown of glucose into two molecules of pyruvic acid. In addition to the enzymes, ATP and the coenzyme NAD+ are also essential, resulting in the production of ATP and NADH.",
       "difficulty": "moderate",
-      "learning_outcome": "Summarize the cellular respiration pathways for proteins and fats, comparing them to glucose metabolism"
+      "learning_outcome": "Outline the events of glycolysis (naming the reactants and products of each step)"
     },
     {
       "mcq_id": "BIO-02-01-MCQ-02",
       "topic_id": "BIO-02-01",
-      "unit_id": "BIO-02",
+      "unit_id": "BIO-01",
       "subject_id": "BIO",
-      "question": "Compared to glucose, the complete oxidation of one gram of fat yields:",
+      "question": "During the Krebs cycle, the acetyl group from Acetyl-CoA combines with which molecule to form the six-carbon compound, citric acid?",
       "options": [
-        "Less energy",
-        "Equal energy",
-        "More energy",
-        "No energy"
+        "Oxaloacetic acid",
+        "Alpha-ketoglutaric acid",
+        "Succinic acid",
+        "Malic acid"
+      ],
+      "correct_answer": 0,
+      "explanation": "In the first step of the Krebs cycle, Acetyl-CoA splits, and the acetyl group combines with a four-carbon molecule called oxaloacetic acid. As a result, a six-carbon molecule called citric acid is formed.",
+      "difficulty": "hard",
+      "learning_outcome": "Outline the Krebs cycle (naming the reactants and products of each step)"
+    },
+    {
+      "mcq_id": "BIO-02-01-MCQ-03",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "The respiratory centre in the brain regulates the rate of breathing during exercise. What is the primary chemical stimulus that triggers this increase in the breathing rate?",
+      "options": [
+        "Decreased oxygen concentration in the blood",
+        "Increased lactic acid concentration in the muscles",
+        "Increased carbon dioxide concentration in the blood",
+        "Decreased pH of the cerebrospinal fluid"
       ],
       "correct_answer": 2,
-      "explanation": "Fats yield approximately 9 kcal/g compared to 4 kcal/g for carbohydrates, making them a more concentrated energy source.",
+      "explanation": "The respiratory centre in the brain is sensitive to the concentration of carbon dioxide in the blood. When exercise causes greater cellular respiration, the excess carbon dioxide triggers the respiratory centre to increase the rate of breathing.",
       "difficulty": "moderate",
-      "learning_outcome": "Summarize the cellular respiration pathways for proteins and fats, comparing them to glucose metabolism"
+      "learning_outcome": "Explain the ventilation mechanism in humans"
+    },
+    {
+      "mcq_id": "BIO-02-01-MCQ-04",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "In the electron transport chain (ETC) of the mitochondria, what is the final acceptor of the electrons at the end of the chain?",
+      "options": [
+        "Cytochrome c",
+        "NAD+",
+        "Oxygen",
+        "FAD"
+      ],
+      "correct_answer": 2,
+      "explanation": "In the electron transport chain, the electrons are transferred from reduced coenzymes to a series of electron carriers and finally to oxygen. The oxygen atom takes these electrons and attaches with hydrogen ions to form water.",
+      "difficulty": "easy",
+      "learning_outcome": "Explain that passage of electrons through electron transport chain highlighting the oxidation and reduction reactions"
+    },
+    {
+      "mcq_id": "BIO-02-01-MCQ-05",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Which of the following statements best describes the physiological mechanism of inhalation (inspiration) in humans?",
+      "options": [
+        "Rib muscles relax and the diaphragm moves upwards.",
+        "Rib muscles contract, ribs are raised, and the diaphragm contracts and lowers.",
+        "Rib muscles contract, ribs are lowered, and the diaphragm relaxes.",
+        "The pressure inside the lungs increases, forcing air inward."
+      ],
+      "correct_answer": 1,
+      "explanation": "During inspiration, the rib muscles contract and the ribs are raised. At the same time, the dome-shaped diaphragm contracts and is lowered, which increases the area of the thoracic cavity and reduces pressure on the lungs so air rushes in.",
+      "difficulty": "moderate",
+      "learning_outcome": "Explain the ventilation mechanism in humans"
+    },
+    {
+      "mcq_id": "BIO-02-01-MCQ-06",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Emphysema is a severe respiratory disorder that significantly impairs gaseous exchange. What is the primary pathological change that characterizes this disease?",
+      "options": [
+        "Inflammation of the bronchi and bronchioles",
+        "Destruction of the walls of the alveoli",
+        "Bacterial infection filling the alveoli with pus",
+        "Narrowing of the tubes due to excessive mucus"
+      ],
+      "correct_answer": 1,
+      "explanation": "Emphysema is characterized by the destruction of the inner walls of the alveoli. This breakdown creates larger air spaces instead of many small ones, which drastically reduces the surface area available for effective gaseous exchange.",
+      "difficulty": "easy",
+      "learning_outcome": "Describe the disorders of lungs (emphysema and COPD)"
+    },
+    {
+      "mcq_id": "BIO-02-01-MCQ-07",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "During anaerobic respiration in the muscle cells of humans (such as during extreme physical activities), what is the fate of pyruvic acid?",
+      "options": [
+        "It is completely oxidized to carbon dioxide and water.",
+        "It is converted into ethyl alcohol and carbon dioxide.",
+        "It is reduced to lactic acid.",
+        "It enters the mitochondria to form Acetyl-CoA."
+      ],
+      "correct_answer": 2,
+      "explanation": "In lactic acid fermentation, which occurs in the muscle cells of humans during extreme physical activities when oxygen is insufficient, each pyruvic acid molecule is converted into lactic acid.",
+      "difficulty": "moderate",
+      "learning_outcome": "Explain the process of anaerobic respiration in terms of glycolysis and conversion of pyruvate into lactic acid or ethanol"
+    },
+    {
+      "mcq_id": "BIO-02-01-MCQ-08",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "During the oxidation of succinic acid to fumaric acid in the Krebs cycle, which specific coenzyme is utilized as an electron acceptor?",
+      "options": [
+        "NAD+",
+        "FAD",
+        "NADP+",
+        "Coenzyme-A"
+      ],
+      "correct_answer": 1,
+      "explanation": "When succinic acid is oxidized to fumaric acid, the two hydrogen atoms removed do not yield enough free energy to reduce NAD+. Instead, a different electron acceptor, the coenzyme flavin adenine dinucleotide (FAD), is used and reduced to FADH2.",
+      "difficulty": "hard",
+      "learning_outcome": "Describe the role of NAD and FAD in cellular respiration"
+    },
+    {
+      "mcq_id": "BIO-02-01-MCQ-09",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Chemiosmosis is the mechanism by which ATP is synthesized in both mitochondria and chloroplasts. What specific process drives the ATP synthase enzyme to produce ATP?",
+      "options": [
+        "The active transport of sodium ions across the membrane",
+        "The flow of hydrogen ions (H+) down their concentration gradient",
+        "The direct transfer of a phosphate group from a substrate",
+        "The oxidation of glucose into pyruvic acid"
+      ],
+      "correct_answer": 1,
+      "explanation": "During chemiosmosis in mitochondria, the H+ ions diffuse back along their concentration gradient from the inter-membrane space to the matrix. As the H+ ions move through the ATP synthase protein, their flow drives the synthesis of ATP.",
+      "difficulty": "hard",
+      "learning_outcome": "Describe chemiosmosis and relate it to electron transport chain"
+    },
+    {
+      "mcq_id": "BIO-02-01-MCQ-10",
+      "topic_id": "BIO-02-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Plants sometimes excrete extra liquid water through special pores at the leaf tips or edges, a process distinct from transpiration. What is this phenomenon called?",
+      "options": [
+        "Evaporation",
+        "Osmosis",
+        "Plasmolysis",
+        "Guttation"
+      ],
+      "correct_answer": 3,
+      "explanation": "At night, when stomata are closed and there is high water content in the soil, plants such as grasses force water through special pores present at leaf tips or edges to form drops. The appearance of these drops of water is called guttation.",
+      "difficulty": "easy",
+      "learning_outcome": "Explain the role of stomata and palisade tissue in the exchange of gases in plants"
     }
   ]
 }
