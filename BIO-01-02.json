@@ -3,22 +3,22 @@
   "topic_name": "AIDS and HIV Infection",
   "unit_id": "BIO-01",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-01-02-MCQ-01",
       "topic_id": "BIO-01-02",
       "unit_id": "BIO-01",
       "subject_id": "BIO",
-      "question": "HIV primarily attacks which type of cells in the human immune system?",
+      "question": "Human Immunodeficiency Virus (HIV) belongs to a special group of animal viruses known as retroviruses. What type of genetic material does its capsid contain?",
       "options": [
-        "Red blood cells",
-        "CD4+ T helper cells",
-        "Platelets",
-        "Neutrophils"
+        "Single-stranded DNA",
+        "Double-stranded DNA",
+        "Single-stranded RNA",
+        "Double-stranded RNA"
       ],
-      "correct_answer": 1,
-      "explanation": "HIV targets and destroys CD4+ T helper cells, which are crucial for coordinating immune responses.",
+      "correct_answer": 2,
+      "explanation": "HIV is a retrovirus, which means it contains single-stranded RNA as its genetic material along with the enzyme reverse transcriptase within its capsid.",
       "difficulty": "moderate",
       "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
     },
@@ -27,16 +27,152 @@
       "topic_id": "BIO-01-02",
       "unit_id": "BIO-01",
       "subject_id": "BIO",
-      "question": "Which of the following is NOT a common mode of HIV transmission?",
+      "question": "Which specific enzyme, found in the capsid of HIV, catalyzes the process of synthesizing a DNA strand from a single-stranded RNA template?",
       "options": [
-        "Unprotected sexual contact",
-        "Sharing contaminated needles",
-        "Mosquito bites",
-        "Mother to child during birth"
+        "RNA polymerase",
+        "DNA helicase",
+        "Reverse transcriptase",
+        "Integrase"
       ],
       "correct_answer": 2,
-      "explanation": "HIV is not transmitted through mosquito bites. It spreads through direct contact with infected blood, sexual fluids, or from mother to child.",
+      "explanation": "The most distinguishing character of retroviruses like HIV is the presence of reverse transcriptase, an enzyme that reverses the normal transcription process by using single-stranded RNA to synthesize a complementary DNA strand.",
       "difficulty": "easy",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    },
+    {
+      "mcq_id": "BIO-01-02-MCQ-03",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Which of the following structures on the HIV envelope specifically helps the virus identify and bind to its target host cells?",
+      "options": [
+        "Capsomeres",
+        "Lipid-rich membrane",
+        "Glycoprotein spikes",
+        "Reverse transcriptase enzymes"
+      ],
+      "correct_answer": 2,
+      "explanation": "The envelope of HIV comprises glycoprotein spikes which are responsible for helping the virus identify and securely bind to its specific target cells.",
+      "difficulty": "moderate",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    },
+    {
+      "mcq_id": "BIO-01-02-MCQ-04",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "What is the approximate size and general morphological shape of the Human Immunodeficiency Virus (HIV)?",
+      "options": [
+        "Cubical and about 20 nm in diameter",
+        "Spherical and about 100 nm in diameter",
+        "Helical and about 250 nm in length",
+        "Polyhedral head with a rod-shaped tail"
+      ],
+      "correct_answer": 1,
+      "explanation": "According to its structural characteristics, HIV is spherical in form and has an approximate diameter of 100 nm.",
+      "difficulty": "hard",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    },
+    {
+      "mcq_id": "BIO-01-02-MCQ-05",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "HIV causes Acquired Immunodeficiency Syndrome (AIDS). Why is this disease ultimately fatal to the patient?",
+      "options": [
+        "It causes uncontrolled cell division leading to terminal cancer.",
+        "It destroys the central nervous system causing paralysis and respiratory failure.",
+        "It weakens the immune system, removing defenses against other viral and bacterial infections.",
+        "It attacks the respiratory surface preventing oxygen transport to tissues."
+      ],
+      "correct_answer": 2,
+      "explanation": "AIDS profoundly weakens the immune system of the patient. The disease is fatal because no one can survive without a functioning immune system to defend against opportunistic viral and bacterial infections.",
+      "difficulty": "moderate",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    },
+    {
+      "mcq_id": "BIO-01-02-MCQ-06",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "According to historical medical records, in which year was the disease Acquired Immunodeficiency Syndrome (AIDS) first reported?",
+      "options": [
+        "1981",
+        "1984",
+        "1986",
+        "1990"
+      ],
+      "correct_answer": 0,
+      "explanation": "AIDS was first reported in the year 1981, initially found among homosexual patients, before being discovered later in non-homosexual patients who had received infected blood.",
+      "difficulty": "hard",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    },
+    {
+      "mcq_id": "BIO-01-02-MCQ-07",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Which of the following is a recognized transmission pathway for the Human Immunodeficiency Virus (HIV)?",
+      "options": [
+        "Inhalation of airborne droplets from an infected person's cough",
+        "Receiving blood or blood products from infected patients",
+        "Consuming contaminated food or unfiltered water",
+        "Casual physical contact such as shaking hands or hugging"
+      ],
+      "correct_answer": 1,
+      "explanation": "AIDS was discovered to be transmitted in non-homosexual patients who had received blood or blood products from other AIDS patients, highlighting the transfer of body fluids as a primary transmission pathway.",
+      "difficulty": "easy",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    },
+    {
+      "mcq_id": "BIO-01-02-MCQ-08",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "In the context of its host range and specificity, which of the following statements about HIV is true?",
+      "options": [
+        "It causes AIDS in both humans and monkeys.",
+        "It can multiply in monkeys but does not cause AIDS in them.",
+        "It is a plant virus that accidentally mutated to infect human cells.",
+        "It primarily infects bacteria but can opportunistically infect human white blood cells."
+      ],
+      "correct_answer": 1,
+      "explanation": "HIV is a highly host-specific virus. While it can successfully multiply in monkeys, it does not cause the immunodeficiency disease (AIDS) in them.",
+      "difficulty": "moderate",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    },
+    {
+      "mcq_id": "BIO-01-02-MCQ-09",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Structurally, HIV is classified as an enveloped virus. Where does the lipid-rich envelope surrounding the HIV nucleocapsid originate from?",
+      "options": [
+        "It is synthesized entirely by the viral RNA inside the nucleus.",
+        "It is derived directly from the host cell membrane.",
+        "It is formed by the viral reverse transcriptase enzyme.",
+        "It is secreted by the viral glycoprotein spikes during replication."
+      ],
+      "correct_answer": 1,
+      "explanation": "Enveloped viruses, such as HIV and Influenza, possess an outer lipid envelope that is derived from the host cell membrane which surrounds their capsid.",
+      "difficulty": "moderate",
+      "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
+    },
+    {
+      "mcq_id": "BIO-01-02-MCQ-10",
+      "topic_id": "BIO-01-02",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "In 1984, the infectious agent causing AIDS was discovered to be a virus. In what year was this virus officially given the name Human Immunodeficiency Virus (HIV)?",
+      "options": [
+        "1981",
+        "1984",
+        "1986",
+        "1990"
+      ],
+      "correct_answer": 2,
+      "explanation": "The virus causing AIDS was isolated and discovered in 1984, and it was officially given the specific name Human Immunodeficiency Virus (HIV) two years later, in 1986.",
+      "difficulty": "hard",
       "learning_outcome": "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
     }
   ]
