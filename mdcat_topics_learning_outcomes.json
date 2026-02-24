@@ -23,7 +23,7 @@
       "unit_id": "BIO-02",
       "subject_id": "BIO",
       "topic_name": "Respiration",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Summarize the cellular respiration pathways for proteins and fats, comparing them to glucose metabolism"
       ]
     },
@@ -32,7 +32,7 @@
       "unit_id": "BIO-03",
       "subject_id": "BIO",
       "topic_name": "Biological Molecules",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Provide definitions and classification schemes for biological molecules",
         "Explain the significance of biological molecules in living systems"
       ]
@@ -42,7 +42,7 @@
       "unit_id": "BIO-03",
       "subject_id": "BIO",
       "topic_name": "Biological Importance of Water",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Characterize biologically significant properties of water including polarity, hydrolysis, specific heat capacity, solvent capability, reagent function, density, cohesion, and ionization"
       ]
     },
@@ -51,7 +51,7 @@
       "unit_id": "BIO-03",
       "subject_id": "BIO",
       "topic_name": "Carbohydrates",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Explain carbohydrates including monosaccharides such as glucose, oligosaccharides such as sucrose and lactose, and polysaccharides including starches, cellulose, and glycogen"
       ]
     },
@@ -60,7 +60,7 @@
       "unit_id": "BIO-03",
       "subject_id": "BIO",
       "topic_name": "Proteins",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Characterize proteins focusing on amino acid composition and structural organization"
       ]
     },
@@ -69,7 +69,7 @@
       "unit_id": "BIO-03",
       "subject_id": "BIO",
       "topic_name": "Lipids",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Characterize lipids including phospholipids, triglycerides, and esters such as acylglycerol"
       ]
     },
@@ -78,7 +78,7 @@
       "unit_id": "BIO-03",
       "subject_id": "BIO",
       "topic_name": "Ribonucleic Acid (RNA)",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Provide an overview of RNA structure and function"
       ]
     },
@@ -87,7 +87,7 @@
       "unit_id": "BIO-03",
       "subject_id": "BIO",
       "topic_name": "Conjugated Molecules",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Explain conjugated molecules including glycolipids and glycoproteins"
       ]
     },
@@ -96,7 +96,7 @@
       "unit_id": "BIO-03",
       "subject_id": "BIO",
       "topic_name": "Structure of DNA",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Describe the Watson-Crick double helix model of DNA structure",
         "Identify a gene as a nucleotide sequence within DNA that encodes for polypeptide formation"
       ]
@@ -106,7 +106,7 @@
       "unit_id": "BIO-04",
       "subject_id": "BIO",
       "topic_name": "Cell Structure",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Contrast the structural features of typical animal and plant cells"
       ]
     },
@@ -115,7 +115,7 @@
       "unit_id": "BIO-04",
       "subject_id": "BIO",
       "topic_name": "Prokaryotic and Eukaryotic Cell",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Distinguish between the structural characteristics of prokaryotic and eukaryotic cells"
       ]
     },
@@ -124,7 +124,7 @@
       "unit_id": "BIO-04",
       "subject_id": "BIO",
       "topic_name": "Cytoplasmic Organelles",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Detail the structure and function of nucleus, endoplasmic reticulum, Golgi apparatus, and mitochondria"
       ]
     },
@@ -133,7 +133,7 @@
       "unit_id": "BIO-04",
       "subject_id": "BIO",
       "topic_name": "Chromosomes",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Characterize chromosome structure, chemical composition, and functional role"
       ]
     },
@@ -142,7 +142,7 @@
       "unit_id": "BIO-05",
       "subject_id": "BIO",
       "topic_name": "Receptors",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Identify receptors as transducers that respond to diverse stimuli"
       ]
     },
@@ -151,7 +151,7 @@
       "unit_id": "BIO-05",
       "subject_id": "BIO",
       "topic_name": "Neurons",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Describe the structural components of a typical neuron including cell body, dendrites, axon, and myelin sheath",
         "Provide a definition of nerve impulse",
         "Categorize different types of reflexes",
@@ -163,7 +163,7 @@
       "unit_id": "BIO-05",
       "subject_id": "BIO",
       "topic_name": "Brain",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Explain the major divisions of the brain including brain stem components, midbrain, cerebellum, and cerebrum",
         "Characterize the functions of each brain region"
       ]
