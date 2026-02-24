@@ -3,41 +3,177 @@
   "topic_name": "Ribonucleic Acid (RNA)",
   "unit_id": "BIO-03",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-03-06-MCQ-01",
       "topic_id": "BIO-03-06",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 1 related to Ribonucleic Acid (RNA)",
+      "question": "Which specific pentose sugar is a structural component of the ribonucleotides that make up RNA?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Ribulose",
+        "Deoxyribose",
+        "Ribose",
+        "Erythrose"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Provide an overview of RNA structure and function",
-      "difficulty": "moderate",
-      "learning_outcome": "Provide an overview of RNA structure and function"
+      "correct_answer": 2,
+      "explanation": "Nucleic acids consist of pentose sugars. Specifically, Ribonucleic acid (RNA) contains the pentose sugar ribose, whereas DNA contains deoxyribose.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the chemical components and specific pentose sugars found in RNA."
     },
     {
       "mcq_id": "BIO-03-06-MCQ-02",
       "topic_id": "BIO-03-06",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 2 related to Ribonucleic Acid (RNA)",
+      "question": "Which of the following single-ringed pyrimidine bases is present exclusively in RNA and is absent in DNA?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Cytosine",
+        "Thymine",
+        "Uracil",
+        "Adenine"
+      ],
+      "correct_answer": 2,
+      "explanation": "There are three pyrimidine bases in nucleic acids. Cytosine is present in both DNA and RNA, thymine is present only in DNA, and uracil (U) is a pyrimidine base present exclusively in RNA.",
+      "difficulty": "easy",
+      "learning_outcome": "Differentiate between the nitrogenous bases present in RNA and DNA."
+    },
+    {
+      "mcq_id": "BIO-03-06-MCQ-03",
+      "topic_id": "BIO-03-06",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Ribosomes act as the protein production machinery of the cell. What is the approximate composition of a ribosome in terms of ribosomal RNA (rRNA) and proteins?",
+      "options": [
+        "40% rRNA and 60% protein",
+        "50% rRNA and 50% protein",
+        "60% rRNA and 40% protein",
+        "80% rRNA and 20% protein"
+      ],
+      "correct_answer": 2,
+      "explanation": "All living cells contain ribosomes that are tiny granular structures composed of approximately 60 percent ribosomal RNA (rRNA) and 40 percent protein.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the composition and structural role of ribosomal RNA (rRNA) in ribosomes."
+    },
+    {
+      "mcq_id": "BIO-03-06-MCQ-04",
+      "topic_id": "BIO-03-06",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "In eukaryotic cells, the transcription of messenger RNA (mRNA) is catalyzed by which specific enzyme?",
+      "options": [
+        "RNA polymerase I",
+        "RNA polymerase II",
+        "RNA polymerase III",
+        "DNA polymerase III"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Provide an overview of RNA structure and function",
+      "explanation": "In eukaryotes, there are three types of RNA polymerases. RNA polymerase I synthesizes rRNA, RNA polymerase II synthesizes mRNA, and RNA polymerase III synthesizes tRNA.",
+      "difficulty": "hard",
+      "learning_outcome": "Identify the specific RNA polymerases responsible for synthesizing different types of RNA in eukaryotes."
+    },
+    {
+      "mcq_id": "BIO-03-06-MCQ-05",
+      "topic_id": "BIO-03-06",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Transfer RNA (tRNA) molecules transport specific amino acids to the ribosomes during protein synthesis. Approximately how many different kinds of tRNA molecules are typically found in human cells?",
+      "options": [
+        "20",
+        "45",
+        "64",
+        "100"
+      ],
+      "correct_answer": 1,
+      "explanation": "Human cells contain about 45 different kinds of tRNA molecules. These molecules transfer amino acids to the ribosomes for use in building polypeptides and direct precisely which amino acids are assembled.",
       "difficulty": "moderate",
-      "learning_outcome": "Provide an overview of RNA structure and function"
+      "learning_outcome": "Recall the diversity and function of transfer RNA (tRNA) molecules in human cells."
+    },
+    {
+      "mcq_id": "BIO-03-06-MCQ-06",
+      "topic_id": "BIO-03-06",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "After the initial synthesis of messenger RNA (mRNA) in eukaryotes, how is the mRNA molecule modified before it travels to the ribosome?",
+      "options": [
+        "A poly-A tail is added to the 5' end and a 7-methyl GTP cap to the 3' end.",
+        "A 7-methyl GTP cap is added to the 5' end and a poly-A tail to the 3' end.",
+        "Introns are added to the 5' end and a poly-A tail to the 3' end.",
+        "The mRNA is converted into a double-stranded helix."
+      ],
+      "correct_answer": 1,
+      "explanation": "In eukaryotes, the newly synthesized mRNA is modified to aid its journey to the ribosome. A cap in the form of 7 methyl GTP is linked to the 5' end, and a poly A tail is linked to the 3' end of the RNA.",
+      "difficulty": "hard",
+      "learning_outcome": "Explain the post-transcriptional modifications of eukaryotic mRNA."
+    },
+    {
+      "mcq_id": "BIO-03-06-MCQ-07",
+      "topic_id": "BIO-03-06",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "During the initiation of transcription in prokaryotes, RNA polymerase recognizes specific binding sites on the promoter. Which of the following nucleotide sequences represents the -35 sequence?",
+      "options": [
+        "TATAAT",
+        "TTGACA",
+        "AUG",
+        "UAA"
+      ],
+      "correct_answer": 1,
+      "explanation": "In prokaryotes, there are two binding sites on the promoter region: the TTGACA sequence (also called the -35 sequence) and the TATAAT sequence (called the -10 sequence), which have an affinity for RNA polymerase.",
+      "difficulty": "hard",
+      "learning_outcome": "Identify the specific promoter sequences involved in the initiation of prokaryotic transcription."
+    },
+    {
+      "mcq_id": "BIO-03-06-MCQ-08",
+      "topic_id": "BIO-03-06",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "What structural feature in the newly synthesized RNA chain acts as a stop signal, causing RNA polymerase to halt transcription in bacteria?",
+      "options": [
+        "A poly-A tail followed by a 7-methyl GTP cap",
+        "A series of AT base pairs followed by an anticodon",
+        "A GC hairpin loop followed by four or more U ribonucleotides",
+        "A nonsense codon such as UAA or UAG"
+      ],
+      "correct_answer": 2,
+      "explanation": "The simplest stop signal in transcription is a series of GC base pairs followed by a series of AT base pairs. The RNA formed in this region creates a GC hairpin followed by four or more U ribonucleotides, which causes RNA polymerase to stop synthesis.",
+      "difficulty": "hard",
+      "learning_outcome": "Describe the mechanism of transcription termination in bacteria."
+    },
+    {
+      "mcq_id": "BIO-03-06-MCQ-09",
+      "topic_id": "BIO-03-06",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which of the following best describes the function and location of an anticodon during translation?",
+      "options": [
+        "It is a three-nucleotide sequence on mRNA that codes for an amino acid.",
+        "It is a three-nucleotide sequence on tRNA that binds to the complementary exposed codon on mRNA.",
+        "It is a binding site on the ribosomal rRNA where amino acids attach.",
+        "It is the promoter region on DNA where RNA polymerase binds."
+      ],
+      "correct_answer": 1,
+      "explanation": "An anticodon is a complementary three-nucleotide sequence found on a tRNA molecule. During translation, this anticodon binds to the corresponding exposed codon on the mRNA molecule at the ribosome.",
+      "difficulty": "moderate",
+      "learning_outcome": "Define the role of anticodons in tRNA during the translation process."
+    },
+    {
+      "mcq_id": "BIO-03-06-MCQ-10",
+      "topic_id": "BIO-03-06",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "In the structure of a ribonucleic acid (RNA) strand, adjacent ribonucleotides are joined together to form a single polynucleotide chain by which type of chemical bond?",
+      "options": [
+        "Hydrogen bonds",
+        "Peptide bonds",
+        "Glycosidic linkages",
+        "Phosphodiester linkages"
+      ],
+      "correct_answer": 3,
+      "explanation": "Nucleotides join together through phosphodiester linkages to form long polynucleotide chains. While DNA is a double helix, RNA is typically made of a single polynucleotide chain held together by these linkages.",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify the type of chemical bond that links nucleotides in an RNA chain."
     }
   ]
 }
