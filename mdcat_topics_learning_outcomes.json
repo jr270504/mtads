@@ -5,7 +5,7 @@
       "unit_id": "BIO-01",
       "subject_id": "BIO",
       "topic_name": "Viruses",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
       ]
     },
@@ -14,7 +14,7 @@
       "unit_id": "BIO-01",
       "subject_id": "BIO",
       "topic_name": "AIDS and HIV Infection",
-      "total_mcqs": 2,"learning_outcomes": [
+      "total_mcqs": 10,"learning_outcomes": [
         "Recognize the clinical manifestations, transmission pathways, and causative agent of AIDS"
       ]
     },
