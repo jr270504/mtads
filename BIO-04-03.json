@@ -3,41 +3,177 @@
   "topic_name": "Cytoplasmic Organelles",
   "unit_id": "BIO-04",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-04-03-MCQ-01",
       "topic_id": "BIO-04-03",
       "unit_id": "BIO-04",
       "subject_id": "BIO",
-      "question": "Question 1 related to Cytoplasmic Organelles",
+      "question": "The cytosol is an aqueous ground substance that makes up part of the cytoplasm. What is the primary metabolic role of the cytosol in a eukaryotic cell?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "It acts as the primary site for the synthesis of ribosomal subunits.",
+        "It provides the site for various biochemical reactions, such as glycolysis.",
+        "It houses the machinery for oxidative phosphorylation and ATP generation.",
+        "It modifies and packages proteins into secretory vesicles."
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Detail the structure and function of nucleus, endoplasmic reticulum, Golgi apparatus, and mitochondria",
+      "correct_answer": 1,
+      "explanation": "The cytosol is the semi-transparent, aqueous ground substance of the cytoplasm that provides space for the proper functioning of organelles and also acts as the site for various crucial biochemical and metabolic reactions, for example, glycolysis.",
       "difficulty": "moderate",
-      "learning_outcome": "Detail the structure and function of nucleus, endoplasmic reticulum, Golgi apparatus, and mitochondria"
+      "learning_outcome": "Describe the structure and function of the cytoplasm and cytosol."
     },
     {
       "mcq_id": "BIO-04-03-MCQ-02",
       "topic_id": "BIO-04-03",
       "unit_id": "BIO-04",
       "subject_id": "BIO",
-      "question": "Question 2 related to Cytoplasmic Organelles",
+      "question": "The nuclear pore complex regulates the transport of molecules across the nuclear envelope. Which specific subunit of this complex is responsible for anchoring it directly into the nuclear envelope?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Annular subunit",
+        "Column subunit",
+        "Ring subunit",
+        "Lumenal subunit"
+      ],
+      "correct_answer": 3,
+      "explanation": "The nuclear pore complex is composed of several structurally distinct subunits. The lumenal subunit is specifically responsible for anchoring the pore complex into the double-layered nuclear envelope.",
+      "difficulty": "hard",
+      "learning_outcome": "Identify the detailed ultrastructure of the nuclear envelope and nuclear pores."
+    },
+    {
+      "mcq_id": "BIO-04-03-MCQ-03",
+      "topic_id": "BIO-04-03",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Nucleoli are darkly stained structures located in the nucleoplasm. They are formed at specific chromosomal sites called Nucleolus Organizer Regions (NORs). What is the specific genetic role of the DNA found at NORs?",
+      "options": [
+        "It encodes messenger RNA (mRNA) required for general protein synthesis.",
+        "It encodes transfer RNA (tRNA) for carrying amino acids.",
+        "It specifically encodes ribosomal RNA (rRNA).",
+        "It encodes the histone proteins required for chromatin packaging."
+      ],
+      "correct_answer": 2,
+      "explanation": "Nucleoli are formed at specific sites on a chromosome called Nucleolus Organizer Regions (NORs). The specific function of the DNA found at these NORs is to encode ribosomal RNA (rRNA), which is essential for forming ribosomal subunits.",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand the function of the nucleolus and Nucleolus Organizer Regions (NORs)."
+    },
+    {
+      "mcq_id": "BIO-04-03-MCQ-04",
+      "topic_id": "BIO-04-03",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "During the non-dividing phase (interphase) of the cell cycle, chromatin can be classified into two types based on its genetic activity. Which of the following statements correctly describes heterochromatin?",
+      "options": [
+        "It is genetically active chromatin involved in transcribing RNA.",
+        "It is an intermediate complex of RNA and non-histone proteins.",
+        "It is a highly condensed form of chromatin containing genetically inactive DNA.",
+        "It is found exclusively in the nucleolus where it synthesizes ribosomes."
+      ],
+      "correct_answer": 2,
+      "explanation": "There are two types of chromatin: Euchromatin and Heterochromatin. Heterochromatin is the highly condensed form of chromatin, and its DNA is genetically inactive, meaning it is not actively transcribed to produce proteins.",
+      "difficulty": "moderate",
+      "learning_outcome": "Differentiate between euchromatin and heterochromatin."
+    },
+    {
+      "mcq_id": "BIO-04-03-MCQ-05",
+      "topic_id": "BIO-04-03",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "The Endoplasmic Reticulum (ER) consists of an interconnected network of flattened sacs and branching tubules. What percentage of the total cell volume is typically occupied by the highly convoluted cisternal space of the ER?",
+      "options": [
+        "Less than 1 percent",
+        "Approximately 5 percent",
+        "More than 10 percent",
+        "Almost 50 percent"
+      ],
+      "correct_answer": 2,
+      "explanation": "The cisternae of the ER are all interconnected, forming a single, highly convoluted lumen known as the cisternal space. Due to its extensive network, it takes up more than 10 percent of the total volume of a eukaryotic cell.",
+      "difficulty": "hard",
+      "learning_outcome": "Describe the structural extent and capacity of the endoplasmic reticulum within the cell."
+    },
+    {
+      "mcq_id": "BIO-04-03-MCQ-06",
+      "topic_id": "BIO-04-03",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "While both the rough and smooth endoplasmic reticulum serve critical functions, the smooth endoplasmic reticulum (SER) has a highly specialized role in muscle cells. What is this role?",
+      "options": [
+        "It synthesizes the actin and myosin proteins necessary for muscle fibers.",
+        "It adds carbohydrate chains to secretory proteins.",
+        "It stores and releases calcium to trigger muscle contractions.",
+        "It detoxifies lactic acid generated during intense physical exercise."
+      ],
+      "correct_answer": 2,
+      "explanation": "In addition to lipid synthesis and drug detoxification, the smooth endoplasmic reticulum (SER) plays a vital role in muscle cells by storing calcium ions. When stimulated, it releases calcium to trigger muscle contractions.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the specialized functions of the smooth endoplasmic reticulum in different cell types."
+    },
+    {
+      "mcq_id": "BIO-04-03-MCQ-07",
+      "topic_id": "BIO-04-03",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "The rough endoplasmic reticulum (RER) is deeply involved in the production and processing of proteins. During this processing, what specific modification does the RER frequently make to the newly synthesized proteins?",
+      "options": [
+        "It breaks them down into shorter dipeptides.",
+        "It adds other chemicals, such as sugars, to the proteins.",
+        "It converts the proteins into membrane-bound phospholipids.",
+        "It completely denatures them for storage."
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Detail the structure and function of nucleus, endoplasmic reticulum, Golgi apparatus, and mitochondria",
+      "explanation": "The rough endoplasmic reticulum (RER) processes proteins that are synthesized by its attached ribosomes. During this processing, the RER often adds other chemicals, such as sugars, to the proteins before transporting them to the Golgi apparatus.",
       "difficulty": "moderate",
-      "learning_outcome": "Detail the structure and function of nucleus, endoplasmic reticulum, Golgi apparatus, and mitochondria"
+      "learning_outcome": "Understand the role of the rough endoplasmic reticulum in protein modification."
+    },
+    {
+      "mcq_id": "BIO-04-03-MCQ-08",
+      "topic_id": "BIO-04-03",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Ribosomes are tiny granular structures that function as the cell's protein production machinery. What is the approximate chemical composition of a typical ribosome?",
+      "options": [
+        "40% ribosomal RNA (rRNA) and 60% protein",
+        "50% ribosomal RNA (rRNA) and 50% protein",
+        "60% ribosomal RNA (rRNA) and 40% protein",
+        "80% ribosomal RNA (rRNA) and 20% protein"
+      ],
+      "correct_answer": 2,
+      "explanation": "All living cells contain ribosomes, which are not bound by a membrane. They are composed of approximately 60 percent ribosomal RNA (rRNA) and 40 percent protein.",
+      "difficulty": "easy",
+      "learning_outcome": "Recall the biochemical composition of ribosomes."
+    },
+    {
+      "mcq_id": "BIO-04-03-MCQ-09",
+      "topic_id": "BIO-04-03",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "In the nucleus of a eukaryotic cell, DNA must be tightly packaged. The basic structural unit of chromatin appears as 'bead-like' structures. What are these units called, and what is their composition?",
+      "options": [
+        "Cisternae; composed of flattened membranous sacs containing DNA",
+        "Nucleoli; composed of concentrated rRNA and large proteins",
+        "Nucleosomes; composed of a DNA strand wrapped around groups of histone proteins",
+        "Centromeres; composed of highly condensed kinetochore fibers"
+      ],
+      "correct_answer": 2,
+      "explanation": "The structure of chromatin consists of a series of bead-like units called nucleosomes. Inside a nucleosome, a DNA strand wraps around groups of small, basic proteins known as histones.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the structural organization of chromatin and nucleosomes."
+    },
+    {
+      "mcq_id": "BIO-04-03-MCQ-10",
+      "topic_id": "BIO-04-03",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Before they can perform protein synthesis in the cytoplasm, eukaryotic ribosomal subunits must first be produced and assembled. In which specific cellular structure does this assembly take place?",
+      "options": [
+        "Rough Endoplasmic Reticulum",
+        "Golgi apparatus",
+        "Nucleolus",
+        "Smooth Endoplasmic Reticulum"
+      ],
+      "correct_answer": 2,
+      "explanation": "Eukaryotic ribosomes are produced and assembled within the nucleolus. Here, ribosomal proteins combine with rRNA strands to create the small and large ribosomal subunits, which subsequently exit the nucleus through nuclear pores.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the site of ribosome synthesis and assembly within eukaryotic cells."
     }
   ]
 }
