@@ -1,43 +1,181 @@
+```json
 {
   "topic_id": "BIO-04-04",
   "topic_name": "Chromosomes",
   "unit_id": "BIO-04",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-04-04-MCQ-01",
       "topic_id": "BIO-04-04",
       "unit_id": "BIO-04",
       "subject_id": "BIO",
-      "question": "Question 1 related to Chromosomes",
+      "question": "Who first discovered chromosomes as thread-like structures appearing inside the nucleus at the time of cell division in 1882?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Thomas Hunt Morgan",
+        "Walther Fleming",
+        "Walter Sutton",
+        "Karl Correns"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Characterize chromosome structure, chemical composition, and functional role",
-      "difficulty": "moderate",
-      "learning_outcome": "Characterize chromosome structure, chemical composition, and functional role"
+      "correct_answer": 1,
+      "explanation": "Chromosomes were first observed by the German embryologist Walther Fleming in 1882, when he was examining the rapidly dividing cells of salamander larvae.",
+      "difficulty": "easy",
+      "learning_outcome": "Recall the historical discovery and foundational concepts of chromosomes."
     },
     {
       "mcq_id": "BIO-04-04-MCQ-02",
       "topic_id": "BIO-04-04",
       "unit_id": "BIO-04",
       "subject_id": "BIO",
-      "question": "Question 2 related to Chromosomes",
+      "question": "What is the typical biochemical composition of a eukaryotic chromosome by weight?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "60% DNA and 40% protein",
+        "40% DNA and 60% protein",
+        "50% DNA and 50% protein",
+        "70% DNA and 30% protein"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Characterize chromosome structure, chemical composition, and functional role",
+      "explanation": "Chromosomes are composed primarily of DNA and protein. Most are made up of about 40% DNA and 60% protein, along with a significant amount of RNA associated with sites of RNA synthesis.",
       "difficulty": "moderate",
-      "learning_outcome": "Characterize chromosome structure, chemical composition, and functional role"
+      "learning_outcome": "Describe the chemical composition of chromosomes."
+    },
+    {
+      "mcq_id": "BIO-04-04-MCQ-03",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Histone proteins strongly attract the negatively charged phosphate groups of DNA. What structural feature gives histones their overall positive charge?",
+      "options": [
+        "An abundance of acidic amino acids such as aspartate and glutamate",
+        "An abundance of basic amino acids arginine and lysine",
+        "The presence of extra phosphate groups in their polypeptide chains",
+        "The attachment of highly positive lipid molecules"
+      ],
+      "correct_answer": 1,
+      "explanation": "Histones are positively charged due to an abundance of the basic amino acids arginine and lysine. This positive charge allows them to strongly attract the negatively charged phosphate groups of the DNA.",
+      "difficulty": "hard",
+      "learning_outcome": "Explain the molecular interactions that allow DNA to package tightly around histone proteins."
+    },
+    {
+      "mcq_id": "BIO-04-04-MCQ-04",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "In the structural organization of chromatin, what constitutes a single nucleosome?",
+      "options": [
+        "A DNA duplex coiled around a core of eight histone proteins",
+        "A continuous strand of RNA wrapped around a single histone molecule",
+        "A highly condensed mass of euchromatin lacking any proteins",
+        "A condensed loop of non-histone scaffolding proteins"
+      ],
+      "correct_answer": 0,
+      "explanation": "Every 200 nucleotides, the DNA duplex is coiled around a core of eight histone proteins, forming a complex known as a nucleosome. This is a primary level of DNA packaging.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the hierarchical levels of eukaryotic chromosomal organization."
+    },
+    {
+      "mcq_id": "BIO-04-04-MCQ-05",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Chromatin is generally divided into two types based on its condensation and genetic activity. Which of the following accurately describes heterochromatin?",
+      "options": [
+        "It is condensed only during cell division to facilitate chromosome movement.",
+        "It is present in an open configuration at all times and is highly expressed.",
+        "It consists of highly condensed portions that remain permanently condensed, and its DNA is never expressed.",
+        "It is composed exclusively of messenger RNA and non-histone proteins."
+      ],
+      "correct_answer": 2,
+      "explanation": "Heterochromatin refers to the highly condensed portions of the chromatin. Some of these portions remain permanently condensed, so that their DNA is never expressed. In contrast, euchromatin is expressed and is condensed only during cell division.",
+      "difficulty": "moderate",
+      "learning_outcome": "Differentiate between euchromatin and heterochromatin based on structure and function."
+    },
+    {
+      "mcq_id": "BIO-04-04-MCQ-06",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Chromosomes acquire different shapes depending on the location of their centromeres. What is a chromosome called when its centromere is located exactly at the tip?",
+      "options": [
+        "Metacentric",
+        "Sub-metacentric",
+        "Acrocentric",
+        "Telocentric"
+      ],
+      "correct_answer": 3,
+      "explanation": "Chromosomes are classified based on the position of the centromere. When the centromere is at the tip, the chromosome is called telocentric.",
+      "difficulty": "easy",
+      "learning_outcome": "Classify chromosomes based on the position of the centromere."
+    },
+    {
+      "mcq_id": "BIO-04-04-MCQ-07",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "What biological term is used to describe the particular array of chromosomes that an individual possesses, which can mark differences among species?",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Karyotype",
+        "Proteome"
+      ],
+      "correct_answer": 2,
+      "explanation": "The particular array of chromosomes that an individual possesses is called its karyotype. Karyotypes exhibit variations in size, staining properties, and relative lengths among different species and individuals.",
+      "difficulty": "easy",
+      "learning_outcome": "Understand the concept of a karyotype and its significance."
+    },
+    {
+      "mcq_id": "BIO-04-04-MCQ-08",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "In the anatomy of a chromosome, what is the alternative anatomical name for the centromere?",
+      "options": [
+        "Secondary constriction",
+        "Primary constriction",
+        "Satellite",
+        "Telomere"
+      ],
+      "correct_answer": 1,
+      "explanation": "Typically, a chromosome is made up of chromatids and a centromere, which is also referred to as the primary constriction. Some chromosomes may also possess a secondary constriction.",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify the structural components of a typical chromosome."
+    },
+    {
+      "mcq_id": "BIO-04-04-MCQ-09",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "The Chromosomal Theory of Inheritance, which formulated that Mendelian traits assort independently because they are located on chromosomes, was first proposed in 1902 by:",
+      "options": [
+        "Thomas Hunt Morgan",
+        "Gregor Mendel",
+        "Walter Sutton",
+        "Karl Correns"
+      ],
+      "correct_answer": 2,
+      "explanation": "Although Karl Correns suggested a central role for chromosomes in 1900, the chromosomal theory of inheritance was formally first formulated by the American Walter Sutton in 1902.",
+      "difficulty": "hard",
+      "learning_outcome": "Recall the historical development of the Chromosomal Theory of Inheritance."
+    },
+    {
+      "mcq_id": "BIO-04-04-MCQ-10",
+      "topic_id": "BIO-04-04",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "DNA contains an enormous amount of genetic information. Approximately how many nucleotides are present in the DNA of a single typical human chromosome?",
+      "options": [
+        "1.4 million (1.4 x 10^6)",
+        "14 million (1.4 x 10^7)",
+        "140 million (1.4 x 10^8)",
+        "1.4 billion (1.4 x 10^9)"
+      ],
+      "correct_answer": 2,
+      "explanation": "A typical human chromosome contains an unbroken, double-stranded DNA fiber that consists of about 140 million (1.4 x 10^8) nucleotides. This amount of information is equivalent to about 280 printed books of 1000 pages each.",
+      "difficulty": "hard",
+      "learning_outcome": "Appreciate the scale and density of genetic information packaged within a single chromosome."
     }
   ]
 }
+```
