@@ -3,41 +3,177 @@
   "topic_name": "Prokaryotic and Eukaryotic Cell",
   "unit_id": "BIO-04",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-04-02-MCQ-01",
       "topic_id": "BIO-04-02",
       "unit_id": "BIO-04",
       "subject_id": "BIO",
-      "question": "Question 1 related to Prokaryotic and Eukaryotic Cell",
+      "question": "Prokaryotic ribosomes are smaller than eukaryotic ribosomes. What is the sedimentation rate (Svedberg value) of a complete prokaryotic ribosome and its respective subunits?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "80S complete (40S and 60S subunits)",
+        "70S complete (30S and 50S subunits)",
+        "70S complete (40S and 30S subunits)",
+        "80S complete (30S and 50S subunits)"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Distinguish between the structural characteristics of prokaryotic and eukaryotic cells",
-      "difficulty": "moderate",
-      "learning_outcome": "Distinguish between the structural characteristics of prokaryotic and eukaryotic cells"
+      "correct_answer": 1,
+      "explanation": "The Svedberg values (sedimentation rates) of the smaller and larger subunits of ribosomes in prokaryotic cells are 30S and 50S, respectively. The sedimentation rate of a complete prokaryotic ribosome is 70S.",
+      "difficulty": "easy",
+      "learning_outcome": "Compare the structural components of prokaryotic and eukaryotic cells."
     },
     {
       "mcq_id": "BIO-04-02-MCQ-02",
       "topic_id": "BIO-04-02",
       "unit_id": "BIO-04",
       "subject_id": "BIO",
-      "question": "Question 2 related to Prokaryotic and Eukaryotic Cell",
+      "question": "In a prokaryotic cell, the genetic material is not enclosed within a true nuclear membrane. What is the specific region called where the extensive DNA of a prokaryote is located?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Nucleolus",
+        "Nucleoplasm",
+        "Nucleoid",
+        "Centrosome"
+      ],
+      "correct_answer": 2,
+      "explanation": "A prokaryotic cell lacks a true nucleus. The much less extensive DNA of a prokaryotic cell is present in a more-or-less central region known as the nucleoid (nucleus-like).",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the organization of genetic material in prokaryotic cells."
+    },
+    {
+      "mcq_id": "BIO-04-02-MCQ-03",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Which of the following correctly describes a structural difference between the flagella of prokaryotic and eukaryotic cells?",
+      "options": [
+        "Eukaryotic flagella are built from flagellin, while prokaryotic flagella contain microtubules.",
+        "Prokaryotic flagella are made of the protein flagellin and do not contain microtubule triplets.",
+        "Both prokaryotic and eukaryotic flagella share the exact 9+2 arrangement of microtubules.",
+        "Prokaryotic flagella are membrane-bounded, while eukaryotic flagella are naked."
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Distinguish between the structural characteristics of prokaryotic and eukaryotic cells",
+      "explanation": "Prokaryotic flagella are made of repeating units of the protein flagellin and do not contain microtubule triplets. In contrast, eukaryotic flagella are membrane-bounded and contain two central microtubules surrounded by an outer ring of nine doublet microtubules (9+2 arrangement).",
       "difficulty": "moderate",
-      "learning_outcome": "Distinguish between the structural characteristics of prokaryotic and eukaryotic cells"
+      "learning_outcome": "Differentiate between locomotor appendages in prokaryotes and eukaryotes."
+    },
+    {
+      "mcq_id": "BIO-04-02-MCQ-04",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Which of the following statements correctly differentiates the cell wall of a typical prokaryote (such as bacteria) from that of a plant cell?",
+      "options": [
+        "A prokaryotic cell wall contains cellulose, whereas a plant cell wall contains chitin.",
+        "Both prokaryotic and plant cell walls are identical and composed primarily of peptidoglycan.",
+        "A prokaryotic cell wall is composed of peptidoglycan, whereas a plant cell wall contains cellulose.",
+        "A prokaryotic cell wall is made entirely of a phospholipid bilayer with no structural polymers."
+      ],
+      "correct_answer": 2,
+      "explanation": "Surrounding the plasma membrane of most prokaryotic cells is a cell wall that does not contain cellulose. Instead, it is composed of peptidoglycan, which is a single large polymer of amino acids and sugar. Plant cell walls, on the other hand, are chemically simpler and contain cellulose.",
+      "difficulty": "moderate",
+      "learning_outcome": "Compare the chemical composition of cell walls across different domains."
+    },
+    {
+      "mcq_id": "BIO-04-02-MCQ-05",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "How do photosynthetic prokaryotic cells, such as cyanobacteria, differ from photosynthetic eukaryotic cells in terms of their photosynthetic machinery?",
+      "options": [
+        "They possess multiple large chloroplasts instead of a single large one.",
+        "They lack membrane-bound chloroplasts; instead, their chlorophyll is scattered in the cytoplasm.",
+        "They perform photosynthesis inside their mitochondria rather than chloroplasts.",
+        "They lack chlorophyll entirely and use peptidoglycan to absorb light."
+      ],
+      "correct_answer": 1,
+      "explanation": "According to the structural differences between cell types, prokaryotes lack membrane-bound organelles, including chloroplasts. In photosynthetic prokaryotes, the chlorophyll is scattered directly within the cytoplasm.",
+      "difficulty": "hard",
+      "learning_outcome": "Explain the structural adaptations of photosynthetic prokaryotes."
+    },
+    {
+      "mcq_id": "BIO-04-02-MCQ-06",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "When comparing the sizes of eukaryotic and prokaryotic cells, what is the typical size range of a prokaryotic cell?",
+      "options": [
+        "10 to 100 µm",
+        "0.1 to 0.5 µm",
+        "100 to 1000 µm",
+        "1 to 10 µm"
+      ],
+      "correct_answer": 3,
+      "explanation": "Prokaryotic cells are much simpler and smaller than eukaryotic ones. Most prokaryotic cells range from 1 to 10 µm in size, which is about one-tenth the size of a typical eukaryotic cell (10 to 100 µm).",
+      "difficulty": "easy",
+      "learning_outcome": "Recall the physical dimensions and size scale of prokaryotic cells."
+    },
+    {
+      "mcq_id": "BIO-04-02-MCQ-07",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Which of the following cellular division processes are exclusively found in eukaryotic cells and are entirely missing in prokaryotic cells?",
+      "options": [
+        "Binary fission and budding",
+        "Mitosis and meiosis",
+        "Fragmentation and sporulation",
+        "Multiple fission and conjugation"
+      ],
+      "correct_answer": 1,
+      "explanation": "Mitosis and meiosis are missing in prokaryotic cells. Instead, a prokaryotic cell divides by direct division, a process known as binary fission.",
+      "difficulty": "moderate",
+      "learning_outcome": "Distinguish between the mechanisms of cell division in prokaryotes and eukaryotes."
+    },
+    {
+      "mcq_id": "BIO-04-02-MCQ-08",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Although prokaryotic and eukaryotic cells are fundamentally different, they share certain fundamental structures. Which of the following structures is present in both types of cells?",
+      "options": [
+        "Endoplasmic reticulum",
+        "Mitochondria",
+        "Plasma membrane",
+        "Lysosomes"
+      ],
+      "correct_answer": 2,
+      "explanation": "Both prokaryotic and eukaryotic cells have DNA as their genetic material, both have plasma membranes as their coverings, and both have ribosomes for protein synthesis. Membrane-bound organelles like the ER, mitochondria, and lysosomes are absent in prokaryotes.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the shared universal components present in all living cells."
+    },
+    {
+      "mcq_id": "BIO-04-02-MCQ-09",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "The entire cytoplasm of a prokaryotic cell is typically one unit with no internal support structures. Which specific structural component is either absent or extremely rare in prokaryotes but prominently present in eukaryotes?",
+      "options": [
+        "Microtubules",
+        "Ribosomes",
+        "Cell membrane",
+        "Cytosol"
+      ],
+      "correct_answer": 0,
+      "explanation": "The cytoplasm of a prokaryotic cell lacks internal support structures. Specifically, microtubules (a key component of the cytoskeleton) are present in eukaryotic cells but are absent or rare in prokaryotic cells.",
+      "difficulty": "moderate",
+      "learning_outcome": "Compare the cytoskeletal organization between prokaryotic and eukaryotic cells."
+    },
+    {
+      "mcq_id": "BIO-04-02-MCQ-10",
+      "topic_id": "BIO-04-02",
+      "unit_id": "BIO-04",
+      "subject_id": "BIO",
+      "question": "Which of the following best describes the organization of chromosomes in a prokaryotic cell compared to a eukaryotic cell?",
+      "options": [
+        "Prokaryotes have multiple linear chromosomes enclosed in a nucleus.",
+        "Prokaryotes have a single, non-true chromosome and may contain plasmids.",
+        "Prokaryotes have homologous pairs of chromosomes that undergo meiosis.",
+        "Prokaryotes lack DNA entirely and use RNA as their primary genetic material."
+      ],
+      "correct_answer": 1,
+      "explanation": "Prokaryotic cells lack a distinct true nucleus and possess one 'chromosome' (though not a true chromosome in the eukaryotic sense) along with extra-chromosomal plasmids. In contrast, eukaryotic cells have a distinct nucleus with more than one true, linear chromosome.",
+      "difficulty": "hard",
+      "learning_outcome": "Differentiate the chromosomal structure and genetic organization of prokaryotes vs eukaryotes."
     }
   ]
 }
