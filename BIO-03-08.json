@@ -3,41 +3,177 @@
   "topic_name": "Structure of DNA",
   "unit_id": "BIO-03",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-03-08-MCQ-01",
       "topic_id": "BIO-03-08",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 1 related to Structure of DNA",
+      "question": "P.A. Levene discovered that a DNA molecule is made of repeating units called nucleotides. In a single nucleotide structure, to which specific carbon atoms of the pentose sugar are the nitrogenous base and the phosphate group attached, respectively?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Base at Carbon 1, Phosphate at Carbon 3",
+        "Base at Carbon 1, Phosphate at Carbon 5",
+        "Base at Carbon 5, Phosphate at Carbon 1",
+        "Base at Carbon 3, Phosphate at Carbon 5"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Describe the Watson-Crick double helix model of DNA structure",
+      "correct_answer": 1,
+      "explanation": "In a nucleotide, the nitrogenous base is attached to carbon number 1 of the pentose sugar, while the phosphate group is attached to carbon number 5 of the sugar.",
       "difficulty": "moderate",
-      "learning_outcome": "Describe the Watson-Crick double helix model of DNA structure"
+      "learning_outcome": "Describe the chemical composition and structural organization of a nucleotide."
     },
     {
       "mcq_id": "BIO-03-08-MCQ-02",
       "topic_id": "BIO-03-08",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 2 related to Structure of DNA",
+      "question": "According to Erwin Chargaff's rules regarding the chemical nature of DNA, which of the following statements is always true for any double-stranded DNA molecule?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "The amount of adenine equals the amount of cytosine.",
+        "The total amount of purines is twice the amount of pyrimidines.",
+        "The sum of purines (Adenine + Guanine) equals the sum of pyrimidines (Cytosine + Thymine).",
+        "The amount of guanine is completely independent of the amount of cytosine."
+      ],
+      "correct_answer": 2,
+      "explanation": "Erwin Chargaff showed that in DNA, the amount of adenine always equals the amount of thymine, and guanine always equals cytosine. This implies there is always an equal proportion of purines (A+G) and pyrimidines (C+T).",
+      "difficulty": "moderate",
+      "learning_outcome": "Apply Chargaff's rules to determine the relative proportions of nitrogenous bases in DNA."
+    },
+    {
+      "mcq_id": "BIO-03-08-MCQ-03",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Based on the X-ray diffraction analysis prepared by Rosalind Franklin, what are the specific measurements for the diameter of the DNA helix and the distance for one complete helical turn?",
+      "options": [
+        "2 nm diameter and 0.34 nm per turn",
+        "3.4 nm diameter and 2 nm per turn",
+        "2 nm diameter and 3.4 nm per turn",
+        "0.34 nm diameter and 3.4 nm per turn"
+      ],
+      "correct_answer": 2,
+      "explanation": "Rosalind Franklin's X-ray diffraction pattern suggested that the DNA molecule had a shape of a helix with a constant diameter of 2 nm and a complete helical turn every 3.4 nm.",
+      "difficulty": "hard",
+      "learning_outcome": "Recall the physical dimensions of the DNA double helix as determined by X-ray crystallography."
+    },
+    {
+      "mcq_id": "BIO-03-08-MCQ-04",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "In the Watson-Crick double helical model of DNA, how are the two polynucleotide strands oriented relative to each other?",
+      "options": [
+        "They are parallel, both running in the 5' to 3' direction.",
+        "They are antiparallel, one running 3' to 5' and the other 5' to 3'.",
+        "They are perpendicular to the central sugar-phosphate backbone.",
+        "They are covalently bonded to each other along the entire length."
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Describe the Watson-Crick double helix model of DNA structure",
+      "explanation": "According to the Watson and Crick model, the DNA molecule is a simple double helix stabilized as a duplex composed of two antiparallel strands, one chain running 3' to 5' and the other 5' to 3'.",
+      "difficulty": "easy",
+      "learning_outcome": "Understand the antiparallel orientation of the two strands in a DNA double helix."
+    },
+    {
+      "mcq_id": "BIO-03-08-MCQ-05",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which of the following forces is primarily responsible for the overall stability of the DNA molecule by causing the planar base pairs to stack 0.34 nm apart?",
+      "options": [
+        "Covalent bonds between adjacent bases",
+        "Hydrophobic interactions",
+        "Ionic bonds between the phosphate groups",
+        "Disulfide bridges"
+      ],
+      "correct_answer": 1,
+      "explanation": "In the DNA double helix, the base pairs are planar (flat) and stack 0.34 nm apart as a result of hydrophobic interactions, which contribute significantly to the overall stability of the molecule.",
+      "difficulty": "hard",
+      "learning_outcome": "Identify the forces that stabilize the three-dimensional structure of the DNA double helix."
+    },
+    {
+      "mcq_id": "BIO-03-08-MCQ-06",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "In a DNA double helix, specific base pairing occurs between the two strands. Which of the following correctly describes this pairing and the number of hydrogen bonds involved?",
+      "options": [
+        "Adenine pairs with Guanine with 2 hydrogen bonds.",
+        "Cytosine pairs with Thymine with 3 hydrogen bonds.",
+        "Adenine pairs with Thymine with 2 hydrogen bonds.",
+        "Guanine pairs with Cytosine with 2 hydrogen bonds."
+      ],
+      "correct_answer": 2,
+      "explanation": "In the double helix, adenine forms two hydrogen bonds with thymine, while guanine forms three hydrogen bonds with cytosine. Adenine and guanine will not form hydrogen bonds with thymine.",
+      "difficulty": "easy",
+      "learning_outcome": "Describe the specific complementary base pairing and hydrogen bonding in DNA."
+    },
+    {
+      "mcq_id": "BIO-03-08-MCQ-07",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "The backbone of a DNA polynucleotide chain is formed by a specific type of chemical linkage between successive nucleotides. What is this linkage called and what does it connect?",
+      "options": [
+        "Glycosidic bond connecting two pentose sugars.",
+        "Peptide bond connecting a nitrogenous base and a sugar.",
+        "Phosphodiester bond connecting the 5' phosphate group of one nucleotide to the 3' hydroxyl group of the next.",
+        "Hydrogen bond connecting the 3' phosphate group to the 5' hydroxyl group."
+      ],
+      "correct_answer": 2,
+      "explanation": "Nucleotides are linked together by a phosphodiester bond. This linkage connects the 5' phosphate group of one nucleotide to the free 3' hydroxyl group of the adjacent nucleotide through a dehydration synthesis reaction.",
       "difficulty": "moderate",
-      "learning_outcome": "Describe the Watson-Crick double helix model of DNA structure"
+      "learning_outcome": "Explain the formation and structural role of phosphodiester bonds in nucleic acids."
+    },
+    {
+      "mcq_id": "BIO-03-08-MCQ-08",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which scientist first discovered DNA in 1869 by extracting a white, acidic substance from the nuclei of human cells and fish sperm, originally naming it 'nuclein'?",
+      "options": [
+        "P.A. Levene",
+        "Erwin Chargaff",
+        "Rosalind Franklin",
+        "Friedrich Miescher"
+      ],
+      "correct_answer": 3,
+      "explanation": "A German Chemist, Friedrich Miescher, discovered DNA in 1869. He extracted a white substance from the nuclei of human cells and fish sperm and called it 'nuclein' because it seemed specifically associated with the nucleus.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify historical milestones and key figures in the discovery of DNA."
+    },
+    {
+      "mcq_id": "BIO-03-08-MCQ-09",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Nitrogenous bases in DNA are classified into two categories: purines and pyrimidines. Which of the following correctly identifies the structure and components of these categories in DNA?",
+      "options": [
+        "Purines are double-ringed and include Adenine and Guanine; Pyrimidines are single-ringed and include Cytosine and Thymine.",
+        "Purines are single-ringed and include Adenine and Thymine; Pyrimidines are double-ringed and include Cytosine and Guanine.",
+        "Purines are double-ringed and include Cytosine and Uracil; Pyrimidines are single-ringed and include Adenine and Guanine.",
+        "Purines are double-ringed and include Adenine and Uracil; Pyrimidines are single-ringed and include Thymine and Guanine."
+      ],
+      "correct_answer": 0,
+      "explanation": "Purines are double-ring nitrogenous bases that include Adenine (A) and Guanine (G). Pyrimidines are single-ringed nitrogenous bases that, in DNA, include Thymine (T) and Cytosine (C).",
+      "difficulty": "moderate",
+      "learning_outcome": "Differentiate between purine and pyrimidine bases found in DNA."
+    },
+    {
+      "mcq_id": "BIO-03-08-MCQ-10",
+      "topic_id": "BIO-03-08",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "A linear strand of DNA, no matter how long, will almost always have specific free chemical groups at its two ends. What are these characteristic free groups?",
+      "options": [
+        "A 3' phosphate group and a 5' hydroxyl group",
+        "A 5' phosphate group and a 3' hydroxyl group",
+        "Two 5' phosphate groups at both ends",
+        "A 5' nitrogenous base and a 3' phosphate group"
+      ],
+      "correct_answer": 1,
+      "explanation": "Linear strands of DNA, no matter how long, will almost always have a free 5' phosphate group at one end and a free 3' hydroxyl group at the other end.",
+      "difficulty": "moderate",
+      "learning_outcome": "Recognize the directionality and terminal ends of a DNA polynucleotide chain."
     }
   ]
 }
