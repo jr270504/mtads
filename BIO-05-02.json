@@ -3,41 +3,177 @@
   "topic_name": "Neurons",
   "unit_id": "BIO-05",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-05-02-MCQ-01",
       "topic_id": "BIO-05-02",
       "unit_id": "BIO-05",
       "subject_id": "BIO",
-      "question": "Question 1 related to Neurons",
+      "question": "During the maintenance of a resting membrane potential, how does the sodium-potassium pump actively transport ions across the neuron's cell membrane?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "It pumps 3 Na+ out of the cell for every 2 K+ pumped into the cell.",
+        "It pumps 2 Na+ out of the cell for every 3 K+ pumped into the cell.",
+        "It pumps 3 Na+ into the cell for every 2 K+ pumped out of the cell.",
+        "It pumps 2 Na+ into the cell for every 3 K+ pumped out of the cell."
       ],
       "correct_answer": 0,
-      "explanation": "This question tests understanding of Describe the structural components of a typical neuron including cell body, dendrites, axon, and myelin sheath",
-      "difficulty": "moderate",
-      "learning_outcome": "Describe the structural components of a typical neuron including cell body, dendrites, axon, and myelin sheath"
+      "explanation": "Driven by the splitting of ATP, these pumps transport Na+ out and K+ into the cell against their respective concentration gradients. For every two K+ that are actively transported inward, three Na+ are pumped out, making the inside more negative.",
+      "difficulty": "hard",
+      "learning_outcome": "Explain the role of the sodium-potassium pump in maintaining the resting membrane potential."
     },
     {
       "mcq_id": "BIO-05-02-MCQ-02",
       "topic_id": "BIO-05-02",
       "unit_id": "BIO-05",
       "subject_id": "BIO",
-      "question": "Question 2 related to Neurons",
+      "question": "In the cell body of a neuron, what are Nissl's granules primarily composed of?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Clusters of lysosomes and peroxisomes",
+        "Aggregations of neurofibrils and microtubules",
+        "Groups of ribosomes associated with rough endoplasmic reticulum",
+        "Vesicles containing neurotransmitters like acetylcholine"
+      ],
+      "correct_answer": 2,
+      "explanation": "Nissl's granules are prominently present in the cell body of a neuron. They are groups of ribosomes associated with rough endoplasmic reticulum (E.R.) and the Golgi apparatus, involved in the biosynthesis of proteins.",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify the structural components of a neuron and their specific functions."
+    },
+    {
+      "mcq_id": "BIO-05-02-MCQ-03",
+      "topic_id": "BIO-05-02",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "When a neuron is stimulated by a threshold stimulus, the resting membrane potential undergoes a localized change to become an active membrane potential. What is the typical value of this active potential?",
+      "options": [
+        "-70 mV",
+        "+0.05 volts (+50 mV)",
+        "-0.05 volts (-50 mV)",
+        "+120 mV"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Describe the structural components of a typical neuron including cell body, dendrites, axon, and myelin sheath",
+      "explanation": "During an action potential, the inner membrane surface becomes more positive than the outside. This active membrane potential has a value of +0.05 volts (+50 mV).",
       "difficulty": "moderate",
-      "learning_outcome": "Describe the structural components of a typical neuron including cell body, dendrites, axon, and myelin sheath"
+      "learning_outcome": "Describe the electrical changes that occur during the generation of an action potential."
+    },
+    {
+      "mcq_id": "BIO-05-02-MCQ-04",
+      "topic_id": "BIO-05-02",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "What is the specific physiological mechanism that allows nerve impulses to travel much more rapidly along myelinated neurons compared to non-myelinated ones?",
+      "options": [
+        "The myelin sheath continually synthesizes ATP to speed up conduction.",
+        "The impulse jumps over the areas of myelin from one Node of Ranvier to the next.",
+        "The Schwann cells actively pump sodium ions across the entire length of the axon.",
+        "The diameter of the axon expands due to the myelin, reducing electrical resistance."
+      ],
+      "correct_answer": 1,
+      "explanation": "In myelinated neurons, the myelin sheath acts as an insulator, so the impulse 'jumps' over the areas of myelin from node to node (Nodes of Ranvier). This saltatory ('jumping') impulse significantly increases the speed of conduction.",
+      "difficulty": "easy",
+      "learning_outcome": "Understand saltatory conduction and the role of the myelin sheath in nerve impulse transmission."
+    },
+    {
+      "mcq_id": "BIO-05-02-MCQ-05",
+      "topic_id": "BIO-05-02",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "In the human nervous system, neurons are supported by another type of cells that can make up as much as half of the system. What is the primary function of these cells, known as neuroglia?",
+      "options": [
+        "To generate the action potential independently of neurons.",
+        "To play a vital role in the nutrition of neurons and their protection by the myelin sheath.",
+        "To secrete the neurotransmitter acetylcholine at the neuromuscular junction.",
+        "To act as receptors for detecting external environmental stimuli."
+      ],
+      "correct_answer": 1,
+      "explanation": "Neuroglia (glial cells) make up as much as half of the nervous system in higher animals. They play a vital role in the nutrition of neurons and their protection by forming the myelin sheath.",
+      "difficulty": "easy",
+      "learning_outcome": "Recognize the role of neuroglial cells in the nervous system."
+    },
+    {
+      "mcq_id": "BIO-05-02-MCQ-06",
+      "topic_id": "BIO-05-02",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "What is the maximum recorded speed of a nerve impulse in human beings?",
+      "options": [
+        "100 meters per second",
+        "120 meters per second",
+        "200 meters per second",
+        "300 meters per second"
+      ],
+      "correct_answer": 1,
+      "explanation": "The normal speed of a nerve impulse in humans is 100 meters per second, but the maximum speed recorded is 120 meters per second.",
+      "difficulty": "hard",
+      "learning_outcome": "Recall the physiological speeds of nerve impulse transmission in humans."
+    },
+    {
+      "mcq_id": "BIO-05-02-MCQ-07",
+      "topic_id": "BIO-05-02",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Which of the following neurotransmitters is the main chemical messenger for synapses that lie outside the central nervous system (CNS)?",
+      "options": [
+        "Serotonin",
+        "Dopamine",
+        "Acetylcholine",
+        "Nor-epinephrine"
+      ],
+      "correct_answer": 2,
+      "explanation": "Acetylcholine is the main transmitter for synapses that lie outside the central nervous system. Others, such as serotonin and dopamine, are mostly involved in synaptic transmission within the brain and spinal cord.",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify the main neurotransmitters and their general functional locations."
+    },
+    {
+      "mcq_id": "BIO-05-02-MCQ-08",
+      "topic_id": "BIO-05-02",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "In a typical neuron, what is the specific term for the protoplasmic process that conducts nerve impulses away from the cell body?",
+      "options": [
+        "Dendrite",
+        "Axon",
+        "Synaptic cleft",
+        "Node of Ranvier"
+      ],
+      "correct_answer": 1,
+      "explanation": "The processes conducting impulses away from the cell body are termed axons. These may be more than a meter long in some neurons. In contrast, dendrites conduct impulses toward the cell body.",
+      "difficulty": "easy",
+      "learning_outcome": "Differentiate between the functional roles of axons and dendrites."
+    },
+    {
+      "mcq_id": "BIO-05-02-MCQ-09",
+      "topic_id": "BIO-05-02",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Regarding the regenerative capacity of mature neurons in humans, which of the following statements is biologically accurate?",
+      "options": [
+        "Mature neurons continuously divide via mitosis to replace damaged nervous tissue.",
+        "If the cell body is destroyed, the axon can regenerate a new cell body.",
+        "Mature neurons do not divide, but if the cell body remains intact, it can regenerate axonal and dendrite fibres.",
+        "Neurons divide exclusively during reflex actions to form new synaptic connections."
+      ],
+      "correct_answer": 2,
+      "explanation": "If the cell body (soma) of the neuron remains intact, it can regenerate axonal and dendrite fibres; however, neurons once mature do not divide any further.",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand the cell cycle limitations and regenerative capabilities of mature neurons."
+    },
+    {
+      "mcq_id": "BIO-05-02-MCQ-10",
+      "topic_id": "BIO-05-02",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Besides the action of the sodium-potassium pump and the presence of large negative organic ions, which other specific factor contributes to making the inside of a resting neuron more negative than the outside?",
+      "options": [
+        "The massive influx of calcium ions (Ca++) into the cell.",
+        "The leakage of potassium ions (K+) out of the neuron through diffusion.",
+        "The active transport of chloride ions (Cl-) into the cytoplasm.",
+        "The rapid inward diffusion of sodium ions (Na+) through sodium gates."
+      ],
+      "correct_answer": 1,
+      "explanation": "The cell membrane is virtually impermeable to all ions except K+. Because the membrane is slightly permeable to K+, some of it leaks out of the cell by diffusion, which accounts for more negative charges inside than outside the cell membrane of a resting neuron.",
+      "difficulty": "hard",
+      "learning_outcome": "Analyze the various factors that establish and maintain the resting membrane potential."
     }
   ]
 }
