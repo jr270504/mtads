@@ -3,41 +3,177 @@
   "topic_name": "Brain",
   "unit_id": "BIO-05",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-05-03-MCQ-01",
       "topic_id": "BIO-05-03",
       "unit_id": "BIO-05",
       "subject_id": "BIO",
-      "question": "Question 1 related to Brain",
+      "question": "In the central nervous system, the brain and spinal cord are protected by three layers of membranes that also provide nutrients and oxygen through their capillaries. What are these layers collectively called?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Ventricles",
+        "Meninges",
+        "Corpus callosum",
+        "Cerebrospinal fluid"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Explain the major divisions of the brain including brain stem components, midbrain, cerebellum, and cerebrum",
-      "difficulty": "moderate",
-      "learning_outcome": "Explain the major divisions of the brain including brain stem components, midbrain, cerebellum, and cerebrum"
+      "correct_answer": 1,
+      "explanation": "Inside the cranium, the brain and spinal cord are protected by three layers called meninges. Meninges protect the brain and also provide nutrients and oxygen to brain tissue through their capillaries.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the protective coverings and structural organization of the central nervous system."
     },
     {
       "mcq_id": "BIO-05-03-MCQ-02",
       "topic_id": "BIO-05-03",
       "unit_id": "BIO-05",
       "subject_id": "BIO",
-      "question": "Question 2 related to Brain",
+      "question": "Which specific cluster of neurons in the limbic system is responsible for producing the sensations of pleasure, punishment, sexual arousal, and is involved in feelings of fear and rage?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Hippocampus",
+        "Thalamus",
+        "Amygdala",
+        "Medulla"
+      ],
+      "correct_answer": 2,
+      "explanation": "In the amygdala, clusters of neurons produce sensations of pleasure, punishment or sexual arousal when stimulated. It is also involved in the feelings of fear and rage.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the specific functions of the amygdala within the limbic system."
+    },
+    {
+      "mcq_id": "BIO-05-03-MCQ-03",
+      "topic_id": "BIO-05-03",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "The cerebrum is the largest part of the brain and is divided into two cerebral hemispheres. Which structure, composed of a large band of axons, allows these two halves to communicate with each other?",
+      "options": [
+        "Reticular formation",
+        "Corpus callosum",
+        "Medulla oblongata",
+        "Neural arch"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Explain the major divisions of the brain including brain stem components, midbrain, cerebellum, and cerebrum",
+      "explanation": "The cerebrum is divided into two halves, called cerebral hemispheres. These halves communicate with each other by means of a large band of axons, called the corpus callosum.",
+      "difficulty": "easy",
+      "learning_outcome": "Recognize the anatomical structures connecting different regions of the brain."
+    },
+    {
+      "mcq_id": "BIO-05-03-MCQ-04",
+      "topic_id": "BIO-05-03",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Located in the midbrain, which structure acts as a vital relay centre that screens input information before it reaches the higher brain centres?",
+      "options": [
+        "Limbic system",
+        "Reticular formation",
+        "Pons",
+        "Hypothalamus"
+      ],
+      "correct_answer": 1,
+      "explanation": "The midbrain contains the reticular formation, which is a relay centre connecting the hindbrain with the forebrain. It is very important in screening input information before it reaches higher brain centres.",
       "difficulty": "moderate",
-      "learning_outcome": "Explain the major divisions of the brain including brain stem components, midbrain, cerebellum, and cerebrum"
+      "learning_outcome": "Understand the role of the midbrain and reticular formation in sensory processing."
+    },
+    {
+      "mcq_id": "BIO-05-03-MCQ-05",
+      "topic_id": "BIO-05-03",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "The cerebellum is crucial for coordinating smooth and accurate body movements. In which group of animals is the cerebellum best developed due to their complex physical activities?",
+      "options": [
+        "Amphibians",
+        "Reptiles",
+        "Birds",
+        "Mammals"
+      ],
+      "correct_answer": 2,
+      "explanation": "The cerebellum is important in co-ordinating movements of the body, guiding smooth and accurate motions, and maintaining body position. It is best developed in birds, which are engaged in the complex activity of flight.",
+      "difficulty": "moderate",
+      "learning_outcome": "Relate the development of specific brain regions to the evolutionary adaptations of different animal groups."
+    },
+    {
+      "mcq_id": "BIO-05-03-MCQ-06",
+      "topic_id": "BIO-05-03",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "The cerebral cortex is divided into four main lobes, each with specific functions. Which lobe is primarily concerned with receiving and analyzing visual information?",
+      "options": [
+        "Frontal lobe",
+        "Parietal lobe",
+        "Occipital lobe",
+        "Temporal lobe"
+      ],
+      "correct_answer": 2,
+      "explanation": "The cerebral cortex is divided into four lobes. The occipital lobe specifically receives and analyzes visual information, while the temporal is for hearing/smell, parietal for skin impulses, and frontal for motor functions and speech.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the major lobes of the cerebral cortex and their primary functions."
+    },
+    {
+      "mcq_id": "BIO-05-03-MCQ-07",
+      "topic_id": "BIO-05-03",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Which specific part of the limbic system plays an essential role in learning and the formation of long-term memories?",
+      "options": [
+        "Thalamus",
+        "Hypothalamus",
+        "Amygdala",
+        "Hippocampus"
+      ],
+      "correct_answer": 3,
+      "explanation": "The hippocampus plays an important role in the formation of long-term memory, and thus is required for learning. People with a damaged hippocampus cannot remember things that occurred after the damage.",
+      "difficulty": "moderate",
+      "learning_outcome": "Identify the function of the hippocampus in memory and learning."
+    },
+    {
+      "mcq_id": "BIO-05-03-MCQ-08",
+      "topic_id": "BIO-05-03",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Which part of the hindbrain, located above the medulla, specifically influences the transitions between sleep and wakefulness, as well as the rate and pattern of breathing?",
+      "options": [
+        "Cerebellum",
+        "Pons",
+        "Thalamus",
+        "Corpus callosum"
+      ],
+      "correct_answer": 1,
+      "explanation": "The pons is present on top of the medulla. Certain neurons in the pons appear to influence transitions between sleep and wakefulness, and the rate and pattern of breathing.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the physiological functions controlled by the pons in the hindbrain."
+    },
+    {
+      "mcq_id": "BIO-05-03-MCQ-09",
+      "topic_id": "BIO-05-03",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "The outer layer of the cerebrum, known as the cerebral cortex, is primarily composed of grey matter. What are the microscopic components that make up this grey matter?",
+      "options": [
+        "Myelinated axons",
+        "Cell bodies and non-myelinated axons",
+        "Cerebrospinal fluid",
+        "Sensory ganglia"
+      ],
+      "correct_answer": 1,
+      "explanation": "The cerebral cortex consists of grey matter. The grey matter of the nervous system consists of cell bodies and non-myelinated axons. Beneath this layer is the white matter, which consists of myelinated axons.",
+      "difficulty": "hard",
+      "learning_outcome": "Differentiate between the composition of grey matter and white matter in the brain."
+    },
+    {
+      "mcq_id": "BIO-05-03-MCQ-10",
+      "topic_id": "BIO-05-03",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Which part of the forebrain acts as a major coordinating centre that controls body temperature, water balance, and the menstrual cycle, while also linking the nervous and endocrine systems?",
+      "options": [
+        "Thalamus",
+        "Hypothalamus",
+        "Cerebrum",
+        "Medulla oblongata"
+      ],
+      "correct_answer": 1,
+      "explanation": "The hypothalamus, through its hormone production and neural connections, acts as a major co-ordinating centre controlling body temperature, the menstrual cycle, water balance, the sleep-wake cycle, and links the nervous system to the endocrine system.",
+      "difficulty": "moderate",
+      "learning_outcome": "Explain the role of the hypothalamus in homeostasis and endocrine coordination."
     }
   ]
 }
