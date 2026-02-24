@@ -3,22 +3,22 @@
   "topic_name": "Viruses",
   "unit_id": "BIO-01",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-01-01-MCQ-01",
       "topic_id": "BIO-01-01",
       "unit_id": "BIO-01",
       "subject_id": "BIO",
-      "question": "Which of the following characteristics is used to classify viruses?",
+      "question": "Which of the following viruses is correctly categorized as having a single-stranded DNA (ssDNA) genome?",
       "options": [
-        "Cell wall composition",
-        "Type and number of nucleic acid strands",
-        "Presence of mitochondria",
-        "Mode of photosynthesis"
+        "Adenovirus",
+        "Herpesvirus",
+        "Parvovirus",
+        "Rotavirus"
       ],
-      "correct_answer": 1,
-      "explanation": "Viruses are classified based on their structural characteristics including the type of nucleic acid (DNA or RNA) and whether it is single-stranded or double-stranded. Viruses do not have cell walls, mitochondria, or perform photosynthesis as they are acellular.",
+      "correct_answer": 2,
+      "explanation": "Parvoviruses are classified as DNA viruses that specifically contain single-stranded DNA (ssDNA) as their genetic material, and they are known to cause gastroenteritis. Adenoviruses and Herpesviruses are double-stranded DNA (dsDNA) viruses, while Rotaviruses are double-stranded RNA (dsRNA) viruses.",
       "difficulty": "moderate",
       "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
     },
@@ -27,15 +27,151 @@
       "topic_id": "BIO-01-01",
       "unit_id": "BIO-01",
       "subject_id": "BIO",
-      "question": "Bacteriophages are viruses that specifically infect:",
+      "question": "Based on morphological classification, how are the Tobacco mosaic virus and Rabies virus categorized?",
       "options": [
-        "Plant cells",
-        "Animal cells",
-        "Bacterial cells",
-        "Fungal cells"
+        "Icosahedral viruses",
+        "Complex viruses",
+        "Helical viruses",
+        "Enveloped viruses"
       ],
       "correct_answer": 2,
-      "explanation": "Bacteriophages (or phages) are viruses that specifically infect and replicate within bacterial cells. The classification of viruses by host organisms is one method of categorization.",
+      "explanation": "According to classification based on morphology, helical viruses have a capsid with a helical structure surrounding the nucleic acid. Both Tobacco mosaic virus and Rabies virus are examples of helical viruses.",
+      "difficulty": "easy",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    },
+    {
+      "mcq_id": "BIO-01-01-MCQ-03",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Which of the following combinations of structural and replicative characteristics accurately describes the Poliovirus?",
+      "options": [
+        "Enveloped dsDNA virus",
+        "Non-enveloped positive-sense RNA virus",
+        "Enveloped negative-sense RNA virus",
+        "Complex dsRNA virus"
+      ],
+      "correct_answer": 1,
+      "explanation": "Poliovirus is a non-enveloped (naked) virus, meaning it lacks an outer lipid envelope and consists only of a capsid enclosing the nucleic acid. Furthermore, it is classified as a Positive-Sense RNA virus, meaning its RNA genome is directly translated into proteins by the host cell's ribosomes.",
+      "difficulty": "hard",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    },
+    {
+      "mcq_id": "BIO-01-01-MCQ-04",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "The Human Immunodeficiency Virus (HIV) belongs to a group of viruses called retroviruses. What distinguishing feature characterizes its replication strategy?",
+      "options": [
+        "It translates its RNA genome directly into proteins.",
+        "It transcribes its RNA genome into mRNA using viral RNA polymerase.",
+        "It replicates through a DNA intermediate using reverse transcriptase.",
+        "It relies completely on the host cell's DNA polymerase for primary replication."
+      ],
+      "correct_answer": 2,
+      "explanation": "HIV is a reverse transcribing virus. Its most distinguishing characteristic is the presence of a specific enzyme, reverse transcriptase, which allows the virus to replicate through a DNA intermediate by reversely transcribing its single-stranded RNA into a strand of DNA.",
+      "difficulty": "moderate",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    },
+    {
+      "mcq_id": "BIO-01-01-MCQ-05",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "A virologist isolates a virus and determines that its capsid is composed of exactly 252 capsomeres. Which virus is this most likely to be, and what disease is it commonly associated with?",
+      "options": [
+        "Herpes virus causing cold sores",
+        "Adenovirus causing the common cold",
+        "Parvovirus causing gastroenteritis",
+        "Rotavirus causing gastroenteritis"
+      ],
+      "correct_answer": 1,
+      "explanation": "The number and kind of capsomeres are characteristic of particular viruses. The Adenovirus, which causes the common cold, contains exactly 252 capsomeres in its capsid. In contrast, the Herpes virus contains 162 capsomeres.",
+      "difficulty": "hard",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    },
+    {
+      "mcq_id": "BIO-01-01-MCQ-06",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "The Sulfolobus spindle-shaped virus is categorized based on its specific host range. Which domain of life does this virus infect?",
+      "options": [
+        "Plantae",
+        "Animalia",
+        "Bacteria",
+        "Archaea"
+      ],
+      "correct_answer": 3,
+      "explanation": "Viruses can be classified based on their host range. The Sulfolobus spindle-shaped virus is an example of an Archaea Virus, meaning it specifically infects organisms belonging to the domain archaea.",
+      "difficulty": "moderate",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    },
+    {
+      "mcq_id": "BIO-01-01-MCQ-07",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Which of the following viruses contains double-stranded RNA (dsRNA) as its genetic material and is a known cause of gastroenteritis?",
+      "options": [
+        "Rotavirus",
+        "Influenza virus",
+        "Parvovirus",
+        "Coronavirus"
+      ],
+      "correct_answer": 0,
+      "explanation": "Rotaviruses are classified as double-stranded RNA (dsRNA) viruses, and they are associated with causing gastroenteritis. Influenza and Coronaviruses are single-stranded RNA (ssRNA) viruses, while Parvovirus is a single-stranded DNA (ssDNA) virus.",
+      "difficulty": "moderate",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    },
+    {
+      "mcq_id": "BIO-01-01-MCQ-08",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Which of the following options correctly matches a virus with its structural morphology?",
+      "options": [
+        "Adenovirus - Helical",
+        "Human Immunodeficiency Virus (HIV) - Complex",
+        "Bacteriophage T4 - Complex",
+        "Rabies virus - Icosahedral"
+      ],
+      "correct_answer": 2,
+      "explanation": "Bacteriophages, such as the T4 phage, have a complex structure with a combination of icosahedral and helical features (polyhedral head and rod-shaped tail), placing them in the 'Complex Viruses' morphological category. Adenovirus is icosahedral, Rabies is helical, and HIV is an enveloped virus.",
+      "difficulty": "moderate",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    },
+    {
+      "mcq_id": "BIO-01-01-MCQ-09",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "In negative-sense RNA viruses, the RNA genome must be transcribed into mRNA by a viral RNA polymerase before translation can occur. Which of the following pairs are examples of negative-sense RNA viruses?",
+      "options": [
+        "Poliovirus and Hepatitis C virus",
+        "Rabies virus and Ebola virus",
+        "Human Immunodeficiency Virus (HIV) and Hepatitis B virus",
+        "Coronaviruses and Influenza viruses"
+      ],
+      "correct_answer": 1,
+      "explanation": "Rabies virus and Ebola virus are both classified as Negative-Sense RNA viruses because their RNA genome must first be transcribed into mRNA before translation. Poliovirus and Hepatitis C are positive-sense, while HIV is a reverse-transcribing virus.",
+      "difficulty": "hard",
+      "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
+    },
+    {
+      "mcq_id": "BIO-01-01-MCQ-10",
+      "topic_id": "BIO-01-01",
+      "unit_id": "BIO-01",
+      "subject_id": "BIO",
+      "question": "Enveloped viruses possess an outer lipid envelope derived from the host cell membrane that surrounds their capsid. Which of the following is an example of an enveloped virus?",
+      "options": [
+        "Adenovirus",
+        "Poliovirus",
+        "Tobacco mosaic virus",
+        "Influenza virus"
+      ],
+      "correct_answer": 3,
+      "explanation": "The Influenza virus, along with HIV, is an example of an enveloped virus, meaning it has an outer lipid envelope derived from the host cell membrane. Adenovirus and Poliovirus are non-enveloped (naked) viruses, and Tobacco mosaic virus is a helical plant virus.",
       "difficulty": "easy",
       "learning_outcome": "Categorize viruses based on their structural characteristics, strand composition, associated diseases, and host organisms"
     }
