@@ -3,41 +3,177 @@
   "topic_name": "Biological Molecules",
   "unit_id": "BIO-03",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-03-01-MCQ-01",
       "topic_id": "BIO-03-01",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 1 related to Biological Molecules",
+      "question": "Water acts as a temperature stabilizer for organisms due to its high specific heat capacity. What is the specific heat capacity of water required to raise the temperature of 1 gram of water from 15°C to 16°C?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "1.000 Joules",
+        "2.184 Joules",
+        "4.184 Joules",
+        "5.740 Joules"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Provide definitions and classification schemes for biological molecules",
-      "difficulty": "moderate",
-      "learning_outcome": "Provide definitions and classification schemes for biological molecules"
+      "correct_answer": 2,
+      "explanation": "Specific heat capacity is the amount of heat required to raise the temperature of 1 gram of a substance by 1°C. For water, this value is 4.184 Joules, which gives it a great ability to absorb and release heat with minimal change in its own temperature.",
+      "difficulty": "hard",
+      "learning_outcome": "Recognize the properties of water that make it essential for life."
     },
     {
       "mcq_id": "BIO-03-01-MCQ-02",
       "topic_id": "BIO-03-01",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 2 related to Biological Molecules",
+      "question": "Glucose and galactose are stereoisomers. They have the same molecular formula but differ specifically in the orientation of the hydroxyl (-OH) group at which carbon atom?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Carbon number 1",
+        "Carbon number 2",
+        "Carbon number 3",
+        "Carbon number 4"
+      ],
+      "correct_answer": 3,
+      "explanation": "Glucose and galactose are stereoisomers because they have a difference in the orientation of one hydroxyl (OH) group specifically located at carbon number 4.",
+      "difficulty": "moderate",
+      "learning_outcome": "Distinguish between the structural features of different monosaccharides."
+    },
+    {
+      "mcq_id": "BIO-03-01-MCQ-03",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "When fructose goes into solution, it forms a five-cornered ring structure. Which carbon atoms are connected by the oxygen-bridge to form this ring?",
+      "options": [
+        "Carbon number 1 and 4",
+        "Carbon number 1 and 5",
+        "Carbon number 2 and 5",
+        "Carbon number 1 and 6"
+      ],
+      "correct_answer": 2,
+      "explanation": "In fructose, ring formation occurs when an oxygen-bridge is formed between carbon number 2 and carbon number 5, resulting in a five-cornered ring.",
+      "difficulty": "hard",
+      "learning_outcome": "Identify the ring structures formed by common monosaccharides in solution."
+    },
+    {
+      "mcq_id": "BIO-03-01-MCQ-04",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Proteins are classified into fibrous and globular proteins based on their structure and function. Which of the following characteristics accurately describes fibrous proteins?",
+      "options": [
+        "They are spherical or ellipsoidal in shape.",
+        "They are easily soluble in aqueous alcohol or salt solutions.",
+        "They are non-crystalline, elastic, and play a structural role.",
+        "They are easily disorganized with changes in the environment."
+      ],
+      "correct_answer": 2,
+      "explanation": "Fibrous proteins consist of primary or secondary structures in the form of fibrils. They play structural roles (e.g., collagen, keratin, silk fibre), are non-crystalline and elastic, and are insoluble in aqueous solutions.",
+      "difficulty": "moderate",
+      "learning_outcome": "Classify proteins based on their structural characteristics and roles."
+    },
+    {
+      "mcq_id": "BIO-03-01-MCQ-05",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which of the following statements correctly differentiates saturated fatty acids from unsaturated fatty acids?",
+      "options": [
+        "Saturated fatty acids have bent chains and low melting points.",
+        "Saturated fatty acids possess one or more double bonds.",
+        "Unsaturated fatty acids form straight chains with high melting points.",
+        "Saturated fatty acids contain no double bonds and have high melting points."
+      ],
+      "correct_answer": 3,
+      "explanation": "Saturated fatty acids contain no double bonds in their hydrocarbon chain, allowing them to form straight chains with high melting points. Unsaturated fatty acids have double bonds, form bent chains, and have lower melting points.",
+      "difficulty": "moderate",
+      "learning_outcome": "Compare the chemical properties of saturated and unsaturated fatty acids."
+    },
+    {
+      "mcq_id": "BIO-03-01-MCQ-06",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Phospholipids are structural components of plasma membranes and are derivatives of phosphatidic acid. What are the specific components that make up a molecule of phosphatidic acid?",
+      "options": [
+        "One glycerol, three fatty acids, and one nitrogenous base",
+        "One glycerol, two fatty acids, and one phosphoric acid",
+        "Two glycerols, one fatty acid, and one phosphoric acid",
+        "One glycerol, two fatty acids, and a steroid ring"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Provide definitions and classification schemes for biological molecules",
+      "explanation": "Phosphatidic acid is composed of one glycerol molecule, two fatty acids, and one phosphoric acid (phosphate group). A phospholipid is formed when a nitrogenous base attaches to this phosphoric acid.",
+      "difficulty": "hard",
+      "learning_outcome": "Describe the chemical composition and structure of phospholipids."
+    },
+    {
+      "mcq_id": "BIO-03-01-MCQ-07",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Terpenes form a diverse group of lipids that include biologically important pigments such as chlorophyll and retinal pigments. What is the fundamental building block of all terpenes?",
+      "options": [
+        "Monosaccharides",
+        "Acylglycerols",
+        "Isoprene units",
+        "Amino acids"
+      ],
+      "correct_answer": 2,
+      "explanation": "All terpenes are made of isoprene units. An isoprene unit is a branched unsaturated hydrocarbon chain with the formula CH2=C(CH3)-CH=CH2.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify the building blocks of different classes of lipids."
+    },
+    {
+      "mcq_id": "BIO-03-01-MCQ-08",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "In the structural formation of a nucleotide, where does the phosphoric acid develop an ester linkage with the pentose sugar?",
+      "options": [
+        "At carbon-1 (C-1) of the pentose sugar",
+        "At carbon-2 (C-2) of the pentose sugar",
+        "At carbon-3 (C-3) of the pentose sugar",
+        "At carbon-5 (C-5) of the pentose sugar"
+      ],
+      "correct_answer": 3,
+      "explanation": "A nucleotide is made up of a nucleoside and phosphoric acid. The phosphoric acid develops an ester linkage with carbon-5 (C-5) of the pentose sugar.",
       "difficulty": "moderate",
-      "learning_outcome": "Provide definitions and classification schemes for biological molecules"
+      "learning_outcome": "Explain the molecular structure and linkages within a nucleotide."
+    },
+    {
+      "mcq_id": "BIO-03-01-MCQ-09",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Nucleic acids contain two types of nitrogenous bases: pyrimidines and purines. Which of the following correctly describes their structural difference and members?",
+      "options": [
+        "Pyrimidines are double-ringed bases including Adenine and Guanine.",
+        "Purines are single-ringed bases including Cytosine and Thymine.",
+        "Pyrimidines are single-ringed bases including Cytosine, Thymine, and Uracil.",
+        "Purines are double-ringed bases including Uracil and Adenine."
+      ],
+      "correct_answer": 2,
+      "explanation": "Pyrimidines are single-ringed nitrogenous bases that include Cytosine (C), Thymine (T), and Uracil (U). Purines are double-ringed nitrogenous bases that include Adenine (A) and Guanine (G).",
+      "difficulty": "easy",
+      "learning_outcome": "Differentiate between the structural categories of nitrogenous bases."
+    },
+    {
+      "mcq_id": "BIO-03-01-MCQ-10",
+      "topic_id": "BIO-03-01",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Water undergoes a reversible ionization process. At normal room temperature (25°C), what is the concentration of hydrogen ions (H+) and hydroxyl ions (OH-) maintained in pure water?",
+      "options": [
+        "10^-4 moles/litre",
+        "10^-7 moles/litre",
+        "10^-10 moles/litre",
+        "10^-14 moles/litre"
+      ],
+      "correct_answer": 1,
+      "explanation": "At room temperature (25°C), in a litre of water, one molecule out of each 550 million is ionized. Thus, the concentration of both H+ and OH- ions in pure water remains at exactly 10^-7 moles/litre.",
+      "difficulty": "hard",
+      "learning_outcome": "Understand the ionization of water and its resultant ion concentrations."
     }
   ]
 }
