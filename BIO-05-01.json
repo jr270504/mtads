@@ -3,41 +3,177 @@
   "topic_name": "Receptors",
   "unit_id": "BIO-05",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-05-01-MCQ-01",
       "topic_id": "BIO-05-01",
       "unit_id": "BIO-05",
       "subject_id": "BIO",
-      "question": "Question 1 related to Receptors",
+      "question": "Which type of sensory receptors is specifically responsible for detecting changes in blood CO2, oxygen, glucose, and amino acid levels?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Photoreceptors",
+        "Mechanoreceptors",
+        "Chemoreceptors",
+        "Nociceptors"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Identify receptors as transducers that respond to diverse stimuli",
-      "difficulty": "moderate",
-      "learning_outcome": "Identify receptors as transducers that respond to diverse stimuli"
+      "correct_answer": 2,
+      "explanation": "Chemoreceptors detect smell, taste, and the concentrations of substances like blood CO2, oxygen, glucose, amino acids, and fatty acids. Examples include specific receptors located in the hypothalamus.",
+      "difficulty": "easy",
+      "learning_outcome": "Classify receptors based on the type of stimuli they detect."
     },
     {
       "mcq_id": "BIO-05-01-MCQ-02",
       "topic_id": "BIO-05-01",
       "unit_id": "BIO-05",
       "subject_id": "BIO",
-      "question": "Question 2 related to Receptors",
+      "question": "What is the specific function of nociceptors in the nervous system?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "They detect stimuli of pressure and equilibrium.",
+        "They are undifferentiated endings that produce the sensation of pain.",
+        "They respond to electromagnetic stimuli such as light.",
+        "They regulate internal body temperature by detecting heat and cold."
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Identify receptors as transducers that respond to diverse stimuli",
+      "explanation": "Nociceptors are undifferentiated nerve endings that specifically produce the sensation of pain in response to potentially damaging stimuli.",
       "difficulty": "moderate",
-      "learning_outcome": "Identify receptors as transducers that respond to diverse stimuli"
+      "learning_outcome": "Identify the functions of different types of sensory receptors."
+    },
+    {
+      "mcq_id": "BIO-05-01-MCQ-03",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Which encapsulated receptors, located in the papillae that extend into the ridges of the fingertips, are responsible for the sensation of touch?",
+      "options": [
+        "Pacinian corpuscles",
+        "Hair end organs",
+        "Meissner's corpuscles",
+        "Thermoreceptors"
+      ],
+      "correct_answer": 2,
+      "explanation": "Meissner's corpuscles are encapsulated nerve endings that lie in papillae extending into the ridges of the fingertips. They consist of spiral, twisted endings terminating in a knob, and act specifically as touch receptors.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the structure and location of specific skin receptors."
+    },
+    {
+      "mcq_id": "BIO-05-01-MCQ-04",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Pacinian corpuscles are sensory receptors situated deep in the body. What specific type of stimulus do they receive to form a basis for the vibration sense?",
+      "options": [
+        "Superficial touch",
+        "Deep pressure",
+        "Cold temperatures",
+        "Chemical changes"
+      ],
+      "correct_answer": 1,
+      "explanation": "Pacinian corpuscles are encapsulated neuron endings situated quite deep in the body. They receive deep pressure stimuli and are believed to form a basis for the vibration sense.",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand the role of Pacinian corpuscles in sensory perception."
+    },
+    {
+      "mcq_id": "BIO-05-01-MCQ-05",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Sensory receptors are not evenly distributed across the human body and vary in relative abundance. According to their relative abundance, which of the following statements is true?",
+      "options": [
+        "Cold receptors are 27 times more abundant than pain receptors.",
+        "Heat receptors are the most abundant receptors in the skin.",
+        "Pain receptors are nearly 27 times more abundant than cold receptors.",
+        "Pain receptors and cold receptors are evenly distributed across the entire skin surface."
+      ],
+      "correct_answer": 2,
+      "explanation": "The relative abundance of various types of receptors differs greatly. Pain receptors are nearly 27 times more abundant than cold receptors, while cold receptors are nearly 10 times more abundant than heat or temperature receptors.",
+      "difficulty": "hard",
+      "learning_outcome": "Analyze the relative abundance and distribution of sensory receptors in the skin."
+    },
+    {
+      "mcq_id": "BIO-05-01-MCQ-06",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "How does the central nervous system (CNS) primarily differentiate the intensity of a received stimulus?",
+      "options": [
+        "By the amplitude of a single nerve impulse",
+        "By transmitting the stimulus through repeated impulses or using more nerve fibres",
+        "By slowing down the speed of the nerve impulse",
+        "By converting the nerve impulse into a chemical hormone"
+      ],
+      "correct_answer": 1,
+      "explanation": "The intensity of a stimulus received is either transmitted to the CNS in the form of repeated impulses or by more nerve fibres simultaneously carrying the impulse.",
+      "difficulty": "moderate",
+      "learning_outcome": "Explain how the nervous system interprets stimulus intensity."
+    },
+    {
+      "mcq_id": "BIO-05-01-MCQ-07",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Which specific receptors are located in the stomach wall and are concerned with the arousal of 'hunger'?",
+      "options": [
+        "Stretch receptors",
+        "Photoreceptors",
+        "Pacinian corpuscles",
+        "Nociceptors"
+      ],
+      "correct_answer": 0,
+      "explanation": "There are many receptors that respond to the mechanical conditions of internal organs. Stretch receptors in the stomach wall are specifically concerned with the arousal of 'hunger'.",
+      "difficulty": "easy",
+      "learning_outcome": "Identify internal mechanoreceptors and their physiological roles."
+    },
+    {
+      "mcq_id": "BIO-05-01-MCQ-08",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "In terrestrial vertebrates, the detection of vibrations of the ground is primarily achieved by sensory receptors located in which specific part of the body?",
+      "options": [
+        "Ear drums",
+        "Finger tips",
+        "Joints",
+        "Hypothalamus"
+      ],
+      "correct_answer": 2,
+      "explanation": "The detection of vibrations of the ground by terrestrial vertebrates is probably achieved by specific receptors located within their joints.",
+      "difficulty": "hard",
+      "learning_outcome": "Recognize specialized receptor adaptations in different vertebrate groups."
+    },
+    {
+      "mcq_id": "BIO-05-01-MCQ-09",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Which of the following sets of stimuli is exclusively detected by mechanoreceptors?",
+      "options": [
+        "Light and temperature",
+        "Touch, pressure, hearing, and equilibrium",
+        "Smell, taste, and blood oxygen levels",
+        "Pain and cold sensations"
+      ],
+      "correct_answer": 1,
+      "explanation": "Mechanoreceptors are specialized to detect mechanical stimuli, which include touch, pressure, hearing, and equilibrium. Examples include free nerve endings and expanded tip endings.",
+      "difficulty": "moderate",
+      "learning_outcome": "Classify receptors based on the type of stimuli they detect."
+    },
+    {
+      "mcq_id": "BIO-05-01-MCQ-10",
+      "topic_id": "BIO-05-01",
+      "unit_id": "BIO-05",
+      "subject_id": "BIO",
+      "question": "Each nerve tract from a receptor terminates at a specific point in the Central Nervous System (CNS). How is the type of sensation (modality) ultimately determined by the brain?",
+      "options": [
+        "By the specific point in the CNS to which the nerve fibre leads.",
+        "By the specific chemical neurotransmitter released at the receptor ending.",
+        "By the size and shape of the sensory neuron.",
+        "By the magnitude of the action potential generated."
+      ],
+      "correct_answer": 0,
+      "explanation": "The type of sensation is determined by the specific point in the nervous system to which the fibre leads. For example, a touch stimulus is carried by a nerve impulse to the 'touch' area of the brain, whereas fibers from the retina terminate in the visual cortex.",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand the central processing of different sensory modalities."
     }
   ]
 }
