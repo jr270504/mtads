@@ -3,41 +3,177 @@
   "topic_name": "Lipids",
   "unit_id": "BIO-03",
   "subject_id": "BIO",
-  "total_mcqs": 2,
+  "total_mcqs": 10,
   "mcqs": [
     {
       "mcq_id": "BIO-03-05-MCQ-01",
       "topic_id": "BIO-03-05",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 1 related to Lipids",
+      "question": "Lipids act as highly efficient energy-storage molecules in living organisms. How much energy is provided by one gram of lipids compared to carbohydrates?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "4.1 kilocalories",
+        "5.6 kilocalories",
+        "9.5 kilocalories",
+        "14.6 kilocalories"
       ],
-      "correct_answer": 0,
-      "explanation": "This question tests understanding of Characterize lipids including phospholipids, triglycerides, and esters such as acylglycerol",
-      "difficulty": "moderate",
-      "learning_outcome": "Characterize lipids including phospholipids, triglycerides, and esters such as acylglycerol"
+      "correct_answer": 2,
+      "explanation": "Lipids are the most energy-rich of all nutrients due to their high number of C-H bonds. One gram of lipids provides 9.5 kilocalories of energy, which is more than double the 4.1 kilocalories provided by the same amount of carbohydrates.",
+      "difficulty": "easy",
+      "learning_outcome": "Recognize the energetic value and biological role of lipids compared to other macromolecules."
     },
     {
       "mcq_id": "BIO-03-05-MCQ-02",
       "topic_id": "BIO-03-05",
       "unit_id": "BIO-03",
       "subject_id": "BIO",
-      "question": "Question 2 related to Lipids",
+      "question": "Chemically, waxes are complex, highly hydrophobic mixtures that do not have a well-defined structure. Which of the following is a characteristic structural component of natural waxes?",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Isoprene units with branched unsaturated hydrocarbon chains",
+        "Long chain alkanes with an odd number of carbon atoms ranging from 25 to 35",
+        "Four fused carbon rings including three 6-cornered rings",
+        "Phosphatidic acid attached to a nitrogenous base"
       ],
       "correct_answer": 1,
-      "explanation": "This question tests understanding of Characterize lipids including phospholipids, triglycerides, and esters such as acylglycerol",
+      "explanation": "Waxes are mixtures that typically consist of long chain alkanes having an odd number of carbon atoms (from 25 to 35), along with alcohols, ketones, and long-chain fatty acids.",
+      "difficulty": "hard",
+      "learning_outcome": "Identify the chemical composition and physical properties of waxes."
+    },
+    {
+      "mcq_id": "BIO-03-05-MCQ-03",
+      "topic_id": "BIO-03-05",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which specific class of lipids is built entirely from repeating isoprene units and includes biologically important pigments such as plant chlorophyll and animal retinal pigments?",
+      "options": [
+        "Steroids",
+        "Phospholipids",
+        "Prostaglandins",
+        "Terpenes"
+      ],
+      "correct_answer": 3,
+      "explanation": "Terpenes are a very large and diverse group of lipids that are entirely made up of isoprene units. They form many biologically important molecules including chlorophyll, retinal pigments, Vitamin A, and rubber.",
       "difficulty": "moderate",
-      "learning_outcome": "Characterize lipids including phospholipids, triglycerides, and esters such as acylglycerol"
+      "learning_outcome": "Classify lipid types based on their building blocks and biological examples."
+    },
+    {
+      "mcq_id": "BIO-03-05-MCQ-04",
+      "topic_id": "BIO-03-05",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Phospholipids are structural components of plasma membranes. Structurally, what are the components of the 'polar head' of a phospholipid molecule?",
+      "options": [
+        "Two fatty acid chains and a glycerol molecule",
+        "A nitrogenous base and a phosphate group",
+        "A five-carbon ring attached to an aliphatic tail",
+        "Three 6-cornered rings and one 5-cornered ring"
+      ],
+      "correct_answer": 1,
+      "explanation": "A phospholipid molecule has two distinct parts: a head and a tail. The head is hydrophilic (polar) and contains a nitrogenous base along with a phosphate group, while the tail is non-polar and contains two fatty acids.",
+      "difficulty": "moderate",
+      "learning_outcome": "Describe the structural organization of phospholipids and its significance in membranes."
+    },
+    {
+      "mcq_id": "BIO-03-05-MCQ-05",
+      "topic_id": "BIO-03-05",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which of the following statements accurately distinguishes saturated fatty acids from unsaturated fatty acids?",
+      "options": [
+        "Saturated fatty acids contain double bonds, form bent chains, and have low melting points.",
+        "Saturated fatty acids contain no double bonds, make straight chains, and have high melting points.",
+        "Unsaturated fatty acids contain the maximum number of hydrogen atoms and have high melting points.",
+        "Saturated fatty acids are found primarily in plant oils rather than animal fats."
+      ],
+      "correct_answer": 1,
+      "explanation": "Saturated fatty acids contain no double bonds in their hydrocarbon chain, meaning all internal carbons have hydrogen side-groups. This allows them to form straight chains with high melting points. In contrast, unsaturated fatty acids have double bonds, form bent chains, and have low melting points.",
+      "difficulty": "moderate",
+      "learning_outcome": "Differentiate between the structure and physical properties of saturated and unsaturated fatty acids."
+    },
+    {
+      "mcq_id": "BIO-03-05-MCQ-06",
+      "topic_id": "BIO-03-05",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Steroids are complex lipids that perform a wide range of biological functions, including acting as precursors for hormones. What is the fundamental ring pattern that defines the carbon skeleton of all steroids?",
+      "options": [
+        "Two 6-cornered rings and two 5-cornered rings",
+        "Three 6-cornered rings and one 5-cornered ring",
+        "Four 6-cornered fused rings",
+        "One 6-cornered ring and three 5-cornered rings"
+      ],
+      "correct_answer": 1,
+      "explanation": "All steroids share the exact same skeletal ring pattern, which consists of four fused rings: specifically, three 6-cornered rings and one 5-cornered ring.",
+      "difficulty": "hard",
+      "learning_outcome": "Identify the basic molecular structure that characterizes steroid lipids."
+    },
+    {
+      "mcq_id": "BIO-03-05-MCQ-07",
+      "topic_id": "BIO-03-05",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Which specific group of lipids acts as local chemical messengers that stimulate smooth muscles to contract, regulate blood vessel diameter, and participate in the inflammatory response?",
+      "options": [
+        "Prostaglandins",
+        "Terpenes",
+        "Waxes",
+        "Triacylglycerols"
+      ],
+      "correct_answer": 0,
+      "explanation": "Prostaglandins are a group of modified fatty acids containing a five-carbon ring. They function as local chemical messengers in vertebrate tissues to mediate various responses such as smooth muscle contraction, blood vessel dilation/constriction, and inflammation.",
+      "difficulty": "easy",
+      "learning_outcome": "Recognize the biological roles of specific lipid derivatives like prostaglandins."
+    },
+    {
+      "mcq_id": "BIO-03-05-MCQ-08",
+      "topic_id": "BIO-03-05",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Acylglycerols are formed through a dehydration synthesis reaction between glycerol and fatty acids. Which type of chemical linkage is formed between the glycerol and fatty acid during this process?",
+      "options": [
+        "Glycosidic bond",
+        "Peptide bond",
+        "Ester bond",
+        "Phosphodiester bond"
+      ],
+      "correct_answer": 2,
+      "explanation": "Chemically, acylglycerols are esters of fatty acids and alcohol. They are synthesized via a dehydration synthesis reaction where an OH group is released from the alcohol (glycerol) and an H from the acid (fatty acid), forming an ester bond.",
+      "difficulty": "moderate",
+      "learning_outcome": "Understand the chemical reactions and bonds involved in the synthesis of acylglycerols."
+    },
+    {
+      "mcq_id": "BIO-03-05-MCQ-09",
+      "topic_id": "BIO-03-05",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Phosphatidic acid is a critical precursor molecule in the synthesis of all phospholipids. What are the exact structural sub-components that make up one molecule of phosphatidic acid?",
+      "options": [
+        "One glycerol and three fatty acids",
+        "One glycerol, two fatty acids, and one phosphoric acid",
+        "Two glycerols, one fatty acid, and a nitrogenous base",
+        "One glycerol, one fatty acid, and two phosphoric acids"
+      ],
+      "correct_answer": 1,
+      "explanation": "Phosphatidic acid is composed of one glycerol molecule, two fatty acids, and one phosphoric acid (phosphate group). When a nitrogenous base attaches to this phosphoric acid, it forms a complete phospholipid.",
+      "difficulty": "hard",
+      "learning_outcome": "Identify the structural precursors and chemical composition of phospholipids."
+    },
+    {
+      "mcq_id": "BIO-03-05-MCQ-10",
+      "topic_id": "BIO-03-05",
+      "unit_id": "BIO-03",
+      "subject_id": "BIO",
+      "question": "Regarding the physical properties of fatty acids, how do the solubility in organic solvents and the melting point change as the number of carbon atoms in the hydrocarbon chain increases?",
+      "options": [
+        "Both solubility in organic solvents and melting point decrease.",
+        "Solubility in water increases while the melting point decreases.",
+        "Both solubility in organic solvents and melting point increase.",
+        "The melting point remains constant regardless of the carbon chain length."
+      ],
+      "correct_answer": 2,
+      "explanation": "According to their chemical characteristics, both the solubility of fatty acids in organic solvents and their melting points increase simultaneously with an increasing number of carbon atoms in their hydrocarbon chains.",
+      "difficulty": "moderate",
+      "learning_outcome": "Correlate the carbon chain length of fatty acids with their physical properties."
     }
   ]
 }
